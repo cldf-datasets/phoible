@@ -1,0 +1,1673 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code
+kor,Korean,,37.5,128.0,kore1280,kor
+ket,Ket,,63.7551,87.5466,kett1243,ket
+lbe,Lak,,42.1328,47.0809,lakk1252,lbe
+kbd,Kabardian,,43.5082,43.3918,kaba1278,kbd
+kat,Nuclear Georgian,,39.3705,45.8066,nucl1302,kat
+bsk,Burushaski,,36.2161,74.8236,buru1296,bsk
+kru,Kurukh,,24.4644,86.4657,kuru1302,kru
+tel,Telugu,,16.4529,78.7024,telu1262,tel
+kfe,Kota (India),,11.4978,76.9387,kota1263,kfe
+unr,Mundari,,25.0391,87.1792,mund1320,unr
+khr,Kharia,,22.3571,84.3922,khar1287,khr
+kha,Khasi,,24.977,91.9998,khas1269,kha
+sed,Sedang,,14.7793,108.027,seda1262,sed
+khm,Central Khmer,,12.0515,105.015,cent1989,khm
+vie,Vietnamese,,18.3887,106.757,viet1252,vie
+cmn,Mandarin Chinese,,40.0209,116.228,mand1415,cmn
+wuu,Wu Chinese,,29.8621,119.682,wuch1236,wuu
+hak,Hakka Chinese,,25.0,116.0,hakk1236,hak
+yue,Yue Chinese,,23.0,113.0,yuec1235,yue
+ium,Iu Mien,,20.83,101.17,iumi1238,ium
+dap,Nisi (India),,27.3708,93.1284,nisi1239,dap
+mya,Nuclear Burmese,,20.7926,93.9665,nucl1310,mya
+lhu,Lahu,,21.2701,100.214,lahu1253,lhu
+grt,Garo,,25.2954,90.462,garo1247,grt
+ksw,S'gaw Karen,,17.9872,97.7126,sgaw1245,ksw
+lbc,Lakkia,,24.1169,110.106,lakk1238,lbc
+tha,Thai,,14.192,100.671,thai1261,tha
+pcc,Bouyei,,24.8484,106.187,bouy1240,pcc
+cja,Western Cham,,12.4771,104.026,west2650,cja
+tay,Atayal,,24.5209,121.388,atay1247,tay
+plt,Plateau Malagasy,,-19.5907,47.1211,plat1254,plt
+zsm,Standard Malay,,3.08896,101.699,stan1306,zsm
+btx,Batak Karo,,2.12787,98.2517,bata1293,btx
+snv,Sa'ban,,3.58723,115.664,saba1265,snv
+sun,Sundanese,,-6.89708,107.106,sund1252,sun
+jav,Javanese,,-0.572307,110.885,java1254,jav
+tgl,Tagalog,,14.06,121.747,taga1270,tgl
+cha,Chamorro,,14.3307,145.276,cham1312,cha
+iai,Iaai,,-20.6301,166.59,iaai1238,iai
+khl,Lusi,,-5.55033,149.148,lusi1240,khl
+adz,Adzera,,-6.39394,146.294,adze1240,adz
+mri,Maori,,-38.2881,176.541,maor1246,mri
+haw,Hawaiian,,19.6297,-155.43,hawa1245,haw
+ant,Antakarinya,,-27.1152,134.838,anta1253,ant
+nna,Nyangumarta,,-20.6271,121.391,nyan1301,nna
+kjn,Kunjen,,-16.6807,143.53,kunj1245,kjn
+zmr,Maranunggu,,-13.6754,130.12,mara1386,zmr
+mph,Maung,,-11.8393,133.185,maun1240,mph
+nuy,Nunggubuyu,,-14.2623,135.753,nung1290,nuy
+alh,Alawa,,-15.5458,134.282,alaw1244,alh
+wim,Wik-Mungkan,,-13.9805,141.816,wikm1247,wim
+set,Nuclear Nuclear Sentani,,-2.6013,140.512,nucl1632,set
+kmo,Kwoma,,-4.08721,142.664,kwom1262,kmo
+tml,Tamnim Citak,,-5.57962,139.233,tamn1235,tml
+tlf,Telefol,,-5.07444,141.731,tele1256,tlf
+gaj,Gadsup,,-6.31631,145.997,gads1258,gaj
+auy,Awiyaana,,-6.54079,145.76,awiy1238,auy
+kup,Kunimaipa,,-8.09371,146.908,kuni1267,kup
+spl,Selepet,,-6.03532,147.234,sele1250,spl
+nas,Naasioi,,-6.46022,155.632,naas1242,nas
+ale,Aleut,,52.1228,-174.29,aleu1260,ale
+kal,Kalaallisut,,69.3761,-52.864,kala1399,kal
+chp,Chipewyan,,58.3637,-110.832,chip1261,chp
+tol,Tolowa,,41.9192,-124.1,tolo1259,tol
+hup,Hupa,,41.0982,-123.68,hupa1239,hup
+nav,Navajo,,36.2106,-110.082,nava1243,nav
+hdn,Northern Haida,,54.6931,-132.465,nort2938,hdn
+squ,Squamish,,49.3231,-123.014,squa1248,squ
+str,Straits Salish,,48.722,-123.037,stra1244,str
+noo,Nootka,,49.6212,-126.086,noot1239,noo
+kwk,Kwakiutl,,50.9269,-127.308,kwak1269,kwk
+ojg,Eastern Ojibwa,,45.0112,-79.7503,east2542,ojg
+unm,Unami,,35.0264,-98.3201,unam1242,unm
+wic,Wichita,,35.0665,-98.1831,wich1260,wic
+lkt,Lakota,,46.3699,-103.95,lako1247,lkt
+see,Seneca,,42.6128,-79.3403,sene1264,see
+one,Oneida,,43.7729,-84.0577,onei1249,one
+yuc,Yuchi,,35.9615,-95.0393,yuch1247,yuc
+akz,Alabama,,30.7674,-94.6285,alab1237,akz
+tun,Tunica,,30.9888,-92.5403,tuni1252,tun
+nez,Nez Perce,,46.3073,-116.408,nezp1238,nez
+nmu,Northeast Maidu,,40.4102,-120.645,nort2952,nmu
+zoc,Copainala Zoque,,17.2157,-93.3183,copa1236,zoc
+top,Papantla Totonac,,20.5671,-97.2554,papa1238,top
+chf,Tabasco Chontal,,18.1713,-92.7367,taba1266,chf
+tzh,Tzeltal,,16.6384,-92.2786,tzel1254,tzh
+tsz,Purepecha,,19.2467,-101.631,pure1242,tsz
+kyh,Karok,,41.8228,-123.315,karo1304,kyh
+pom,Southeastern Pomo,,38.9354,-122.599,sout2982,pom
+dih,Kumiai,,32.5153,-116.609,kumi1248,dih
+zun,Zuni,,35.0056,-108.782,zuni1245,zun
+tix,Southern Tiwa,,34.7873,-106.661,sout2961,tix
+tew,Tewa (USA),,35.9053,-106.124,tewa1260,tew
+lui,Luiseno,,33.3184,-116.939,luis1253,lui
+hop,Hopi,,35.7653,-110.535,hopi1249,hop
+ood,Tohono O'odham,,31.7973,-111.995,toho1245,ood
+ote,Mezquital Otomi,,20.2274,-99.5564,mezq1235,ote
+maz,Central Mazahua,,19.7357,-100.018,cent2144,maz
+maq,Chiquihuitlan Mazatec,,18.0541,-96.6659,chiq1250,maq
+mig,San Miguel El Grande Mixtec,,17.0777,-97.5432,sanm1295,mig
+cbi,Chachi,,0.71489,-79.0508,chac1249,cbi
+pbb,Paez,,2.61516,-76.3125,paez1247,pbb
+ito,Itonama,,-12.8043,-64.3575,iton1250,ito
+quh,South Bolivian Quechua,,-20.9201,-66.3331,sout2991,quh
+ayr,Central Aymara,,-17.0,-68.5,cent2142,ayr
+arn,Mapudungun,,-38.7392,-71.277,mapu1245,arn
+crb,Island Carib,,14.2906,-61.2395,isla1278,crb
+wap,Wapishana,,2.58744,-59.8021,wapi1253,wap
+guc,Wayuu,,10.2252,-71.8101,wayu1243,guc
+cni,Ashaninka,,-11.9311,-73.9073,asha1243,cni
+ign,Ignaciano,,-15.1188,-65.3993,igna1246,ign
+ame,Yanesha',,-10.5454,-75.315,yane1238,ame
+jiv,Shuar,,-3.45136,-78.1892,shua1257,jiv
+bao,Waimaha,,0.30416,-70.1644,waim1255,bao
+tca,Ticuna,,-3.66289,-69.8723,ticu1245,tca
+car,Galibi Carib,,5.83772,-56.8323,gali1262,car
+oca,Ocaina,,-2.159,-72.1422,ocai1244,oca
+srq,Siriono,,-15.5298,-63.9688,siri1273,srq
+gug,Paraguayan Guarani,,-25.6055,-57.0882,para1311,gug
+amc,Amahuaca,,-10.2012,-72.3208,amah1246,amc
+cao,Chacobo,,-12.133,-66.7164,chac1251,cao
+apn,Apinaye,,-6.10774,-47.6315,apin1244,apn
+rif,Tarifit,,35.3281,-1.87354,tari1263,rif
+hau,Hausa,,11.1513,8.7804,haus1257,hau
+anc,Ngas,,9.32042,9.46146,ngas1240,anc
+mrt,Marghi Central,,10.8385,12.9952,marg1265,mrt
+som,Somali,,3.15088,40.4818,soma1255,som
+awn,Awngi,,10.9819,36.6916,awng1244,awn
+irk,Iraqw,,-4.19948,35.2939,iraq1241,irk
+tig,Tigre,,17.3494,38.2233,tigr1270,tig
+amh,Amharic,,11.7082,39.5435,amha1245,amh
+arz,Egyptian Arabic,,31.0,31.0,egyp1253,arz
+ary,Moroccan Arabic,,32.5,-7.5,moro1292,ary
+mlt,Maltese,,35.8884,14.4508,malt1254,mlt
+heb,Hebrew,,31.1056,35.0179,hebr1245,heb
+xtc,Katcha-Kadugli-Miri,,10.8423,29.4914,katc1249,xtc
+xpe,Liberia Kpelle,,6.92048,-9.96128,libe1247,xpe
+wol,Nuclear Wolof,,15.2534,-15.383,nucl1347,wol
+dag,Dagbani,,9.64745,-0.43227,dagb1246,dag
+aka,Akan,,6.34756,-1.33254,akan1250,aka
+gaa,Ga,,5.65488,-0.18598,gaaa1244,gaa
+ewe,Ewe,,6.46061,0.814975,ewee1241,ewe
+ibo,Nuclear Igbo,,4.62705,7.23441,nucl1417,ibo
+beq,Beembe,,-3.95895,14.1,beem1239,beq
+swh,Swahili,,-8.25605,37.624,swah1253,swh
+lue,Luvale,,-13.5382,22.2924,luva1239,lue
+zul,Zulu,,-25.3305,31.3512,zulu1248,zul
+gbp,Gbaya-Bossangoa,,6.61896,17.645,gbay1287,gbp
+ses,Koyraboro Senni Songhai,,16.9634,-0.55187,koyr1242,ses
+knc,Central Kanuri,,11.8863,16.3918,cent2050,knc
+lgg,Lugbara,,3.02245,30.8642,lugb1240,lgg
+fia,Nobiin,,22.8142,31.8376,nobi1240,fia
+luo,Luo (Kenya and Tanzania),,-0.93296,34.4896,luok1236,luo
+mas,Masai,,-3.1419,36.4573,masa1300,mas
+naq,Nama (Namibia),,-25.0747,17.9767,nama1264,naq
+gle,Irish,,53.2186,-7.61509,iris1253,gle
+bre,Breton,,48.2452,-3.78934,bret1244,bre
+isl,Icelandic,,63.4837,-19.0212,icel1247,isl
+nob,Norwegian Bokmål,,61.112,8.886,norw1259,nob
+eng,Standard English,,53.0,-1.0,stan1293,eng
+deu,Standard German,,48.649,12.4676,stan1295,deu
+fra,Standard French,,48.0,2.0,stan1290,fra
+por,Portuguese,,42.0341,-4.18815,port1283,por
+spa,Standard Spanish,,40.4414,-1.11788,stan1288,spa
+ron,Romanian,,46.3913,24.2256,roma1327,ron
+rus,Russian,,53.9195,72.3926,russ1263,rus
+bul,Bulgarian,,43.3646,25.047,bulg1262,bul
+lit,Lithuanian,,55.1429,23.9601,lith1251,lit
+als,Tosk Albanian,,41.0,20.0,tosk1239,als
+ell,Modern Greek (1453-),,42.3224,24.8699,mode1248,ell
+hye,Nuclear Armenian,,40.0,45.0,nucl1235,hye
+pes,Western Farsi,,28.6593,55.1586,west2369,pes
+pst,Central Pashto,,31.9153,69.4529,cent1973,pst
+kas,Kashmiri,,34.1668,74.3305,kash1277,kas
+pan,Panjabi,,30.0368,75.6702,panj1256,pan
+hin,Hindi,,25.0,77.0,hind1269,hin
+ben,Bengali,,24.0,90.0,beng1280,ben
+sin,Sinhala,,8.0,81.0,sinh1246,sin
+eus,Basque,,43.2787,-1.31622,basq1248,eus
+fin,Finnish,,64.7628,25.5577,finn1318,fin
+mhr,Eastern Mari,,55.8307,48.405,east2328,mhr
+kpv,Komi-Zyrian,,64.0527,54.946,komi1268,kpv
+hun,Hungarian,,46.9069,19.6555,hung1274,hun
+kca,Khanty,,62.4308,66.1218,khan1273,kca
+yrk,Nenets,,66.1775,71.0234,nene1249,yrk
+tur,Nuclear Turkish,,39.8667,32.8667,nucl1301,tur
+azb,South Azerbaijani,,36.5137,48.4302,sout2697,azb
+kir,Kirghiz,,42.0,74.0,kirg1245,kir
+chv,Chuvash,,55.487,47.163,chuv1255,chv
+sah,Yakut,,61.6974,133.98,yaku1245,sah
+khk,Halh Mongolian,,48.324,106.289,halh1238,khk
+eve,Even,,70.6687,130.914,even1260,eve
+yux,Southern Yukaghir,,64.218,154.375,sout2750,yux
+niv,Gilyak,,52.59,140.681,gily1242,niv
+ckt,Chukot,,68.6436,170.045,chuk1273,ckt
+ain,Ainu (Japan),,47.2332,142.874,ainu1240,ain
+jpn,Nuclear Japanese,,35.0,135.0,nucl1643,jpn
+aal,Afade,,12.0551,14.6343,afad1236,aal
+acv,Achumawi,,41.0979,-121.191,achu1247,acv
+aer,Eastern Arrernte,,-23.3583,135.046,east2379,aer
+aey,Amele,,-5.29126,145.687,amel1241,aey
+agm,Angaataha,,-7.15012,146.352,anga1290,agm
+agq,Aghem,,6.38956,10.0807,aghe1239,agq
+ahp,Aproumu Aizi,,5.20273,-4.52192,apro1235,ahp
+aht,Ahtena,,61.7068,-144.889,ahte1237,aht
+ake,Akawaio,,6.16277,-60.862,akaw1239,ake
+alc,Qawasqar,,-49.703,-75.3756,qawa1238,alc
+ald,Alladian,,5.22371,-4.42647,alla1248,ald
+amf,Hamer-Banna,,5.06515,36.5176,hame1242,amf
+amo,Amo,,10.3229,8.65405,amoo1242,amo
+amp,Alamblak,,-4.66307,143.316,alam1246,amp
+amu,Guerrero Amuzgo,,16.7723,-98.1895,guer1243,amu
+ano,Andoque,,-0.53751,-72.0869,ando1256,ano
+apq,A-Pucikwar,,12.241,92.7965,apuc1241,apq
+aqc,Archi,,42.3239,46.8267,arch1244,aqc
+arl,Arabela,,-1.96126,-75.0612,arab1268,arl
+auc,Waorani,,-1.12312,-76.683,waor1240,auc
+ava,Avar,,41.7047,46.558,avar1256,ava
+axb,Abipon,,-29.0,-61.0,abip1241,axb
+azj,North Azerbaijani,,40.9777,46.4737,nort2697,azj
+bak,Bashkir,,53.5967,56.5594,bash1264,bak
+bam,Bambara,,12.0401,-9.98949,bamb1269,bam
+bba,Baatonum,,9.63186,2.99607,baat1238,bba
+bbc,Batak Toba,,2.35498,99.1761,bata1289,bbc
+bbl,Bats,,42.1806,45.344,bats1242,bbl
+bbo,Northern Bobo Madare,,12.4182,-4.47538,nort2819,bbo
+bca,Central Bai,,26.1666,99.7052,cent2004,bca
+bcj,Bardi,,-16.6274,122.906,bard1255,bcj
+bcs,Kohumono,,5.92596,7.96202,kohu1244,bcs
+bdl,Indonesian Bajau,,-3.68664,122.253,indo1317,bdl
+bdy,Bandjalang,,-28.3458,152.859,band1339,bdy
+bej,Beja,,17.2436,36.6666,beja1238,bej
+bev,Daloa Bete,,6.69281,-6.63944,dalo1238,bev
+bib,Bissa,,10.4257,-1.67332,biss1248,bib
+bkq,Bakairi,,-14.2628,-54.7034,baka1277,bkq
+blc,Bella Coola,,52.3448,-126.689,bell1243,blc
+bmr,Muinane,,-0.8652,-72.4249,muin1242,bmr
+bom,Berom,,9.67037,8.81221,bero1242,bom
+bor,Bororo,,-16.6029,-55.2004,boro1282,bor
+brb,Lave,,14.5994,107.008,lave1249,brb
+brh,Brahui,,28.5347,64.2991,brah1256,brh
+brv,Western Bru,,16.4906,104.754,west2397,brv
+brx,Bodo (India),,26.7255,89.3332,bodo1269,brx
+bvr,Burarra,,-12.3061,134.365,bura1267,bvr
+byx,Qaqet,,-4.45258,151.702,qaqe1238,byx
+bzd,Bribri,,9.39794,-83.0539,brib1243,bzd
+cad,Caddo,,35.1826,-98.2634,cadd1256,cad
+cag,Nivacle,,-22.8557,-61.7606,niva1238,cag
+caq,Car Nicobarese,,9.18853,92.7671,carn1240,caq
+cbn,Nyahkur,,15.8909,101.515,nyah1250,cbn
+cbv,Cacua,,0.88778,-69.5659,cacu1241,cbv
+cdo,Min Dong Chinese,,26.0,119.5,mind1253,cdo
+chq,Quiotepec Chinantec,,17.5621,-96.602,quio1240,chq
+chr,Cherokee,,35.4664,-83.163,cher1273,chr
+cjh,Upper Chehalis,,46.7981,-123.169,uppe1439,cjh
+cjv,Chuave,,-6.17824,145.139,chua1250,cjv
+cnh,Haka Chin,,22.8735,92.8208,haka1240,cnh
+con,Cofan,,0.276675,-77.0643,cofa1242,con
+cou,Wamey,,12.5421,-13.177,wame1240,cou
+cqd,Chuanqiandian Cluster Miao,,22.5638,101.95,chua1256,cqd
+ctd,Tedim Chin,,23.6079,93.519,tedi1235,ctd
+ctp,Western Highland Chatino,,16.2495,-97.3244,west2644,ctp
+cub,Cubeo,,1.32382,-70.1939,cube1242,cub
+cyb,Cayubaba,,-13.2482,-65.4822,cayu1262,cyb
+daa,Dangaleat,,12.1517,18.385,dang1274,daa
+daf,Dan,,7.22812,-8.24535,dann1241,daf
+daj,Dar Fur Daju,,12.2598,25.3127,darf1239,daj
+dal,Dahalo,,-2.1843,40.37,daha1245,dal
+dbl,Dyirbal,,-17.4516,145.544,dyir1250,dbl
+dif,Dieri,,-28.1667,138.0,dier1241,dif
+dip,Northeastern Dinka,,9.27995,31.8392,nort2815,dip
+dni,Lower Grand Valley Dani,,-4.25684,138.992,lowe1415,dni
+doc,Northern Dong,,26.9944,109.204,nort2735,doc
+dow,Doyayo,,8.68604,13.0768,doya1240,dow
+dru,Rukai,,22.7738,120.844,ruka1240,dru
+dta,Daur,,48.0,124.0,daur1238,dta
+dts,Toro So Dogon,,14.4075,-3.10006,toro1252,dts
+duj,Dhuwal,,-12.7825,136.008,dhuw1249,duj
+dyo,Jola-Fonyi,,12.7575,-15.7355,jola1263,dyo
+efi,Efik,,4.89379,8.38121,efik1245,efi
+ekg,Ekari,,-3.88974,136.018,ekar1243,ekg
+ess,Central Siberian Yupik,,63.4308,-170.272,cent2128,ess
+etu,Ejagham,,5.54442,8.90959,ejag1239,etu
+ewo,Ewondo,,11.9365,4.21141,ewon1239,ewo
+eya,Eyak,,60.4232,-144.762,eyak1241,eya
+faa,Fasu,,-6.62687,143.284,fasu1242,faa
+fij,Fijian,,-18.0,178.33,fiji1243,fij
+fmp,Fe'fe',,5.18158,10.1442,fefe1239,fmp
+fun,Fulnio,,-9.02591,-37.1402,fuln1247,fun
+fvr,Fur,,12.0455,23.6401,furr1244,fvr
+fwa,Fwai,,-20.6873,164.901,fwai1237,fwa
+gbc,Garawa,,-17.4504,137.72,gara1261,gbc
+gbr,Gbagyi,,9.29842,6.90495,gbag1258,gbr
+gio,Gelao,,26.1545,106.235,gela1261,gio
+gld,Nanai,,48.4343,134.797,nana1257,gld
+gmo,Gamo-Gofa-Dawro,,,,gamo1244,gmo
+guh,Guahibo,,5.81736,-68.9839,guah1255,guh
+gum,Guambiano,,2.55849,-76.582,guam1248,gum
+guq,Ache,,-25.5865,-56.4697,ache1246,guq
+gvn,Kuku-Yalanji,,-16.0036,145.188,kuku1273,gvn
+hix,Hixkaryana,,-0.16265,-58.8015,hixk1239,hix
+hts,Hadza,,-3.83115,35.0458,hadz1240,hts
+hus,Huastec,,21.6153,-98.5028,huas1242,hus
+huv,San Mateo Del Mar Huave,,16.2129,-95.0077,sanm1287,huv
+iba,Iban,,2.09041,112.934,iban1264,iba
+ijc,Izon,,5.17986,5.51702,izon1238,ijc
+ikx,Ik,,3.61407,34.2507,ikkk1242,ikx
+irh,Irarutu,,-2.94438,133.586,irar1238,irh
+irn,Irantxe,,-12.7178,-57.9806,iran1263,irn
+iso,Isoko,,5.52889,6.24682,isok1239,iso
+itl,Itelmen,,56.7798,156.906,itel1242,itl
+ivv,Ivatan,,20.3848,121.975,ivat1242,ivv
+iwm,Iwam,,-4.27346,141.817,iwam1256,iwm
+jac,Popti',,15.6609,-91.6633,popt1235,jac
+jao,Yanyuwa,,-15.7621,136.055,yany1243,jao
+jeb,Jebero,,-5.40317,-76.4103,jebe1250,jeb
+jic,Tol,,14.6686,-87.0372,toll1241,jic
+jqr,Jaqaru,,-12.8823,-75.8958,jaqa1244,jqr
+jru,Japreria,,10.5523,-72.7101,japr1238,jru
+kac,Kachin,,25.4634,97.3278,kach1280,kac
+kbh,Camsa,,1.14537,-76.8931,cams1241,kbh
+kbk,Grass Koiari,,-9.51218,147.437,gras1249,kbk
+kbr,Kafa,,7.34022,36.1718,kafa1242,kbr
+kbv,Dera (Indonesia),,-3.52309,140.947,dera1245,kbv
+kek,Kekchi,,15.3788,-89.2452,kekc1242,kek
+ker,Kera,,9.88165,15.1419,kera1255,ker
+kff,Koya,,17.6772,81.2096,koya1251,kff
+kgp,Kaingang,,-27.7671,-52.5394,kain1272,kgp
+khb,Lu,,21.0321,101.282,luuu1242,khb
+kio,Kiowa,,34.9403,-98.9042,kiow1266,kio
+kjd,Southern Kiwai,,-8.64889,143.244,sout2949,kjd
+kjg,Khmu,,20.2463,101.671,khmu1256,kjg
+kjq,Western Keres,,34.9733,-107.517,west2632,kjq
+kjs,East Kewa,,-6.32989,143.931,east2516,kjs
+kkw,Teke-Kukuya,,-2.27122,14.4407,teke1280,kkw
+kla,Klamath-Modoc,,42.5861,-121.704,klam1254,kla
+klu,Klao,,6.87233,-10.9214,klao1243,klu
+kmr,Northern Kurdish,,37.0,43.0,nort2641,kmr
+kna,Dera (Nigeria),,10.072,12.0256,dera1248,kna
+knn,Konkani,,19.2414,73.9166,konk1267,knn
+kpk,Kpan,,7.58343,10.1642,kpan1246,kpk
+kpm,Koho,,11.6444,108.057,koho1244,kpm
+kpy,Koryak,,63.8977,166.695,kory1246,kpy
+kpz,Kupsabiny,,1.33197,34.5991,kups1238,kpz
+ktg,Kalkutung,,-21.0,139.5,kalk1246,ktg
+ktz,Ju/'hoan,,-19.688,20.7673,juho1239,ktz
+kun,Kunama,,14.5879,37.5292,kuna1268,kun
+kvn,Border Kuna,,7.92993,-77.1664,bord1248,kvn
+kwd,Kwaio,,-8.93744,160.965,kwai1243,kwd
+lef,Lelemi,,7.34549,0.50746,lele1264,lef
+lme,Peve,,9.16111,14.441,peve1243,lme
+lut,Lushootseed,,48.42,-122.529,lush1252,lut
+mbl,Maxakali,,-16.9402,-40.7891,maxa1247,mbl
+mcu,Cameroon Mambila,,6.43829,11.4195,came1252,mcu
+mdd,Mbum,,7.5789,14.2722,mbum1254,mdd
+mde,Maba (Chad),,12.8915,20.8889,maba1277,mde
+mdx,Dizin,,6.1405,35.5763,dizi1235,mdx
+mfc,Mba,,1.06885,25.143,mbaa1245,mfc
+mhj,Mogholi,,34.2504,62.2802,mogh1245,mhj
+mjg,Tu,,36.8177,102.117,tuuu1240,mjg
+mnc,Manchu,,47.3122,126.557,manc1252,mnc
+moq,Mor (Bomberai Peninsula),,-2.85747,132.845,morb1239,moq
+mor,Moro,,10.9194,30.2138,moro1285,mor
+mpb,Mullukmulluk,,-13.2973,130.615,mull1237,mpb
+mps,Dadibi,,-6.65765,144.511,dadi1250,mps
+mqs,West Makian,,0.45332,127.63,west2600,mqs
+mrw,Maranao,,7.79414,124.175,mara1404,mrw
+mto,Totontepec Mixe,,17.2157,-96.0179,toto1305,mto
+mur,Murle,,6.69756,33.988,murl1244,mur
+mwf,Murrinh-Patha,,-14.7485,129.702,murr1258,mwf
+mwp,Kala Lagaw Ya,,-10.6748,142.196,kala1377,mwp
+myp,Piraha,,-6.77713,-61.8167,pira1253,myp
+mzm,Nuclear Mumuye,,8.90347,11.7155,nucl1240,mzm
+mzp,Movima,,-13.8115,-65.6348,movi1243,mzp
+nab,Southern Nambikuara,,-14.3707,-59.5187,sout2994,nab
+nan,Min Nan Chinese,,24.5,118.17,minn1241,nan
+nbf,Naxi,,27.4599,100.182,naxi1245,nbf
+ncj,Northern Puebla Nahuatl,,20.1356,-97.9814,nort2957,ncj
+ndv,Ndut,,14.925,-16.9811,ndut1239,ndv
+nep,Nepali,,27.5947,87.6201,nepa1252,nep
+new,Newari,,27.2614,84.9577,newa1246,new
+ngi,Ngizim,,12.1051,11.0178,ngiz1242,ngi
+nhu,Noone,,6.37256,10.5707,noon1243,nhu
+nie,Niellim,,9.70362,17.8135,niel1243,nie
+nio,Nganasan,,73.1354,86.2106,ngan1291,nio
+nir,Nuclear Nimboran,,-2.5803,140.179,nucl1633,nir
+njo,Ao Naga,,26.3241,94.3824,aona1235,njo
+nrb,Nara,,15.3251,37.499,nara1262,nrb
+nut,Nung (Viet Nam),,20.8965,104.286,nung1283,nut
+nyi,Ama (Sudan),,12.0993,29.4332,amas1236,nyi
+nyp,Nyang'i,,3.4997,33.7365,nyan1313,nyp
+ogb,Ogbia,,4.75352,6.34034,ogbi1239,ogb
+oru,Ormuri,,32.6819,69.3444,ormu1247,oru
+pac,Pacoh,,16.3353,107.094,paco1243,pac
+pay,Pech,,15.8033,-85.558,pech1241,pay
+pbh,E'napa Woromaipu,,6.95035,-65.8483,enap1235,pbh
+pon,Pohnpeian,,6.87212,158.223,pohn1238,pon
+prk,Parauk,,22.8658,99.375,para1301,prk
+pwn,Paiwan,,22.3271,120.806,paiw1248,pwn
+pww,Pwo Northern Karen,,18.016,98.2709,pwon1235,pww
+qui,Quileute,,47.9106,-124.603,quil1240,qui
+rgr,Resigaro,,-2.48139,-71.3578,resi1247,rgr
+roo,Rotokas,,-5.94339,155.154,roto1249,roo
+rro,Waima,,-8.67145,146.544,waim1251,rro
+rut,Rutul,,41.6187,47.3244,rutu1240,rut
+sad,Sandawe,,-5.26918,35.4808,sand1273,sad
+sag,Sango,,6.78584,20.1702,sang1328,sag
+sef,Cebaara Senoufo,,9.50768,-6.15264,ceba1235,sef
+sel,Selkup,,59.9409,82.3004,selk1253,sel
+shb,Ninam,,4.03894,-62.7801,nina1238,shb
+shi,Tachelhit,,29.7854,-7.77879,tach1250,shi
+shs,Shuswap,,50.8734,-119.667,shus1248,shs
+sht,Shasta,,41.7587,-122.738,shas1239,sht
+sja,Epena,,4.25877,-77.3566,epen1239,sja
+skd,Southern Sierra Miwok,,38.2363,-120.507,sout2985,skd
+slc,Saliba (Colombia),,5.30115,-69.3843,sali1298,slc
+sma,Southern Sami,,62.8801,13.7006,sout2674,sma
+snn,Siona,,0.31733,-76.0237,sion1247,snn
+sqt,Soqotri,,12.4892,53.9168,soqo1240,sqt
+stc,Natügu,,,,natu1249,stc
+sue,Suena,,-7.76339,147.534,suen1241,sue
+svs,Savosavo,,-9.12853,159.814,savo1255,svs
+swi,Sui,,24.0488,106.563,suii1243,swi
+taj,Eastern Tamang,,27.3239,87.0832,east2347,taj
+tba,Aikana,,-12.6695,-60.5353,aika1237,tba
+tbi,Gaam,,11.4674,33.9797,gaam1241,tbi
+tcy,Tulu,,12.8114,75.2651,tulu1258,tcy
+teh,Tehuelche,,-47.5796,-68.3235,tehu1242,teh
+tem,Timne,,8.90294,-12.3331,timn1235,tem
+teq,Nuclear Temein,,11.8275,29.3898,nucl1339,teq
+tet,Tetum,,-9.11217,125.528,tetu1245,tet
+tgc,Tigak,,-2.70951,150.893,tiga1245,tgc
+thv,Tahaggart Tamahaq,,22.5908,8.73169,taha1241,thv
+tiw,Tiwi,,-11.6308,130.949,tiwi1244,tiw
+tiy,Tiruray,,6.77321,124.127,tiru1241,tiy
+tli,Tlingit,,59.4447,-135.29,tlin1245,tli
+tlo,Talodi,,10.6453,30.4815,talo1250,tlo
+tma,Tama (Chad),,14.332,21.9951,tama1331,tma
+tna,Tacana,,-13.3925,-68.0406,taca1256,tna
+tnl,Lenakel,,-19.4763,169.261,lena1238,tnl
+tpm,Tampulma,,9.75577,-1.35467,tamp1252,tpm
+tpx,Acatepec Me'phaa,,17.1034,-99.0602,acat1239,tpx
+tpy,Trumai,,-11.8119,-53.5717,trum1247,tpy
+tqo,Toaripi,,-8.07231,146.206,toar1246,tqo
+tqw,Tonkawa,,30.25,-96.75,tonk1249,tqw
+trg,Lishan Didan,,38.0,47.0,lish1246,trg
+tsi,Nuclear Tsimshian,,54.6214,-130.496,nucl1649,tsi
+tsu,Tsou,,23.216,120.787,tsou1248,tsu
+ttr,Tera,,11.0376,11.8095,tera1251,ttr
+twf,Northern Tiwa,,36.4277,-105.604,nort1550,twf
+tyv,Tuvinian,,48.436,92.6693,tuvi1240,tyv
+ung,Ngarinyin,,-16.4006,126.433,ngar1284,ung
+uzn,Northern Uzbek,,43.7489,59.231,nort2690,uzn
+vam,Vanimo,,-2.68501,141.258,vani1248,vam
+vmb,Mbabaram,,-20.1389,143.438,mbab1239,vmb
+wao,Wappo,,38.25,-122.5,wapp1239,wao
+wba,Warao,,7.50851,-59.3528,wara1303,wba
+wgi,Nuclear Wahgi,,-6.11629,144.665,nucl1620,wgi
+wit,Wintu,,39.7176,-122.445,wint1259,wit
+wiy,Wiyot,,39.2492,-122.952,wiyo1248,wiy
+wnc,Wantoat,,-6.15216,146.513,want1252,wnc
+wnu,Usan,,-4.84265,145.362,usan1239,wnu
+woi,Kamang,,-8.26897,124.792,kama1365,woi
+wrs,Waris,,-3.139,140.931,wari1266,wrs
+wrz,Waray (Australia),,-13.0941,131.236,wara1290,wrz
+wti,Berta,,10.6474,34.7042,bert1248,wti
+wyb,Wangaaybuwan-Ngiyambaa,,-30.6481,146.18,wang1291,wyb
+xaw,Kawaiisu,,36.0538,-118.679,kawa1283,xaw
+xom,Komo (Sudan),,8.94162,34.0939,komo1258,xom
+yad,Yagua,,-3.42913,-72.2186,yagu1244,yad
+yaq,Yaqui,,29.9446,-110.681,yaqu1251,yaq
+ycn,Yucuna,,-0.76075,-71.0033,yucu1253,ycn
+yer,Tarok,,8.98356,10.0288,taro1263,yer
+ygr,Yagaria,,-6.32432,145.388,yaga1260,ygr
+yii,Yidiny,,-17.1332,145.876,yidi1250,yii
+ykg,Northern Yukaghir,,65.3874,151.318,nort2745,ykg
+ynn,Yana,,39.2769,-121.608,yana1271,ynn
+yor,Yoruba,,7.15345,3.67225,yoru1245,yor
+yrb,Yareba,,-9.50651,148.605,yare1248,yrb
+yss,Yessan-Mayo,,-4.15721,142.574,yess1239,yss
+yua,Yucateco,,18.7757,-88.9567,yuca1254,yua
+yul,Yulu,,8.04124,23.6166,yulu1243,yul
+yva,Nuclear Yawa,,-1.77196,136.263,nucl1454,yva
+zne,Zande,,4.62047,26.7157,zand1248,zne
+abi,Abidji,,5.65656,-4.58421,abid1235,abi
+adj,Adioukrou,,5.38228,-4.52522,adio1239,adj
+ajg,Aja (Benin),,7.06634,1.64992,ajab1235,ajg
+mtb,Anyin Morofo,,6.1627,-4.64232,anyi1244,mtb
+ahl,Igo,,7.25499,0.67846,igoo1238,ahl
+bss,Akoose,,4.9243,9.65522,akoo1248,bss
+cko,Anufo,,10.2839,0.56021,anuf1239,cko
+apd,Sudanese Arabic,,17.8021,33.3179,suda1236,apd
+avu,Avokaya,,4.38639,29.9379,avok1242,avu
+bav,Vengo,,6.11403,10.4137,veng1238,bav
+bfd,Bafut,,6.14153,10.1194,bafu1246,bfd
+bkc,Baka (Cameroon),,2.16013,13.7804,baka1272,bkc
+bfl,Banda-Ndele,,8.03339,23.9021,band1345,bfl
+bza,Bandi,,7.73729,-10.1684,band1352,bza
+bci,Baoule,,5.42509,-4.76565,baou1238,bci
+bas,Basa (Cameroon),,3.80765,10.4213,basa1284,bas
+bsq,Nuclear Bassa,,7.27501,-11.543,nucl1418,bsq
+bud,Ntcham,,9.23971,0.599275,ntch1242,bud
+btg,Gagnoa Bete,,6.10051,-5.9701,gagn1235,btg
+bkv,Bekwarra,,6.73737,8.86489,bekw1241,bkv
+nhb,Beng,,7.78122,-4.23539,beng1286,nhb
+bhy,Bhele,,0.24553,28.6681,bhel1238,bhy
+beh,Biali,,11.0382,1.08259,bial1238,beh
+bim,Bimoba,,10.4575,0.06121,bimo1239,bim
+bqc,Boko (Benin),,10.5189,3.71771,boko1266,bqc
+bzx,Hainyaxo Bozo,,13.8734,-5.65085,hain1253,bzx
+bum,Bulu (Cameroon),,3.16141,11.6365,bulu1251,bum
+cme,Cerma,,10.1245,-4.94917,cerm1238,cme
+ncu,Chumburung,,8.15211,-0.2755,chum1261,ncu
+dbq,Nuclear Daba,,10.3521,13.6318,nucl1683,dbq
+dga,Southern Dagaare,,10.4226,-2.52265,sout2789,dga
+dgi,Northern Dagara,,11.0441,-3.0124,nort2780,dgi
+ada,Adangme,,5.9437,0.13243,adan1247,ada
+dzg,Dazaga,,15.7358,15.8517,daza1242,dzg
+dic,Lakota Dida,,5.86012,-5.40633,lako1244,dic
+dyu,Dyula,,10.4536,-4.72007,dyul1238,dyu
+tbz,Ditammari,,10.1614,1.18045,dita1238,tbz
+dua,Duala,,4.10208,9.61877,dual1243,dua
+dug,Duruma,,-4.09629,39.322,duru1249,dug
+igb,Ebira,,8.15516,7.06183,ebir1243,igb
+bin,Bini,,6.40701,5.70426,bini1246,bin
+izi,Izi-Ezaa-Ikwo-Mgbo,,6.31831,8.03044,izie1238,izi
+ema,Emai-Iuleha-Ora,,7.09089,5.84494,emai1241,ema
+enn,Engenni,,5.11931,6.37339,enge1239,enn
+fon,Fon,,7.15484,1.66495,fonn1241,fon
+fub,Adamawa Fulfulde,,8.896,15.8384,adam1253,fub
+fuq,Central-Eastern Niger Fulfulde,,15.0907,8.43261,cent2018,fuq
+ffm,Maasina Fulfulde,,11.1324,-3.64763,maas1239,ffm
+fuh,Western Niger Fulfulde,,14.2471,-0.52004,west2454,fuh
+flr,Fuliiru,,-3.04022,28.9865,fuli1240,flr
+gng,Ngangam,,10.2523,0.70509,ngan1299,gng
+gya,Northwest Gbaya,,1.96834,15.1785,nort2775,gya
+gej,Gen,,6.25971,1.67727,genn1243,gej
+god,Godie,,5.3944,-5.82696,godi1239,god
+gjn,Gonja,,8.48801,-0.72757,gonj1241,gjn
+gbo,Northern Grebo,,5.17103,-8.1409,nort2810,gbo
+gde,Gude,,10.2138,13.403,gude1246,gde
+gux,Gourmanchema,,11.6711,1.28489,gour1243,gux
+hag,Hanga,,9.33929,-1.57833,hang1258,hag
+ife,Ife,,7.63568,1.58494,ifee1241,ife
+ige,Igede,,6.95522,8.27362,iged1239,ige
+ijs,Southeast Ijo,,4.44235,6.32192,sout2774,ijs
+bex,Jur Modo,,6.03321,29.974,jurm1239,bex
+kbp,Kabiye,,8.96816,0.495023,kabi1261,kbp
+kkj,Kako,,3.79989,15.6282,kako1242,kkj
+bqx,Baangi,,10.8083,5.7261,baan1242,bqx
+kza,Western Karaboro,,10.6298,-4.76482,west2466,kza
+kzr,Karang,,8.01727,15.2114,kara1478,kzr
+xsm,Kasem,,11.0824,-1.39076,kase1253,xsm
+ozm,Koonzime,,3.25933,13.5415,koon1245,ozm
+kik,Kikuyu,,-0.29005,36.719,kiku1240,kik
+kqs,Northern Kissi,,8.7283,-10.4063,nort2765,kqs
+bkm,Kom (Cameroon),,6.2596,10.3348,komc1235,bkm
+kmw,Komo (Democratic Republic of Congo),,-0.76333,26.7144,komo1260,kmw
+xon,Konkomba,,9.82224,0.2783,konk1269,xon
+gkp,Guinea Kpelle,,7.93196,-8.98843,guin1254,gkp
+krs,Gbaya (Sudan),,8.43391,25.5173,gbay1288,krs
+kri,Krio,,10.8811,-14.3204,krio1253,kri
+ted,Tepo Krumen,,5.16267,-7.66346,tepo1239,ted
+kuj,Kuria,,-1.50636,34.5049,kuri1259,kuj
+kus,Kusaal,,10.9703,-0.38756,kusa1250,kus
+las,Lama (Togo),,8.66954,0.833293,lama1275,las
+lln,Lele (Chad),,9.158,15.8115,lele1276,lln
+led,Lendu,,2.1898,30.6794,lend1245,led
+lom,Loma (Liberia),,7.91585,-9.69906,loma1260,lom
+lok,Loko,,9.11838,-12.1583,loko1255,lok
+lig,Ligbi,,7.94291,-2.56353,ligb1244,lig
+lia,West-Central Limba,,9.52392,-12.3138,west2450,lia
+lmp,Limbum,,6.58608,10.9802,limb1268,lmp
+lin,Lingala,,1.40324,19.7829,ling1263,lin
+dop,Lukpa,,9.51949,1.66954,lukp1238,dop
+lug,Ganda,,0.66884,32.1515,gand1255,lug
+lee,Lyele,,12.4305,-2.59229,lyel1241,lee
+mzk,Nigeria Mambila,,6.69736,11.3161,nige1255,mzk
+maw,Mampruli,,10.3884,-0.74675,mamp1244,maw
+mlq,Western Maninkakan,,13.5677,-12.8009,west2500,mlq
+emk,Eastern Maninkakan,,9.33048,-10.5394,east2426,emk
+mdj,Mangbetu,,2.5511,27.0712,mang1394,mdj
+mwk,Kita Maninkakan,,13.1798,-9.49151,kita1249,mwk
+muh,Mundu,,4.22755,29.9967,mund1326,muh
+mfn,Cross River Mbembe,,6.16926,8.23592,cros1244,mfn
+mbo,Mbo (Cameroon),,5.13981,9.92766,mboc1235,mbo
+mcp,Makaa,,4.15471,13.0789,maka1304,mcp
+men,Mende (Sierra Leone),,7.90935,-10.9926,mend1266,men
+mgo,Meta',,5.88942,9.87416,meta1238,mgo
+myk,Mamara Senoufo,,12.4871,-5.28245,mama1271,myk
+mzw,Deg,,8.43846,-2.28724,degg1238,mzw
+mif,Mofu-Gudur,,10.567,14.0314,mofu1248,mif
+mos,Mossi,,10.4524,-1.17278,moss1236,mos
+moa,Mwan,,7.87533,-5.94577,mwan1250,moa
+mnf,Mundani,,5.68073,9.91533,mund1327,mnf
+mkw,Kituba (Congo),,-4.15654,14.5648,kitu1245,mkw
+sur,Mwaghavul,,9.47205,8.96522,mwag1236,sur
+nfr,Nafaanra,,8.00522,-2.51001,nafa1258,nfr
+nmz,Nawdm,,7.17037,0.58553,nawd1238,nmz
+nuv,Northern Nuni,,12.131,-2.98206,nort2784,nuv
+lem,Nomaande,,4.5893,10.9157,noma1260,lem
+sba,Ngambay,,8.57051,15.414,ngam1268,sba
+nga,Ngbaka,,2.98887,18.994,ngba1285,nga
+ngb,Northern Ngbandi,,3.56357,21.8525,nort2774,ngb
+nnh,Ngiemboon,,5.56777,10.1266,ngie1241,nnh
+nwb,Nyabwa,,6.87615,-6.84428,nyab1255,nwb
+lns,Lamnso',,6.39743,11.0684,lamn1239,lns
+yas,Nugunu (Cameroon),,4.63103,11.1837,nugu1242,yas
+nup,Nupe-Nupe-Tako,,9.18404,5.40031,nupe1254,nup
+mhi,Ma'di,,3.62499,31.8471,madi1260,mhi
+pbi,Parkwa,,11.0206,14.0964,park1239,pbi
+fuc,Pulaar,,13.8694,-13.4482,pula1263,fuc
+fuf,Pular,,12.1826,-12.7338,pula1262,fuf
+rel,Rendille,,2.27065,37.3608,rend1243,rel
+spy,Sabaot,,1.01297,34.6664,saba1262,spy
+seq,Senara Senoufo,,10.4987,-5.28216,sena1262,seq
+srr,Serer,,13.8941,-16.3916,sere1260,srr
+sld,Sissala,,11.0916,-2.38217,siss1242,sld
+khq,Koyra Chiini Songhay,,16.192,-3.73962,koyr1240,khq
+snk,Soninke,,13.1273,-11.7178,soni1259,snk
+sus,Susu,,10.4046,-13.3628,susu1250,sus
+ttq,Tawallammat Tamajaq,,13.9878,4.47692,tawa1286,ttq
+taq,Tamasheq,,14.2038,-2.41269,tama1365,taq
+lor,Teen,,9.84556,-3.71183,teen1242,lor
+tuq,Tedaga,,18.0426,14.7717,teda1241,tuq
+kdh,Tem,,6.90552,1.13177,temm1241,kdh
+tfi,Tofin Gbe,,6.51774,2.43226,tofi1235,tfi
+tik,Tikar,,5.87004,11.6104,tika1246,tik
+toq,Toposa,,5.15904,34.2159,topo1242,toq
+neb,Toura (Cote d'Ivoire),,7.76747,-7.33105,tour1242,neb
+tsp,Northern Toussian,,11.133,-4.88274,nort2787,tsp
+vag,Vagla,,9.33848,-2.31333,vagl1239,vag
+vut,Vute,,6.13603,11.8839,vute1244,vut
+wwa,Waama,,10.5956,1.65318,waam1244,wwa
+wan,Wan,,7.88773,-5.82092,wann1242,wan
+wob,We Northern,,7.40391,-7.24617,weno1238,wob
+yam,Yamba,,6.5355,11.0771,yamb1251,yam
+yat,Yambeta,,4.83615,10.9369,yamb1252,yat
+yre,Yaoure,,6.95282,-5.57851,yaou1238,yre
+ybb,Yemba,,5.47421,10.0214,yemb1246,ybb
+pil,Yom,,9.87186,1.81099,yomm1242,pil
+dje,Zarma,,12.8554,2.41173,zarm1239,dje
+gnd,Zulgo-Gemzek,,10.827,14.0578,zulg1242,gnd
+fwe,Fwe,,-17.7237,24.4315,fwee1238,fwe
+yey,Yeyi,,-18.9178,23.6088,yeyi1239,yey
+cav,Cavinena,,-13.3544,-66.6277,cavi1250,cav
+ccc,Chamicuro,,-5.1149,-75.6778,cham1318,ccc
+che,Chechen,,43.5,45.5,chec1245,che
+cdm,Chepang,,27.7206,84.9017,chep1245,cdm
+cle,Lealao Chinantec,,17.3162,-95.9265,leal1235,cle
+ctu,Chol,,17.4897,-92.4698,chol1282,ctu
+crw,Chrau,,10.8021,107.293,chra1242,crw
+boi,Barbareno,,34.462,-119.699,barb1263,boi
+crd,Coeur d'Alene,,47.2958,-116.715,coeu1236,crd
+com,Comanche,,34.5701,-98.424,coma1245,com
+cup,Cupeno,,33.3148,-116.515,cupe1243,cup
+cuv,Cuvok,,10.6448,14.0006,cuvo1236,cuv
+anv,Denya,,5.97237,9.39989,deny1238,anv
+kxl,Nepali Kurux,,26.7206,86.0025,nepa1253,kxl
+aoj,Mufian,,-3.57932,142.955,mufi1238,aoj
+usa,Usarufa,,-6.38898,145.633,usar1243,usa
+kpr,Korafe-Yegha,,-9.07,149.267,kora1294,kpr
+bjr,Binumarien,,-6.22068,146.102,binu1245,bjr
+ego,Eggon,,8.71442,8.45686,eggo1239,ego
+ekp,Ekpeye,,5.06715,6.53362,ekpe1253,ekp
+enb,Markweeta,,1.15018,35.5866,mark1255,enb
+ags,Esimbi,,6.50094,9.86936,esim1238,ags
+fan,Fang (Equatorial Guinea),,1.72397,11.6145,fang1246,fan
+fuu,Furu,,4.485,20.6448,furu1242,fuu
+gbd,Karadjeri,,-18.6771,122.334,kara1476,gbd
+gby,Gbari,,8.46411,7.10757,gbar1246,gby
+gvf,Golin,,-6.2249,144.85,goli1247,gvf
+gub,Guajajara,,-4.69461,-45.7081,guaj1255,gub
+gup,Gunwinggu,,-12.3398,133.358,gunw1252,gup
+hay,Haya,,-1.70878,31.4846,haya1250,hay
+wya,Wyandot,,44.33,-77.5,wyan1247,wya
+hch,Huichol,,21.954,-104.062,huic1243,hch
+qwh,Huaylas Ancash Quechua,,-9.38709,-77.7768,huay1240,qwh
+qxw,Jauja Wanca Quechua,,-11.6747,-75.2786,jauj1238,qxw
+lyn,Luyana,,-15.2221,18.8037,luya1241,lyn
+iby,Ibani,,4.49119,7.23558,iban1261,iby
+imn,Imonda,,-3.31228,141.171,imon1245,imn
+inh,Ingush,,42.9525,44.158,ingu1240,inh
+ksi,Krisa,,-2.80084,141.303,kris1246,ksi
+yal,Yalunka,,9.97186,-11.2836,yalu1240,yal
+jar,Jarawa (Nigeria),,9.42456,10.2166,jara1263,jar
+jaa,Jamamadi,,-7.62223,-66.5662,jama1261,jaa
+tow,Jemez,,35.5994,-106.766,jeme1245,tow
+mgi,Lijili,,8.52193,8.35562,liji1238,mgi
+kab,Kabyle,,36.4103,4.76137,kaby1243,kab
+gid,Gidar,,9.87471,14.0785,gida1247,gid
+kyz,Kayabi,,-11.2747,-55.5479,kaya1329,kyz
+kms,Kamasau,,-3.8503,143.842,kama1367,kms
+kxo,Kanoe,,-12.1789,-64.5812,kano1245,kxo
+ndb,Kenswei Nsei,,6.01713,10.412,kens1251,ndb
+xrb,Eastern Karaboro,,10.4987,-4.52253,east2398,xrb
+kmv,Karipuna Creole French,,3.42825,-51.6888,kari1301,kmv
+ken,Kenyang,,5.58288,9.55918,keny1279,ken
+cog,Chong,,12.5218,102.514,chon1284,cog
+kin,Kinyarwanda,,-1.56771,29.6441,kiny1244,kin
+okr,Kirike,,4.41126,6.98938,kiri1254,okr
+kkk,Kokota,,-8.16481,159.191,koko1269,kkk
+kme,Bakole,,4.43654,8.97387,bako1250,kme
+kma,Konni,,10.2368,-1.54376,konn1242,kma
+kdt,Kuy,,14.6698,104.911,kuyy1240,kdt
+kle,Kulung (Nepal),,27.1606,87.5717,kulu1253,kle
+kto,Kuot,,-3.06952,151.537,kuot1243,kto
+kgg,Kusunda,,29.1766,80.6309,kusu1250,kgg
+kxv,Kuvi,,18.8832,83.7552,kuvi1243,kxv
+xwa,Kwaza,,-11.6667,-61.1833,kwaz1243,xwa
+lbj,Ladakhi,,33.468,80.6013,lada1244,lbj
+lag,Langi,,-4.71413,35.9517,lang1320,lag
+lao,Lao,,16.0726,104.568,laoo1244,lao
+lvk,Lavukaleve,,-9.05569,159.119,lavu1241,lvk
+bwt,Bafaw-Balong,,4.53307,9.522,bafa1247,bwt
+lun,Lunda,,-11.1793,23.8662,lund1266,lun
+lch,Luchazi,,-14.0648,22.2437,luch1239,lch
+bdu,Oroko,,4.89504,9.15209,orok1266,bdu
+mkd,Macedonian,,41.5957,21.7932,mace1250,mkd
+mxu,Mada (Cameroon),,10.8806,14.1142,mada1293,mxu
+grg,Madi,,-5.63017,146.407,madi1261,grg
+mva,Manam,,-4.07921,145.033,mana1295,mva
+bce,Bamenyam,,5.77049,10.3302,bame1260,bce
+nmm,Manange,,28.6416,84.0515,mana1288,nmm
+nge,Ngemba,,5.97864,10.1469,ngem1255,nge
+mec,Mara,,-14.7927,134.865,mara1385,mec
+ayz,Mai Brat,,-1.3679,132.591,maib1239,ayz
+gmm,Gbaya-Mbodomo,,4.70037,14.9569,gbay1281,gmm
+byv,Medumba,,5.10901,10.6118,medu1238,byv
+xmf,Mingrelian,,42.5129,41.8719,ming1252,xmf
+bfm,Mmen,,6.43213,10.2541,mmen1238,bfm
+mwt,Moken,,10.1474,98.6765,moke1242,mwt
+cas,Moseten-Chimane,,-14.6445,-67.8376,mose1249,cas
+mgg,Mpongmpong,,3.14015,14.866,mpon1254,mgg
+mhk,Mungaka,,5.89752,10.0294,mung1266,mhk
+nmg,Kwasio,,2.39354,10.0812,kwas1243,nmg
+mlv,Motlav,,-13.6535,167.673,motl1237,mlv
+nnm,Namia,,-3.85538,141.788,nami1256,nnm
+nml,Ndemli,,4.58061,10.2197,ndem1249,nml
+apm,Mescalero-Chiricahua Apache,,33.1291,-105.566,mesc1238,apm
+yum,Quechan,,32.7859,-114.599,quec1382,yum
+nnk,Nankina,,-5.80804,146.464,nank1250,nnk
+niq,Nandi,,0.793737,35.408478,nand1266,niq
+kig,Kimaama,,-8.01899,138.355,kima1246,kig
+mff,Naki,,6.62784,10.2378,naki1238,mff
+ncl,Michoacan Nahuatl,,18.3412,-103.361,mich1245,ncl
+nag,Naga Pidgin,,25.2508,93.4438,naga1394,nag
+nsh,Ngoshie,,6.04616,9.83193,ngos1238,nsh
+nig,Ngalakan,,-14.4281,134.716,ngal1293,nig
+nam,Nangikurrunggurr,,-14.268,131.237,nang1259,nam
+igo,Isebe,,-5.20719,145.691,iseb1246,igo
+nla,Ngombale,,5.70306,10.1446,ngom1271,nla
+kxm,Northern Khmer,,14.4674,103.863,nort2684,kxm
+pao,Northern Paiute,,40.0799,-119.536,nort2954,pao
+kcn,Nubi,,-0.183215,34.7552,nubi1253,kcn
+nus,Nuer,,8.13911,32.3829,nuer1246,nus
+ekm,Elip,,4.45694,11.193,elip1238,ekm
+nym,Nyamwezi,,-5.08559,32.9445,nyam1276,nym
+nyl,Nyeu,,14.8817,104.33,nyeu1238,nyl
+ann,Obolo,,4.62851,7.81985,obol1243,ann
+mpt,Mian,,-4.70881,141.523,mian1256,mpt
+fai,Faiwol,,-5.4967,141.656,faiw1243,fai
+oku,Oku (Cameroon),,6.23712,10.5096,okuu1243,oku
+oss,Ossetian,,41.7882,43.2674,osse1243,oss
+pau,Palauan,,7.17,134.5,pala1344,pau
+okv,Orokaiva,,-8.79019,148.09,orok1269,okv
+yll,Yil,,-3.46501,142.178,yill1241,yll
+niz,Ningil,,-3.49733,142.251,ning1273,niz
+dob,Dobu,,-9.63239,150.825,dobu1241,dob
+smq,Samo,,-6.15496,142.195,samo1303,smq
+uvh,Uri,,-6.41993,146.608,urii1240,uvh
+bzf,Boikin,,-3.68297,143.474,boik1241,bzf
+prt,Phai,,19.0383,101.218,phai1238,prt
+mlf,Mal,,19.273,101.204,mall1246,mlf
+rma,Rama,,11.5007,-83.8571,rama1270,rma
+xmt,Matbat,,-1.8801,130.075,matb1237,xmt
+run,Rundi,,-1.44174,31.3191,rund1242,run
+nyn,Nyankole,,-0.46364,30.548,nyan1307,nyn
+rwr,Marwari (India),,27.002,75.0656,marw1260,rwr
+ndi,Samba Leko,,8.19236,11.7366,samb1305,ndi
+sbd,Southern Samo,,12.713,-2.9052,sout2844,sbd
+sxm,Samre,,13.479,103.978,samr1245,sxm
+sae,Sabane,,-12.9857,-60.335,saba1268,sae
+sas,Sasak,,-8.58349,116.284,sasa1249,sas
+svr,Savara,,18.7302,84.1414,sava1244,svr
+pos,Sayula Popoluca,,17.8606,-94.9531,sayu1241,pos
+sey,Secoya,,-0.459785,-75.5547,seco1241,sey
+trv,Taroko,,23.9032,121.358,taro1264,trv
+ssg,Seimat,,-1.5297,145.074,seim1238,ssg
+sza,Semelai,,2.82799,102.806,seme1247,sza
+ser,Serrano,,33.9479,-116.772,serr1255,ser
+sbf,Shabo,,7.64407,35.223,shab1252,sbf
+ywn,Yawanawa,,-8.87563,-71.8199,yawa1260,ywn
+kde,Makonde,,-10.9906,39.5133,mako1251,kde
+sna,Shona,,-17.2085,29.7572,shon1251,sna
+bax,Bamun,,5.49017,10.8477,bamu1253,bax
+sjr,Siar-Lak,,-4.62059,152.892,siar1238,sjr
+skr,Seraiki,,29.5534,71.906,sera1259,skr
+sjw,Shawnee,,35.354,-96.7635,shaw1249,sjw
+skv,Nuclear Skou,,-2.64378,140.902,nucl1634,skv
+thm,Aheu,,17.7655,104.229,aheu1239,thm
+erk,South Efate,,-17.7006,168.377,sout2856,erk
+spo,Spokane,,47.9087,-118.062,spok1245,spo
+sso,Sissano,,-3.01976,142.049,siss1243,sso
+stw,Satawalese,,7.36084,147.038,sata1237,stw
+ulw,Ulwa,,12.9323,-83.5815,ulwa1239,ulw
+jup,Hupde,,0.58622,-69.8359,hupd1244,jup
+ztp,Loxicha Zapotec,,15.8442,-96.6997,loxi1235,ztp
+yuk,Yuki,,39.8389,-123.296,yuki1243,yuk
+yap,Yapese,,9.55811,138.125,yape1248,yap
+yur,Yurok,,41.3262,-123.824,yuro1248,yur
+yuz,Yuracare,,-16.7479,-65.1224,yura1255,yuz
+wbm,Nuclear Wa,,23.1024,99.108,nucl1290,wbm
+wms,Wambon,,-5.44334,140.48,wamb1259,wms
+was,Washo,,38.8184,-119.64,wash1253,was
+way,Wayana,,2.77537,-54.4429,waya1269,way
+woc,Wogeo,,-3.20238,144.089,woge1237,woc
+var,Huarijio,,27.8685,-108.437,huar1255,var
+vai,Vai,,7.05085,-11.3262,vaii1241,vai
+ukr,Ukrainian,,48.1758,24.3958,ukra1253,ukr
+phl,Phalura,,35.5096,71.8421,phal1254,phl
+mky,East Makian,,0.07337,127.423,east2440,mky
+tpi,Tok Pisin,,-9.41971,147.303,tokp1240,tpi
+bjz,Baruga,,-9.40132,148.761,baru1269,bjz
+tav,Tatuyo,,0.55582,-70.5327,tatu1247,tav
+tgw,Tagwana Senoufo,,8.67053,-5.17372,tagw1240,tgw
+mzn,Mazanderani,,36.241,52.3009,maza1291,mzn
+blk,Pa'o Karen,,20.211,97.5969,paok1235,blk
+tft,Ternate,,0.80562,127.333,tern1247,tft
+tob,Toba,,-24.4025,-60.4473,toba1269,tob
+pol,Polish,,51.8439,18.6255,poli1260,pol
+ijn,Kalabari,,4.53194,6.69539,kala1381,ijn
+ydd,Eastern Yiddish,,51.75,19.42,east2295,ydd
+nld,Dutch,,52.0,5.0,dutc1256,nld
+mla,Malo,,-15.6835,167.16,malo1243,mla
+gay,Gayo,,4.3733,97.3456,gayo1244,gay
+jam,Jamaican,,19.25,-69.33,jama1262,jam
+mcs,Mambai (Atlantic-Congo),,9.6121,14.0013,mamb1294,mcs
+arg,Aragonese,,42.4669,-0.00919,arag1245,arg
+zts,Tilquiapan Zapotec,,16.8529,-96.6321,tilq1235,zts
+ibb,Ibibio,,5.15279,7.86688,ibib1240,ibb
+tam,Tamil,,10.520219,78.825989,tami1289,tam
+zpq,Zoogocho Zapotec,,17.2016,-96.3433,zoog1238,zpq
+bgo,Baga Koga,,10.1286,-13.947,baga1273,bgo
+nxl,South Nuaulu,,-3.23411,129.148,sout2895,nxl
+slu,Selaru,,-8.18376,130.961,sela1259,slu
+tvd,Tsuvadi,,10.8421,5.22095,tsuv1239,tvd
+wos,Hanga Hundi,,-3.90364,142.849,hang1263,wos
+blr,Blang,,22.0092,99.7405,blan1242,blr
+txx,Tatana,,5.49808,115.553,tata1257,txx
+bod,Tibetan,,28.3681,90.1872,tibe1272,bod
+ruk,Che,,10.0031,8.67024,chee1238,ruk
+pae,Pagibete,,3.15636,22.1212,pagi1243,pae
+cho,Choctaw,,33.8993,-94.819,choc1276,cho
+crg,Michif,,49.1681,-99.9119,mich1243,crg
+plg,Pilaga,,-25.0058,-60.1537,pila1245,plg
+bwi,Baniwa,,2.17859,-67.7704,bani1255,bwi
+ktn,Karitiana,,-9.37937,-64.1522,kari1311,ktn
+esi,North Alaskan Inupiatun,,69.582,-143.77,nort2943,esi
+zab,San Juan Guelavia Zapotec,,17.0332,-96.5967,sanj1284,zab
+tzo,Tzotzil,,16.6362,-92.7388,tzot1259,tzo
+sid,Sidamo,,6.74176,38.3729,sida1246,sid
+bdr,West Coast Bajau,,6.00631,116.124,west2560,bdr
+cid,Chimariko,,41.0,-123.0,chim1301,cid
+tee,Huehuetla Tepehua,,20.6189,-97.9347,hueh1236,tee
+ute,Ute-Southern Paiute,,40.0965,-110.305,utes1238,ute
+duo,Dupaninan Agta,,17.3748,122.188,dupa1235,duo
+ton,Tonga (Tonga Islands),,-21.17,-175.25,tong1325,ton
+lmw,Lake Miwok,,39.0021,-122.621,lake1258,lmw
+lzz,Laz,,41.5004,41.9096,lazz1240,lzz
+jun,Juang,,21.2606,85.5845,juan1238,jun
+adn,Adang,,-8.18958,124.448,adan1251,adn
+ael,Ambele,,5.94043,9.62028,ambe1247,ael
+apu,Apurina,,-8.21692,-66.7714,apur1254,apu
+ace,Achinese,,3.90757,96.6032,achi1257,ace
+aig,Antigua and Barbuda Creole English,,15.5531,-61.3156,anti1245,aig
+akl,Aklanon,,11.5543,122.354,akla1241,akl
+arh,Arhuaco,,10.7018,-73.6363,arhu1242,arh
+arr,Karo (Brazil),,-10.3342,-61.5691,karo1305,arr
+ayl,Libyan Arabic,,22.0032,15.0014,liby1240,ayl
+bfw,Bondo,,19.1512,83.8141,bond1245,bfw
+biw,Kol (Cameroon),,3.65994,12.8574,kolc1235,biw
+bla,Siksika,,49.0669,-113.109,siks1238,bla
+bll,Biloxi,,31.32,-89.1951,bilo1248,bll
+bzj,Belize Kriol English,,17.3941,-88.6281,beli1260,bzj
+cku,Koasati,,30.4096,-92.709,koas1236,cku
+coo,Comox,,49.7233,-124.967,como1259,coo
+cso,Sochiapam Chinantec,,17.7985,-96.6079,soch1239,cso
+diq,Dimli,,38.6147,39.6388,diml1238,diq
+ets,Yekhee,,7.10204,6.44919,yekh1238,ets
+frr,Northern Frisian,,54.6409,8.58489,nort2626,frr
+gju,Gujari,,34.3768,73.1461,guja1253,gju
+gvc,Kotiria,,1.07554,-69.5705,guan1269,gvc
+hum,Hungana,,-3.69695,18.4312,hung1278,hum
+hur,Halkomelem,,48.0751,-122.029,halk1245,hur
+ilo,Iloko,,15.9361,120.993,ilok1237,ilo
+kbc,Kadiweu,,-19.7222,-57.582,kadi1248,kbc
+kub,Kutep,,7.07479,10.0916,kute1248,kub
+kwi,Awa-Cuaiquer,,1.21652,-78.3401,awac1239,kwi
+lis,Lisu,,22.5488,94.0184,lisu1250,lis
+los,Loniu,,-2.06124,147.35,loni1238,los
+mbe,Molale,,44.556,-122.857,mola1238,mbe
+mcf,Matses,,-5.73914,-72.6281,mats1244,mcf
+mni,Manipuri,,24.4409,93.3426,mani1292,mni
+mnk,Mandinka,,12.8165,-15.6539,mand1436,mnk
+moc,Mocovi,,-28.097,-60.4145,moco1246,moc
+mam,Mam,,14.8034,-91.7231,mamm1241,mam
+myu,Munduruku,,-8.41095,-57.691,mund1330,myu
+ncg,Nisga'a,,55.199,-129.192,nisg1240,ncg
+nds,Northern Low Saxon,,50.771,6.092,nort2627,nds
+pmq,Northern Pame,,22.0968,-99.6434,nort2984,pmq
+par,Panamint,,36.0007,-117.901,pana1305,par
+pcm,Nigerian Pidgin,,9.65873,4.21068,nige1257,pcm
+pej,Northern Pomo,,39.1084,-123.209,nort2966,pej
+poq,Texistepec Popoluca,,17.8926,-94.8076,texi1237,poq
+cat,Standard Catalan,,41.8983,3.39375,stan1289,cat
+hrv,Croatian,,45.2006,16.826,croa1245,hrv
+ces,Czech,,49.873398,15.10437,czec1258,ces
+glg,Galician,,42.2446,-7.5343,gali1258,glg
+mnh,Mono (Democratic Republic of Congo),,4.57915,19.8264,mono1270,mnh
+ind,Indonesian,,-7.33458,109.716,indo1316,ind
+ita,Italian,,43.0464,12.6489,ital1282,ita
+qxl,Salasaca Highland Quichua,,-1.35447,-78.3953,sala1272,qxl
+sei,Seri,,28.9877,-112.384,seri1257,sei
+snd,Sindhi,,26.0,69.0,sind1272,snd
+slv,Slovenian,,46.2543,14.7766,slov1268,slv
+swe,Swedish,,59.800634,17.389526,swed1254,swe
+khc,Tukang Besi North,,-5.30994,123.578,tuka1248,khc
+pib,Yine,,-11.1086,-73.3087,yine1238,pib
+quc,K'iche',,14.5278,-91.1696,kich1262,quc
+qvh,Huamalies-Dos de Mayo Huanuco Quechua,,-9.15718,-76.3372,huam1248,qvh
+qum,Sipacapense,,15.2305,-91.7041,sipa1247,qum
+qug,Chimborazo Highland Quichua,,-1.36727,-78.8521,chim1302,qug
+tpt,Tlachichilco Tepehua,,20.704,-98.1947,tlac1235,tpt
+abt,Ambulas,,-3.7801,143.059,ambu1247,abt
+aau,Abau,,-3.97222,141.324,abau1245,aau
+ahg,Qimant,,12.8119,37.0542,qima1242,ahg
+ahk,Akha,,21.2309,100.964,akha1245,ahk
+aly,Alyawarr,,-21.0427,136.835,alya1239,aly
+amn,Amanab,,-3.51516,141.178,aman1265,amn
+anu,Anuak,,7.57714,34.0267,anua1242,anu
+jbj,Arandai,,-2.08016,132.983,aran1237,jbj
+aon,Bumbita Arapesh,,-3.65508,142.859,bumb1241,aon
+tcb,Tanacross,,63.4046,-143.338,tana1290,tcb
+avt,Au,,-3.53277,142.105,auuu1241,avt
+tpz,Tinputz,,-5.58358,154.972,tinp1237,tpz
+pex,Petats,,-5.34068,154.593,peta1245,pex
+ptp,Patep,,-6.91988,146.639,pate1247,ptp
+kcl,Kela (Papua New Guinea),,-7.47103,147.173,kela1255,kcl
+sgz,Sursurunga,,-3.99078,152.768,surs1246,sgz
+awx,Awara,,-6.16986,146.372,awar1248,awx
+azo,Awing,,5.88362,10.264,awin1248,azo
+kmn,Awtuw,,-3.53129,141.928,awtu1239,kmn
+bbw,Baba,,6.11222,10.5216,baba1264,bbw
+bbk,Babanki,,5.97863,10.2869,baba1266,bbk
+bkh,Bakoko,,3.56518,9.99905,bako1249,bkh
+muo,Nyong,,7.27419,11.0615,nyon1241,muo
+bvm,Bamunka,,6.00203,10.5127,bamu1256,bvm
+bgj,Bangolan,,6.0125,10.667,bang1356,bgj
+bnm,Batanga,,2.08708,9.75107,bata1285,bnm
+bch,Bariai,,-5.5087,148.666,bari1286,bch
+bby,Befang,,6.27562,10.0342,befa1241,bby
+dbj,Ida'an,,5.29059,118.515,idaa1241,dbj
+bem,Bemba (Zambia),,-10.6122,29.2993,bemb1257,bem
+brc,Berbice Creole Dutch,,5.3829,-58.0002,berb1259,brc
+xub,Betta Kurumba,,11.6385,76.6064,bett1235,xub
+bhw,Biak,,-0.9523,135.879,biak1248,bhw
+nbj,Ngarinman,,-15.4661,130.651,ngar1235,nbj
+bhg,Binandere,,-8.37433,147.884,bina1277,bhg
+bwq,Southern Bobo Madare,,11.5409,-4.26497,sout2840,bwq
+bol,Nuclear Bole,,11.4839,11.2322,nucl1695,bol
+bot,Bongo,,7.4145,27.9918,bong1285,bot
+bwo,Boro (Ethiopia),,10.6596,35.345,boro1277,bwo
+bkk,Brokskat,,34.5308,76.6026,brok1247,bkk
+bsp,Baga Sitemu,,10.4793,-14.4756,baga1272,bsp
+bbx,Bubia,,4.02178,9.22304,bubi1249,bbx
+bxk,Bukusu,,0.68043,34.7719,buku1249,bxk
+sbs,Subiya,,-17.5696,24.8867,subi1246,sbs
+ttl,Totela,,-16.9575,24.3751,tote1238,ttl
+bmo,Bambalang,,5.861,10.544,bamb1265,bmo
+mrq,North Marquesan,,-8.89412,-140.108,nort2845,mrq
+oon,Onge,,10.6926,92.4707,onge1236,oon
+plo,Oluta Popoluca,,17.8937,-94.8863,olut1240,plo
+jya,Gyalrong,,31.6029,102.229,jiar1239,jya
+suq,Suri,,6.03205,35.0823,suri1267,suq
+blb,Bilua,,-7.92388,156.663,bilu1245,blb
+hoa,Hoava,,-8.19679,157.595,hoav1238,hoa
+fil,Filipino,,12.265,123.464,fili1244,fil
+nxg,Ngad'a,,-8.79508,120.976,ngad1261,nxg
+mnb,Muna,,-5.40419,122.541,muna1247,mnb
+xxk,Keo,,-8.8704,121.256,keoo1238,xxk
+skf,Sakirabia,,-13.054,-62.0927,saki1248,skf
+trw,Torwali,,35.3101,72.5316,torw1241,trw
+tdh,Thulung,,27.5389,87.6063,thul1246,tdh
+tsj,Tshangla,,27.3694,91.7741,tsha1245,tsj
+cof,Colorado,,-0.21181,-79.2347,colo1256,cof
+tzj,Tz'utujil,,14.6351,-91.2012,tzut1248,tzj
+kfk,Kinnauri,,31.3688,78.3148,kinn1249,kfk
+wtm,Mewati,,27.736,76.947,mewa1250,wtm
+aty,Aneityum,,-20.1864,169.825,anei1239,aty
+atb,Zaiwa,,24.1726,98.3643,zaiw1241,atb
+cic,Chickasaw,,33.9452,-97.1301,chic1270,cic
+fur,Friulian,,46.1473,13.0493,friu1240,fur
+apj,Jicarilla Apache,,36.8079,-107.007,jica1244,apj
+ega,Ega,,5.56081,-5.41732,egaa1242,ega
+are,Western Arrarnta,,-24.0505,133.246,west2441,are
+xsu,Sanuma,,1.31875,-67.6498,sanu1240,xsu
+pav,Wari,,-10.6995,-64.5615,wari1268,pav
+cro,Crow,,45.368,-107.874,crow1244,cro
+any,Anyin,,6.31781,-3.30532,anyi1245,any
+bvx,Dibole,,1.07773,17.2305,dibo1245,bvx
+bcw,Bana,,10.3535,13.6131,bana1305,bcw
+bdh,Baka (Sudan),,4.65943,29.59,baka1274,bdh
+aja,Aja (Sudan),,8.58003,25.6122,ajas1235,aja
+bip,Bila,,1.16839,28.7626,bila1255,bip
+bqp,Busa,,9.91074,4.39929,busa1253,bqp
+fuv,Nigerian Fulfulde,,10.9972,11.1188,nige1253,fuv
+her,Herero,,-21.0231,20.5655,here1253,her
+ksf,Bafia,,4.72603,11.0982,bafi1243,ksf
+lea,Lega-Shabunda,,-3.83196,27.1424,lega1249,lea
+mye,Myene,,-1.48741,9.50247,myen1241,mye
+baz,Tunen,,4.67724,10.5456,tune1241,baz
+mgw,Matumbi,,-8.53734,39.0409,matu1259,mgw
+yao,Yao,,-13.6119,35.2387,yaoo1241,yao
+umb,Umbundu,,-12.4763,14.4148,umbu1257,umb
+ndo,Ndonga,,-17.6417,19.1631,ndon1254,ndo
+mhw,Mbukushu,,-17.6827,22.5026,mbuk1240,mhw
+diu,Diriku,,-18.1681,20.6678,diri1252,diu
+kwn,Kwangali,,-17.9026,19.256,kwan1273,kwn
+kck,Kalanga,,-21.2887,27.401,kala1384,kck
+lol,Mongo (Atlantic-Congo),,-1.54228,20.4259,mong1338,lol
+wok,Longto,,8.33313,13.0568,long1387,wok
+xwe,Xwela Gbe,,6.41342,2.02985,xwel1235,xwe
+xwl,Western Xwla Gbe,,6.33455,2.03904,west2456,xwl
+kqk,Kotafon Gbe,,6.64027,1.72346,kota1272,kqk
+gbs,Gbesi Gbe,,6.55911,2.0269,gbes1238,gbs
+jmc,Machame,,-3.29385,37.0703,mach1266,jmc
+mda,Mada (Nigeria),,9.02294,8.34119,mada1282,mda
+mfo,Mbe,,6.57067,8.82998,mbee1249,mfo
+nwe,Ngwe,,5.49787,9.9028,ngwe1238,nwe
+jow,Jowulu,,10.7691,-5.47873,jowu1238,jow
+yba,Yala,,6.73852,8.60748,yala1263,yba
+mgr,Mambwe-Lungu,,-8.86817,31.2269,mamb1296,mgr
+kcv,Kete,,-7.15104,22.9027,kete1252,kcv
+kws,Kwese,,-5.60445,18.5759,kwes1244,kws
+snm,Southern Ma'di,,2.8735,31.25,sout2828,snm
+mgd,Moru,,5.1232,30.3287,moru1253,mgd
+log,Logo,,3.32608,29.8866,logo1259,log
+aft,Afitti,,12.446,30.7611,afit1238,aft
+avn,Avatime,,6.8688,0.41314,avat1244,avn
+abn,Abua,,4.83057,6.61492,abua1244,abn
+dgh,Dghwede,,11.0575,13.7785,dghw1239,dgh
+afo,Eloyi,,8.24696,7.97061,eloy1241,afo
+acd,Gikyode,,8.39478,0.56975,giky1238,acd
+ayg,Ginyanga,,8.2327,0.98348,giny1241,ayg
+hbb,Huba,,10.3544,13.139,huba1236,hbb
+kwl,Kofyar,,8.79947,9.15279,kofy1242,kwl
+kye,Krache,,7.93475,0.01925,krac1238,kye
+krm,Krim,,7.24116,-11.8393,krim1238,krm
+bbp,West Central Banda,,6.81435,24.1012,west2458,bbp
+dib,South Central Dinka,,6.7307,30.3021,sout2833,dib
+fod,Foodo,,9.56489,1.40486,food1238,fod
+csk,Jola-Kasa,,12.5089,-16.5539,jola1262,csk
+jum,Jumjum,,10.4349,33.7494,jumj1238,jum
+bdi,Burun,,10.725,33.921,buru1301,bdi
+lul,Olu'bo,,4.6242,31.9103,olub1238,lul
+ymm,Maay,,3.22288,43.6182,maay1238,ymm
+mfz,Mabaan,,9.81455,33.5404,maba1273,mfz
+sgi,Nizaa,,7.12906,12.3779,suga1248,sgi
+cce,Chopi,,-24.8327,34.1097,chop1243,cce
+xho,Xhosa,,-31.0389,28.0769,xhos1239,xho
+akp,Siwu,,7.23811,0.44362,siwu1238,akp
+bun,Sherbro,,7.77585,-12.7405,sher1258,bun
+buy,Bullom So,,9.0,-13.16,bull1247,buy
+cpn,Cherepon,,6.05387,-0.10955,cher1271,cpn
+fap,Palor,,14.8628,-16.9557,palo1243,fap
+gur,Farefare,,11.0918,-0.81109,fare1241,gur
+lip,Sekpele,,7.16751,0.5886,sekp1241,lip
+toi,Tonga (Zambia),,-17.4223,27.1035,tong1318,toi
+pbp,Badyara,,12.6425,-13.4759,bady1239,pbp
+snw,Selee,,7.17462,0.42458,sele1249,snw
+tiv,Tiv,,6.88039,9.26287,tivv1240,tiv
+byn,Bilin,,15.7833,38.3917,bili1260,byn
+xan,Xamtanga,,12.4479,38.8352,xamt1239,xan
+lik,Lika,,2.13777,27.6088,lika1243,lik
+yns,Yansi,,-3.8231,18.2341,yans1239,yns
+buu,Budu,,2.00501,27.951,budu1250,buu
+khy,Kele (Democratic Republic of Congo),,0.36906,24.3098,kele1255,khy
+lej,Lengola,,-1.95874,25.3343,leng1258,lej
+kbo,Keliko,,3.56039,30.556,keli1248,kbo
+won,Wongo,,-5.73837,20.5054,wong1247,won
+wlc,Mwali Comorian,,-12.3164,43.741,mwal1237,wlc
+aar,Afar,,12.2281,41.8083,afar1241,aar
+mua,Mundang,,9.83195,14.4751,mund1325,mua
+mru,Mono (Cameroon),,8.78372,14.2254,mono1269,mru
+tui,Tupuri,,10.0144,14.8697,tupu1244,tui
+xuo,Kuo,,7.97771,15.4843,kuoo1238,xuo
+kbn,Kare (Central African Republic),,7.05641,15.2207,kare1338,kbn
+gke,Ndai,,8.09039,14.2888,ndai1238,gke
+myf,Bambassi,,9.82554,34.6522,bamb1262,myf
+tir,Tigrinya,,15.3359,38.9266,tigr1271,tir
+kdj,Karamojong,,2.45157,34.2761,kara1483,kdj
+gwn,Gwandara,,9.20464,7.49931,gwan1268,gwn
+avi,Avikam,,5.15838,-5.2529,avik1243,avi
+shk,Shilluk,,9.85472,31.7926,shil1265,shk
+hgm,Hai//om,,-19.7637,17.0299,haio1238,hgm
+pip,Pero,,9.62092,11.044,pero1241,pip
+gax,Borana-Arsi-Guji Oromo,,1.05676,37.882,bora1271,gax
+hdy,Hadiyya,,7.57377,37.7577,hadi1240,hdy
+wal,Wolaytta,,6.32668,37.7537,wola1242,wal
+njx,Kunyi,,-3.69702,12.5197,kuny1238,njx
+lot,Otuho,,4.16379,32.6641,otuh1238,lot
+myx,Masaaba,,1.05906,34.2829,masa1299,myx
+hig,Kamwe,,10.646,13.5136,kamw1239,hig
+mzj,Manya,,8.56186,-9.44257,many1261,mzj
+say,Saya,,9.69441,9.71748,saya1246,say
+nzb,Njebi,,-2.18115,12.7063,njeb1242,nzb
+dsq,Tadaksahak,,16.685,2.32653,tada1238,dsq
+ktb,Kambaata,,7.37582,37.9088,kamb1316,ktb
+otr,Otoro,,11.1187,30.573,otor1240,otr
+tic,Tira,,11.0963,30.8092,tira1254,tic
+nmi,Nyam,,9.18024,10.8365,nyam1285,nmi
+fli,Fali,,10.5419,13.4087,fali1285,fli
+mcw,Mawa (Chad),,11.7461,18.2999,mawa1270,mcw
+nmn,!Xoo,,-24.2002,20.7958,xooo1239,nmn
+kib,Koalib,,11.6965,30.4717,koal1240,kib
+kki,Kagulu,,-6.38204,37.0534,kagu1239,kki
+oks,Oko-Eni-Osayen,,7.53908,6.15725,okoe1238,oks
+xuu,Kxoe,,-16.5905,22.5998,kxoe1243,xuu
+bbj,Ghomala',,5.39619,10.352,ghom1247,bbj
+afn,Defaka,,4.58451,7.50186,defa1248,afn
+tkq,Tee,,4.73213,7.37553,teee1242,tkq
+sgc,Kipsigis,,-0.35774,35.258532,kips1239,sgc
+pbr,Pangwa,,-9.96782,34.8039,pang1287,pbr
+hoo,Holoholo,,-5.37545,28.3274,holo1240,hoo
+bwu,Buli (Ghana),,10.5763,-1.26748,buli1254,bwu
+bjt,Balanta-Ganja,,12.5382,-15.6658,bala1302,bjt
+now,Nyambo,,-1.6096,30.9156,nyam1277,now
+pko,Pokoot,,1.57023,35.2318,poko1263,pko
+afr,Afrikaans,,-22.0,30.0,afri1274,afr
+agj,Argobba,,10.6596,39.756,argo1244,agj
+har,Harari,,9.30485,42.1332,hara1271,har
+din,Dinka,,9.30485,42.1332,,din
+nzi,Nzima,,5.1785,-2.81123,nzim1238,nzi
+aha,Ahanta,,4.85147,-1.94657,ahan1243,aha
+hna,Mina (Cameroon),,10.3805,13.8405,mina1276,hna
+bhs,Buwal,,10.6151,13.8838,buwa1243,bhs
+xed,Hdi,,10.942,13.6881,hdii1240,xed
+hia,Lamang,,11.0243,13.7362,lama1288,hia
+ikw,Ikwere,,5.04333,6.86651,ikwe1242,ikw
+kot,Lagwan,,11.5592,14.9884,lagw1237,kot
+mqb,Mbuko,,10.7788,14.1677,mbuk1243,mqb
+mlw,Moloko,,10.7933,14.2521,molo1266,mlw
+muy,Muyang,,10.8605,14.2125,muya1243,muy
+jgo,Ngomba,,5.63067,10.237,ngom1272,jgo
+dmo,Kemezung,,6.69577,10.4984,keme1240,dmo
+ntm,Nateni,,10.5191,1.21879,nate1242,ntm
+stv,Silt'e,,7.77004,38.1449,silt1240,stv
+weh,Weh,,6.46164,10.121,wehh1238,weh
+tey,Tulishi,,11.4507,29.108,tuli1249,tey
+kec,Keiga,,11.2064,29.3889,keig1242,kec
+kgo,Krongo,,10.514,30.003,kron1241,kgo
+kcp,Kanga,,11.0174,29.3463,kang1288,kcp
+mgc,Morokodo,,5.5103,30.0229,moro1284,mgc
+luc,Aringa,,3.56143,31.3071,arin1244,luc
+keg,Tese,,11.3885,29.5803,tese1238,keg
+lmd,Lumun,,10.8308,30.253,lumu1239,lmd
+acz,Acheron,,10.8827,30.3187,ache1245,acz
+taz,Tocho,,10.8828,30.1567,toch1257,taz
+dec,Dagik,,10.583,29.9404,dagi1241,dec
+did,Didinga,,4.21489,33.6869,didi1258,did
+lwo,Luwo,,7.35089,28.1378,luwo1239,lwo
+ach,Acoli,,3.57738,32.5147,acol1236,ach
+bxb,Belanda Bor,,6.6503,27.8232,bela1256,bxb
+bvi,Belanda Viri,,7.41311,27.6956,bela1255,bvi
+ndz,Ndogo,,7.73028,27.5588,ndog1248,ndz
+bde,Bade,,12.789,10.6557,bade1248,bde
+fpe,Fernando Po Creole English,,3.53638,8.68929,fern1234,fpe
+jit,Jita,,-1.62681,33.9141,jita1239,jit
+dim,Dime,,6.20951,36.3329,dime1235,dim
+lto,Tsotso,,,,tsot1241,lto
+djm,Jamsay Dogon,,14.1794,-2.57999,jams1239,djm
+kam,Kamba (Kenya),,-1.60827,37.9532,kamb1297,kam
+laj,Lango (Uganda),,2.13867,33.0553,lang1324,laj
+lks,Kisa,,,,kisa1263,lks
+nuj,Nyole,,0.88072,33.9181,nyol1238,nuj
+wmw,Mwani,,-12.5821,40.4601,mwan1247,wmw
+xkv,Kgalagadi,,-25.9208,22.7202,kgal1244,xkv
+boz,Tieyaxo Bozo,,14.1223,-5.08609,tiey1235,boz
+alw,Alaba-K'abeena,,7.39014,38.1732,alab1254,alw
+deg,Degema,,4.73373,6.80991,dege1246,deg
+bsc,Bassari,,12.4529,-13.3495,bass1258,bsc
+pre,Principense,,1.614,7.392,prin1242,pre
+nko,Nkonya,,7.20316,0.3209,nkon1245,nko
+gru,Kistane,,8.33561,38.4763,kist1241,gru
+mvz,Mesqan,,8.10617,38.3386,mesq1240,mvz
+sgw,Sebat Bet Gurage,,8.11879,37.9891,seba1251,sgw
+ior,Inor,,7.94883,37.7968,inor1238,ior
+dnn,Dzuungoo,,11.3796,-4.92036,dzuu1241,dnn
+bmi,Bagirmi,,11.5239,14.7695,bagi1246,bmi
+niy,Ngiti,,1.30455,30.2242,ngit1239,niy
+ndh,Ndali,,-9.88948,33.6118,ndal1241,ndh
+mym,Me'en,,6.63207,35.6255,meen1242,mym
+nsg,Ngasa,,-2.97716,37.528,ngas1238,nsg
+myb,Mbay,,8.23066,15.7328,mbay1241,myb
+guk,Gumuz,,11.2873,35.3803,gumu1244,guk
+teu,Soo,,2.58367,34.7595,sooo1256,teu
+bcq,Bench,,7.04682,35.7673,benc1235,bcq
+jnj,Yemsa,,7.79821,37.4412,yems1235,jnj
+zay,Zayse-Zergulla,,5.83747,37.3409,zays1235,zay
+kqy,Koorete,,5.80545,37.8679,koor1239,kqy
+aiw,Aari,,5.95034,36.5721,aari1239,aiw
+udu,Uduk,,9.16012,34.2293,uduk1239,udu
+lgn,Opuuo,,8.47526,33.853,opuu1239,lgn
+kmq,Kwama,,9.50836,34.2457,kwam1249,kmq
+mdm,Mayogo,,2.79827,27.8282,mayo1261,mdm
+lsm,Saamia,,,,saam1283,lsm
+nnw,Southern Nuni,,11.5186,-2.14385,sout2795,nnw
+nde,North Ndebele,,-20.2513,27.4096,nort2795,nde
+sxw,Saxwe Gbe,,6.58269,1.92015,saxw1241,sxw
+loh,Narim,,4.80331,33.3312,nari1240,loh
+bjg,Bidyogo,,11.1097,-16.1497,bidy1244,bjg
+doy,Dompo,,8.182,-2.295,domp1238,doy
+hbn,Heiban,,11.2908,30.5282,heib1243,hbn
+kga,Koyaga,,8.29177,-6.23255,koya1253,kga
+shw,Shwai,,11.2708,30.3533,shwa1239,shw
+ttb,Gaa,,8.4809,11.9603,gaaa1245,ttb
+kua,Kuanyama,,-17.7176,16.58,kuan1247,kua
+lnb,Mbalanhu,,-19.593,16.617,mbal1255,lnb
+kwm,Kwambi,,-18.0339,15.7294,kwam1251,kwm
+nne,Ngandyera,,-16.6359,21.1928,ngan1300,nne
+zag,Zaghawa,,17.4842,23.4626,zagh1240,zag
+zwa,Zay,,8.01148,38.8258,zayy1238,zwa
+zmx,Bomitaba,,1.70044,17.3733,bomi1238,zmx
+bez,Bena (Tanzania),,-9.26671,35.0364,bena1262,bez
+kke,Kakabe,,10.5962,-11.4418,kaka1265,kke
+llc,Lele (Guinea),,8.98043,-10.371,lele1266,llc
+mev,Mann,,7.04616,-8.86405,mann1248,mev
+tye,Kyenga,,11.5953,3.58651,kyen1242,tye
+sho,Shanga,,11.2752,4.41464,shan1282,sho
+abu,Abure,,5.21534,-3.64123,abur1243,abu
+abb,Bankon,,4.3702,9.6403,bank1256,abb
+afu,Awutu,,5.42441,-0.59545,awut1241,afu
+arv,Arbore,,4.92183,36.7986,arbo1245,arv
+ahi,Tiagbamrin Aizi,,5.28022,-4.62352,tiag1235,ahi
+ahs,Ashe,,9.36574,7.39443,ashe1269,ahs
+zdj,Ngazidja Comorian,,-11.6129,43.36,ngaz1238,zdj
+ibe,Akpes,,7.50256,5.95559,akpe1248,ibe
+etx,Eten,,9.73073,8.61443,eten1239,etx
+gel,Kag-Fer-Jiir-Koor-Ror-Us-Zuksun,,11.5319,4.8387,kagf1238,gel
+idu,Idoma,,7.19139,7.71261,idom1241,idu
+iri,Irigwe,,9.85197,8.6525,irig1241,iri
+izr,Izere,,9.93195,9.09741,izer1241,izr
+jer,Jere,,10.1962,8.95834,jere1244,jer
+agb,Legbo,,6.02645,7.98385,legb1242,agb
+lgq,Logba,,6.92838,0.43068,logb1245,lgq
+glw,Glavda,,11.1334,13.8652,glav1244,glw
+ahn,Ahan,,7.44139,6.00896,ahan1244,ahn
+aye,Ayere,,7.52206,6.01979,ayer1245,aye
+rng,Ronga,,-26.7329,32.6167,rong1268,rng
+wni,Ndzwani Comorian,,-12.2123,44.3709,ndzw1235,wni
+biv,Southern Birifor,,9.2873,-2.72672,sout2790,biv
+cwt,Kuwaataay,,12.4825,-16.7484,kuwa1246,cwt
+ati,Attie,,5.9977,-3.8209,atti1239,ati
+aoa,Angolar,,0.11438,6.59486,ango1258,aoa
+hae,Eastern Oromo,,8.67428,41.4395,east2652,hae
+pov,Upper Guinea Crioulo,,13.2335,-15.3325,uppe1455,pov
+bqz,Bakaka,,4.79991,9.80402,baka1273,bqz
+bsi,Bassossi,,5.23655,9.52275,bass1260,bsi
+lir,Liberian English,,6.423,-10.5284,libe1240,lir
+ggu,Gagu,,6.40859,-5.51851,gagu1242,ggu
+eto,Eton (Cameroon),,4.21045,11.3935,eton1253,eto
+rcf,Reunion Creole French,,-21.1131,55.5321,reun1238,rcf
+mls,Nuclear Masalit,,13.2733,22.1752,nucl1440,mls
+cri,Saotomense,,0.28332,6.61935,saot1239,cri
+tan,Nuclear Tangale,,9.75444,11.3228,nucl1696,tan
+suk,Sukuma,,-3.16082,32.8765,suku1261,suk
+mfe,Morisyen,,-20.2613,57.5517,mori1278,mfe
+ktu,Kituba (Democratic Republic of Congo),,-2.29601,17.1548,kitu1246,ktu
+aks,Akaselem,,8.8858,1.37035,akas1242,aks
+bag,Tuki,,4.64348,11.5353,tuki1240,bag
+bmv,Bum,,6.48655,10.418,bumm1238,bmv
+gou,Gavar,,10.5603,13.8188,gava1241,gou
+lno,Lango (Sudan),,4.04948,33.0412,lang1322,lno
+knp,Kwanja,,6.30293,11.6931,kwan1276,knp
+meq,Merey,,10.7458,14.09,mere1246,meq
+mfi,Wandala,,11.3169,13.8996,wand1278,mfi
+coh,Chonyi-Dzihana-Kauma,,-3.79746,39.7553,chon1287,coh
+dig,Digo,,-4.62101,39.1752,digo1243,dig
+nyf,Giryama,,-3.30638,39.6648,giry1241,nyf
+mlr,Vame,,10.9481,14.2131,vame1236,mlr
+mmu,Mmaala,,4.52188,11.0599,mmaa1238,mmu
+mpi,Mpade,,12.4609,14.5833,mpad1242,mpi
+mtk,Mbe',,6.25838,11.0906,mbee1250,mtk
+ncr,Ncane,,6.50696,10.5312,ncan1245,ncr
+nfu,Mfumte,,6.63304,10.9943,mfum1238,nfu
+njy,Njyem,,2.30483,14.1175,njye1238,njy
+box,Buamu,,11.1687,-3.50303,buam1238,box
+ktf,Kwami,,-1.53712,27.4633,kwam1250,ktf
+goa,Guro,,7.34954,-6.31154,guro1248,goa
+kea,Kabuverdianu,,15.0586,-23.6148,kabu1256,kea
+nku,Bouna Kulango,,8.46011,-2.74627,boun1243,nku
+tsb,Tsamai,,5.3097,36.9139,tsam1247,tsb
+tzm,Central Atlas Tamazight,,32.7415,-2.40872,cent2194,tzm
+siz,Siwi,,29.2023,25.5197,siwi1239,siz
+ndj,Ndamba,,-8.40485,36.0271,ndam1239,ndj
+bva,Barein,,11.1168,18.0764,bare1279,bva
+mij,Abar,,6.5805,10.2267,abar1238,mij
+boe,Mundabli,,6.59969,10.2704,mund1328,boe
+muc,Mbu',,6.53792,10.2556,mbuu1238,muc
+kid,Koshin,,6.5817,10.299,kosh1246,kid
+fak,Fang (Cameroon),,6.54384,10.319,fang1248,fak
+knk,Kuranko,,9.49325,-10.6122,kura1250,knk
+gis,North Giziga,,10.6755,14.219,nort3047,gis
+bri,Mokpwe,,4.24178,9.23887,mokp1239,bri
+sif,Siamou,,10.998,-4.92143,siam1242,sif
+nza,Tigon Mbembe,,6.98399,10.7085,tigo1236,nza
+orc,Orma,,-1.79489,39.6075,orma1241,orc
+pny,Pinyin,,5.7991,10.0682,piny1238,pny
+pnz,Pana (Central African Republic),,8.71518,13.6009,pana1293,pnz
+atu,Reel,,6.32234,30.4945,reel1238,atu
+udl,Wuzlam,,10.955,14.1378,wuzl1236,udl
+les,Lese,,1.8798,29.2918,lese1243,les
+gwe,Gweno,,-3.68407,37.6827,gwen1239,gwe
+suw,Sumbwa,,-3.47335,31.9457,sumb1240,suw
+zin,Zinza,,-2.64132,32.1755,zinz1238,zin
+mer,Meru,,0.26484,37.7396,meru1245,mer
+hka,Kahe,,-3.51412,37.5759,kahe1238,hka
+han,Hangaza,,-2.52347,30.7074,hang1260,han
+old,Mochi,,-3.33743,37.3357,moch1256,old
+ssc,Suba-Simbiti,,-0.95719,34.1033,suba1252,ssc
+kya,Kwaya,,-1.80737,33.71,kway1241,kya
+www,Wawa,,6.68974,11.7802,wawa1246,www
+tug,Tunia,,9.42506,18.2059,tuni1251,tug
+bfj,Bafanji,,5.84612,10.4518,bafa1249,bfj
+bji,Burji,,4.44624,38.4646,burj1242,bji
+blo,Anii,,9.11127,1.60169,anii1245,blo
+fip,Fipa,,-7.88963,31.3442,fipa1238,fip
+naw,Nawuri,,8.45116,0.04947,nawu1242,naw
+myo,Anfillo,,8.568,34.647,anfi1235,myo
+nto,Ntomba,,-1.99062,18.265,ntom1248,nto
+tbr,Tumtum,,10.6378,30.4128,tumt1243,tbr
+uiv,Iyive,,6.50437,9.53302,iyiv1238,uiv
+ssb,Southern Sama,,5.07546,119.38,sout2918,ssb
+kqr,Kimaragang,,6.61982,116.96,kima1244,kqr
+beg,Belait,,4.96207,114.933,bela1260,beg
+cjm,Eastern Cham,,11.2853,108.49,east2563,cjm
+mkm,Moklen,,8.16761,98.3176,mokl1243,mkm
+nia,Nias,,0.90691,97.4961,nias1242,nia
+blf,Buol,,0.97727,121.519,buol1237,blf
+mak,Makasar,,-5.65551,119.838,maka1311,mak
+xmz,Mori Bawah,,-2.56016,121.37,mori1268,xmz
+xbr,Kambera,,-9.88447,120.235,kamb1299,xbr
+lti,Leti (Indonesia),,-8.19808,127.674,leti1246,lti
+abs,Ambonese Malay,,-3.71342,128.184,ambo1250,abs
+bpq,Banda Malay,,-4.55565,129.905,band1353,bpq
+xmm,"Malay, Manado",,1.48099,124.843,mala1481,xmm
+mkn,Kupang Malay,,-10.2526,123.63,kupa1239,mkn
+lrt,Larantuka Malay,,,,lara1260,lrt
+max,North Moluccan Malay,,-0.86437,128.323,nort2828,max
+mad,Nuclear Madurese,,-7.0,113.0,nucl1460,mad
+ceb,Cebuano,,8.38799,124.367,cebu1242,ceb
+ban,Balinese,,-8.35714,115.075,bali1278,ban
+bug,Buginese,,-0.251495,119.251,bugi1244,bug
+bcl,Central Bicolano,,13.7574,123.403,cent2087,bcl
+hil,Hiligaynon,,10.4018,122.974,hili1240,hil
+pam,Pampanga,,14.9603,120.502,pamp1243,pam
+min,Minangkabau,,4.17,96.25,mina1268,min
+pag,Pangasinan,,15.9377,120.365,pang1290,pag
+tes,Tengger,,-7.89069,113.037,teng1272,tes
+mrr,Maria (India),,19.7875,79.9144,mari1414,mrr
+njm,Angami Naga,,25.6841,93.8668,anga1288,njm
+apt,Apatani,,27.1933,93.7284,apat1240,apt
+asm,Assamese,,26.0876,91.2932,assa1263,asm
+awa,Awadhi,,27.5907,82.4663,awad1243,awa
+bfq,Badaga,,11.3094,76.5974,bada1257,bfq
+bft,Balti,,34.4491,77.2859,balt1258,bft
+lmn,Lambadi,,16.5734,76.9717,lamb1269,lmn
+bhb,Bhili,,20.85,73.9592,bhil1251,bhb
+bns,Bundeli,,24.8982,78.9542,bund1253,bns
+cdn,Chaudangsi,,29.7033,80.4832,chau1259,cdn
+nri,Chokri Naga,,25.5636,94.2887,chok1243,nri
+drd,Darmiya,,29.8629,80.5439,darm1243,drd
+gaq,Gata',,18.6076,82.984,gata1239,gaq
+gda,Gade Lohar,,25.8583,78.2187,gade1236,gda
+adl,Galo,,27.749,96.311,galo1242,adl
+guj,Gujarati,,22.687,71.0962,guja1252,guj
+gbj,Bodo Gadaba,,18.3857,82.771,bodo1267,gbj
+hlb,Halbi,,20.3081,81.3742,halb1244,hlb
+hoc,Ho,,23.9596,87.1188,hooo1248,hoc
+iru,Irula,,12.7065,79.9521,irul1243,iru
+jns,Jaunsari,,30.5587,77.9084,jaun1243,jns
+xnr,Kangri,,31.915,76.366,kang1280,xnr
+kan,Nuclear Kannada,,13.5878,76.1198,nucl1305,kan
+saz,Saurashtra,,9.99172,77.9427,saur1248,saz
+mjw,Karbi,,25.7317,93.0462,karb1241,mjw
+xuj,Jennu Kurumba,,11.5041,76.5767,jenn1240,xuj
+nkh,Khezha Naga,,25.7078,94.3114,khez1235,nkh
+kfa,Kodava,,12.2443,75.9161,koda1255,kfa
+kfb,Northwestern Kolami,,20.1022,78.4934,nort2699,kfb
+kfc,Konda-Dora,,18.2675,82.934,kond1295,kfc
+gau,Mudhili Gadaba,,18.276,83.378,mudh1235,gau
+kfd,Korra Koraga,,12.9163,75.2,korr1238,kfd
+kfq,Korku,,21.8358,77.5541,kork1243,kfq
+kxu,Kui (India),,19.2043,83.5859,kuii1252,kxu
+kfy,Kumaoni,,29.5622,80.0171,kuma1273,kfy
+lep,Lepcha,,27.0869,88.5726,lepc1244,lep
+njh,Lotha Naga,,26.014,94.0435,loth1237,njh
+lus,Lushai,,22.6138,92.6247,lush1249,lus
+mai,Maithili,,26.3817,86.2211,mait1250,mai
+mal,Malayalam,,9.59208,76.7651,mala1464,mal
+mjt,Sauria Paharia,,24.8124,87.6432,saur1249,mjt
+nbi,Mao Naga,,25.3836,94.0035,maon1238,nbi
+mar,Marathi,,17.9344,76.6665,mara1378,mar
+mxj,Miju-Mishmi,,28.4732,97.0444,miju1243,mxj
+mrg,Mising = Padam = Miri,,27.418,94.69,misi1242,mrg
+nmo,Moyon Naga,,24.4793,94.3421,moyo1238,nmo
+nit,Southeastern Kolami,,19.6908,78.5936,sout1549,nit
+ncb,Central Nicobarese,,7.94812,93.3921,cent1990,ncb
+gdb,Pottangi Ollar Gadaba,,18.5968,82.7586,pott1240,gdb
+ori,Nuclear Oriya,,21.6626,86.8563,nucl1284,ori
+pck,Paite Chin,,24.0381,93.6136,pait1244,pck
+pci,Duruwa,,19.0534,82.4881,duru1236,pci
+lae,Pattani,,32.6963,76.5966,patt1248,lae
+peg,Pengo,,19.3435,83.6552,peng1244,peg
+san,Sanskrit,,20.0,77.0,sans1269,san
+sat,Santali,,25.0317,87.8185,sant1410,sat
+nsm,Sumi Naga,,25.9996,94.4235,sumi1235,nsm
+scl,Shina,,34.6515,75.287,shin1264,scl
+srb,Sora,,19.1213,84.19,sora1254,srb
+nmf,Tangkhul Naga,,25.0489,94.3567,tang1336,nmf
+nst,Tase Naga,,27.2572,96.3855,tase1235,nst
+tcz,Thado Chin,,24.096,93.722,thad1238,tcz
+tcx,Toda,,11.4184,77.0168,toda1252,tcx
+trp,Kok Borok,,23.1916,91.4673,kokb1239,trp
+url,Urali,,10.8519,76.8007,ural1274,url
+urd,Urdu,,25.0,67.0,urdu1245,urd
+vaa,Vaagri Booli,,12.215,79.5335,vaag1238,vaa
+yea,Ravula,,12.3231,75.6265,ravu1237,yea
+yeu,Yerukula,,17.3702,81.9748,yeru1240,yeu
+aca,Achagua,,4.38649,-72.2005,acha1250,aca
+arw,Lokono,,5.64295,-56.9243,araw1276,arw
+cpc,Ajyininka Apurucayali,,-9.82364,-74.6195,ajyi1238,cpc
+prq,Asheninka Perene,,-10.9777,-74.9153,ashe1272,prq
+cpu,Pichis Asheninka,,-10.4725,-74.6028,pich1237,cpu
+cpb,Ucayali-Yurua Asheninka,,-9.49424,-73.1836,ucay1237,cpb
+bae,Bare,,1.91649,-66.828,bare1276,bae
+cbb,Cabiyari,,0.16101,-71.0622,cabi1241,cbb
+cot,Caquinte,,-11.4812,-73.4451,caqu1242,cot
+kpc,Curripaco,,0.69618,-67.5028,curr1243,kpc
+unk,Enawene-Nawe,,-12.4302,-58.9802,enaw1238,unk
+inp,Inapari,,-12.4653,-69.3083,inap1243,inp
+gqn,Guana (Brazil),,-19.1667,-54.0333,guan1270,gqn
+mpd,Machinere,,-10.4804,-69.7683,mach1268,mpd
+mcb,Machiguenga,,-12.1291,-72.5017,mach1267,mcb
+mmh,Mehinaku,,-12.5364,-53.521,mehi1240,mmh
+cox,Nanti,,-12.1018,-72.3507,nant1250,cox
+not,Nomatsiguenga,,-11.5349,-74.4371,noma1263,not
+plu,Palikur,,3.63993,-51.6246,pali1279,plu
+pbg,Paraujano,,10.8427,-71.8399,para1316,pbg
+pab,Parecis,,-14.5929,-57.4059,pare1272,pab
+pio,Piapoco,,4.37718,-68.5953,piap1246,pio
+tae,Tariana,,0.440205,-68.9042,tari1256,tae
+ter,Tereno,,-20.6614,-56.0329,tere1279,ter
+gae,Guarequena,,1.80835,-66.9225,guar1293,gae
+wau,Waura,,-13.296,-53.6971,waur1244,wau
+xir,Xiriana,,2.69932,-62.5413,xiri1243,xir
+yvt,Yavitero,,9.8194,-67.4283,yavi1244,yvt
+yaw,Yawalapiti,,-12.5104,-53.4236,yawa1261,yaw
+brg,Baure,,-13.1278,-64.1838,baur1253,brg
+dny,Deni,,-6.74962,-67.5029,deni1241,dny
+cul,Culina,,-8.55268,-70.6648,culi1244,cul
+pad,Paumari,,-5.78403,-64.2803,paum1247,pad
+swx,Suruaha,,-6.82525,-66.3146,suru1263,swx
+boa,Bora,,-2.91467,-68.9093,bora1263,boa
+cbt,Chayahuita,,-5.63764,-76.8252,chay1248,cbt
+ako,Akurio,,3.19607,-55.6294,akur1238,ako
+apy,Apalai,,1.49792,-54.7457,apal1257,apy
+aap,Para Arara,,-3.71263,-53.0657,para1310,aap
+cbd,Carijona,,1.21894,-72.0664,cari1279,cbd
+txi,Ikpeng,,-11.3782,-53.4955,ikpe1245,txi
+kbb,Kaxuiana,,2.17138,-55.9101,kaxu1237,kbb
+kui,Kuikuro-Kalapalo,,-12.3035,-53.2261,kuik1246,kui
+mbc,Macushi,,4.31861,-60.2209,macu1259,mbc
+mcg,Mapoyo,,5.96952,-67.2581,mapo1246,mcg
+mch,Maquiritari,,4.70705,-64.3877,maqu1238,mch
+aoc,Pemon,,4.97031,-61.4033,pemo1248,aoc
+pev,Pemono,,5.248,-66.082,pemo1245,pev
+tri,Trio,,2.53616,-55.7599,trio1238,tri
+atr,Waimiri-Atroari,,-0.61832,-60.4259,waim1253,atr
+waw,Waiwai,,1.50881,-59.1417,waiw1244,waw
+yar,Yabarana,,5.32692,-66.276,yaba1248,yar
+orw,Oro Win,,-10.737,-64.0299,orow1243,orw
+mot,Bari (Chibchan),,9.08497,-72.9353,bari1297,mot
+chb,Chibcha,,6.24999,-74.1666,chib1270,chb
+cbg,Chimila,,10.1902,-74.2559,chim1309,cbg
+kog,Cogui,,10.9485,-73.8043,cogu1240,kog
+mbp,Malayo,,10.9286,-73.4056,mala1522,mbp
+tuf,Central Tunebo,,6.8867,-72.097,cent2150,tuf
+noa,Woun Meu,,6.10019,-77.4453,woun1238,noa
+bdc,Embera-Baudo,,5.23658,-77.1533,embe1259,bdc
+cto,Embera-Catio,,7.52721,-76.7476,embe1260,cto
+cmi,Embera-Chami,,4.8791,-76.0749,embe1262,cmi
+emp,Northern Embera,,7.12761,-77.574,nort2972,emp
+gny,Günün Yajich,,7.12761,-77.574,,gny
+ona,Ona,,-54.0,-68.5,onaa1245,ona
+cod,Cocama-Cocamilla,,-4.5,-74.0,coca1259,cod
+cui,Cuiba,,6.19829,-69.8197,cuib1242,cui
+guo,Guayabero,,2.8969,-71.844,guay1257,guo
+mbn,Macaguan,,6.34582,-71.2671,maca1259,mbn
+amr,Amarakaeri,,-12.4931,-70.5533,amar1274,amr
+cht,Cholon,,-9.23129,-75.9621,chol1284,cht
+ash,Abishira,,-0.69386,-75.2183,abis1238,ash
+cbu,Candoshi-Shapra,,-4.23835,-76.9347,cand1248,cbu
+lec,Leco,,-15.0092,-67.8818,leco1242,lec
+omc,Mochica,,-8.01667,-79.0,moch1259,omc
+myr,Muniche,,-5.80546,-76.2811,muni1258,myr
+pui,Puinave,,3.92974,-67.6886,puin1248,pui
+trr,Taushiro,,-3.22497,-75.5603,taus1253,trr
+tit,Tinigua,,2.716,-73.768,tini1245,tit
+ura,Urarina,,-4.44006,-75.4211,urar1246,ura
+vil,Vilela,,-27.4063,-58.9661,vile1241,vil
+yag,Yamana,,-55.2748,-68.2648,yama1264,yag
+acu,Achuar-Shiwiar,,-2.82646,-77.2641,achu1248,acu
+agr,Aguaruna,,-5.30044,-77.9218,agua1253,agr
+hub,Huambisa,,-3.99109,-77.9797,huam1247,hub
+mbr,Nukak Maku,,2.65939,-71.4629,nuka1242,mbr
+kav,Nuclear Katukina,,-8.19121,-70.3822,nucl1668,kav
+ark,Arikapu,,-12.4878,-62.7261,arik1265,ark
+ram,Canela,,-6.10712,-45.1299,cane1242,ram
+cax,Chiquitano,,-17.6354,-59.9172,chiq1248,cax
+gvp,Para Gaviao,,-4.91161,-49.0217,para1315,gvp
+gta,Guato,,-17.8696,-57.2897,guat1253,gta
+jbt,Djeoromitxi,,-12.038,-64.6694,djeo1235,jbt
+kpj,Karaja,,-11.1881,-50.3492,kara1500,kpj
+txu,Kayapo,,-7.77352,-51.6737,kaya1330,txu
+xra,Kraho,,-8.01172,-47.5774,krah1246,xra
+kqq,Krenak,,-18.9988,-41.2299,kren1239,kqq
+xri,Krikati-Timbira,,-5.94252,-46.7504,krik1239,xri
+opy,Ofaye,,-22.278,-53.7227,ofay1240,opy
+kre,Panara,,-10.58,-53.0,pana1307,kre
+qpt,Parkateje,,-10.58,-53.0,,qpt
+prr,Puri,,-20.7329,-43.6069,puri1262,prr
+rkb,Rikbaktsa,,-11.1887,-58.1942,rikb1245,rkb
+suy,Suya,,-11.5178,-53.0743,suya1243,suy
+umo,Umotina,,-15.5929,-57.4192,umot1240,umo
+xav,Xavante,,-14.3017,-52.4367,xava1240,xav
+xer,Xerente,,-9.59426,-48.2629,xere1240,xer
+xok,Xokleng,,-26.9217,-49.5886,xokl1240,xok
+zkp,Sao Paulo Kaingang,,-23.5708,-46.7609,saop1235,zkp
+crq,Iyo'wujwa Chorote,,-22.2067,-62.6508,iyow1239,crq
+mca,Maca,,-25.0119,-57.3694,maca1260,mca
+mtp,Wichi Lhamtes Nocten,,-21.988,-63.5971,wich1262,mtp
+caw,Callawalla,,-15.8845,-68.1018,call1235,caw
+kwa,Daw,,-0.1177,-67.2934,daww1239,kwa
+mbj,Nadeb,,-1.24449,-66.3068,nade1244,mbj
+yab,Yuhup,,0.2485,-69.8079,yuhu1238,yab
+ltn,Latunde,,-13.2396,-59.9925,latu1238,ltn
+wmd,Mamainde,,-13.2396,-59.9925,mama1278,wmd
+adc,Arara do Acre,,-13.2396,-59.9925,,adc
+kaq,Capanahua,,-6.63254,-74.3813,capa1241,kaq
+cbr,Cashibo-Cacataibo,,-8.70232,-75.4206,cash1251,cbr
+cbs,Cashinahua,,-9.72027,-71.1733,cash1254,cbs
+knt,Panoan Katukina,,-7.97456,-71.5615,pano1254,knt
+ktx,Kaxarari,,-9.47288,-66.3329,kaxa1239,ktx
+xor,Korubo,,-5.3655,-70.5094,koru1247,xor
+mpq,Matis,,-4.3553,-70.2079,mati1255,mpq
+nuc,Nukuini,,-7.339,-73.5044,nuku1263,nuc
+pno,Panobo,,-7.16666,-75.0,pano1255,pno
+pyn,Poyanawa,,-7.46909,-73.0758,poya1241,pyn
+sya,Siang,,-0.38398,114.693,sian1254,sya
+sha,Shall-Zwall,,9.87556,9.64988,shal1242,sha
+mcd,Sharanahua,,-9.8626,-71.1232,shar1245,mcd
+shp,Shipibo-Conibo,,-7.17105,-74.8219,ship1254,shp
+yaa,Yaminahua,,-9.8846,-71.5964,yami1256,yaa
+mts,Yora,,-11.3704,-72.0409,yora1241,mts
+yme,Yameo,,-4.16666,-73.6667,yame1242,yme
+qwa,Corongo Ancash Quechua,,-8.57647,-77.9864,coro1247,qwa
+qvc,Cajamarca Quechua,,-7.09314,-78.3214,caja1238,qvc
+quk,Chachapoyas Quechua,,-6.27021,-77.6615,chac1250,quk
+quz,Cusco Quechua,,-14.0853,-71.7663,cusc1236,quz
+quf,Lambayeque Quechua,,-6.1715,-79.468,lamb1276,quf
+qvi,Imbabura Highland Quichua,,0.31776,-78.3729,imba1240,qvi
+inb,Inga,,1.00313,-76.8606,inga1252,inb
+inj,Jungle Inga,,0.88872,-76.6593,jung1240,inj
+qvn,North Junin Quechua,,-11.2132,-75.8128,nort2980,qvn
+quy,Ayacucho Quechua,,-13.8471,-74.3225,ayac1239,quy
+qul,North Bolivian Quechua,,-14.4014,-68.7894,nort2976,qul
+qub,Huallaga Huanuco Quechua,,-9.57135,-75.594,hual1241,qub
+qxn,Northern Conchucos Ancash Quechua,,-8.97356,-77.4146,nort2979,qxn
+qvs,San Martin Quechua,,-6.9582,-76.6608,sanm1289,qvs
+qus,Santiago del Estero Quichua,,-27.821,-63.2466,sant1432,qus
+qvo,Napo Lowland Quechua,,-0.072525,-76.3889,napo1242,qvo
+quw,Tena Lowland Quichua,,-0.76271,-77.5404,tena1240,quw
+pid,Piaroa,,4.41805,-67.7574,piar1243,pid
+aro,Araona,,-12.4242,-67.7293,arao1248,aro
+ese,Ese Ejja,,-11.7268,-67.515,esee1248,ese
+rey,Reyesano,,-14.8333,-67.0833,reye1240,rey
+bsn,Barasana-Eduria,,0.02193,-70.808,bara1380,bsn
+des,Desano,,0.58157,-69.4955,desa1247,des
+cbc,Carapana,,0.06168,-69.6465,cara1272,cbc
+coe,Koreguaje,,0.92316,-75.3475,kore1283,coe
+myy,Macuna,,-0.14459,-70.0749,macu1260,myy
+ore,Orejon,,-2.86315,-72.4926,orej1242,ore
+pir,Wa'ikhana,,0.50714,-69.5032,pira1254,pir
+sri,Siriano,,0.436515,-70.184,siri1274,sri
+tnc,Tanimuca-Retuara,,-0.59023,-70.3853,tani1257,tnc
+tuo,Tucano,,0.579755,-69.5763,tuca1252,tuo
+tue,Tuyuca,,0.39441,-70.0435,tuyu1244,tue
+yui,Yuruti,,0.735585,-69.6955,yuru1263,yui
+aqz,Akuntsu,,,,akun1241,aqz
+adw,Amundava,,-9.04023,-62.3064,amun1246,adw
+api,Apiaka,,-7.84711,-57.91,apia1248,api
+awt,Arawete,,-4.90246,-52.5001,araw1273,awt
+asn,Xingu Asurini,,-4.13463,-52.321,xing1248,asn
+asu,Tocantins Asurini,,-3.59359,-49.8991,toca1235,asu
+avv,Ava-Canoeiro,,-13.6081,-48.1336,avac1239,avv
+awe,Aweti,,-12.9336,-53.5852,awet1244,awe
+gui,Eastern Bolivian Guarani,,-21.0909,-61.7179,east2555,gui
+eme,Emerillon,,3.23694,-52.3699,emer1243,eme
+gvo,Gaviao Do Jiparana,,-10.7235,-61.6752,gavi1246,gvo
+gvj,Guaja,,-3.93574,-46.3683,guaj1256,gvj
+gun,Mbya Guarani,,-26.0188,-52.711,mbya1239,gun
+gyr,Guarayu,,-15.8247,-61.6934,guar1292,gyr
+jua,Juma,,-7.27501,-64.0998,juma1249,jua
+jur,Juruna,,-10.9354,-53.3472,juru1256,jur
+urb,Urubu-Kaapor,,-2.46455,-46.2204,urub1250,urb
+kgk,Kaiwa,,-24.589,-54.6815,kaiw1246,kgk
+kay,Kamayura,,-12.2661,-53.4651,kama1373,kay
+kyr,Kuruaya,,-3.09561,-52.2303,kuru1309,kyr
+mpu,Makurap,,-11.8701,-64.3201,maku1278,mpu
+yrl,Nhengatu,,1.04503,-66.9646,nhen1239,yrl
+omg,Omagua,,-3.526,-69.1667,omag1248,omg
+pta,Pai Tavytera,,-23.1595,-56.1176,pait1247,pta
+pak,Parakana,,-4.64681,-50.0621,para1312,pak
+mav,Satere-Mawe,,-3.63897,-56.8749,sate1243,mav
+sru,Surui,,-11.0989,-61.2818,suru1262,sru
+tpj,Tapiete,,-21.4169,-62.684,tapi1253,tpj
+taf,Tapirape,,-10.5373,-50.5438,tapi1254,taf
+tqb,Tembe,,-2.6123,-48.2359,temb1276,tqb
+pah,Tenharim,,-7.92626,-61.936,tenh1241,pah
+tpr,Tupari,,-11.8884,-62.2544,tupa1250,tpr
+tpn,Tupinamba,,-8.16666,-63.25,tupi1273,tpn
+urz,Uru-Eu-Wau-Wau,,-10.9176,-63.8086,urue1240,urz
+oym,Wayampi,,1.73817,-52.6887,waya1270,oym
+xet,Xeta,,-24.9408,-52.2266,xeta1241,xet
+xiy,Xipaya,,-4.133,-49.948,xipa1240,xiy
+pto,Zo'e,,-1.77208,-55.5075,zoee1240,pto
+yuq,Yuqui,,-16.7875,-64.9438,yuqu1240,yuq
+axg,Mato Grosso Arara,,-13.175,-55.869,mato1253,axg
+yau,Yuwana,,5.63879,-65.4267,yuwa1244,yau
+kzw,Kariri-Xoco,,-9.84999,-36.3333,kari1255,kzw
+kuz,Kunza,,-23.0,-69.0,kunz1244,kuz
+yae,Pume,,7.10677,-67.5996,pume1238,yae
+cap,Chipaya,,-18.7395,-67.8963,chip1262,cap
+ure,Uru,,-16.7255,-68.9712,uruu1244,ure
+hto,Minica Huitoto,,-1.54535,-73.1107,mini1256,hto
+huu,Murui Huitoto,,-1.13669,-73.8331,muru1274,huu
+noj,Nonuya,,-1.25,-72.5,nonu1241,noj
+wca,Yanomami,,2.48999,-62.8522,yano1262,wca
+guu,Yanomamo,,1.67967,-64.8781,yano1261,guu
+ceg,Chamacoco,,-20.5899,-58.2005,cham1315,ceg
+ayo,Ayoreo,,-19.2201,-60.2175,ayor1240,ayo
+anb,Andoa,,-3.29664,-76.6056,ando1255,anb
+iqu,Iquito,,-3.31233,-73.9705,iqui1243,iqu
+zro,Zaparo,,-1.99871,-76.364,zapa1253,zro
+nhd,Chiripa,,-25.6521,-55.051,chir1286,nhd
+psx,Pisamira,,-25.6521,-55.051,,psx
+yrm,Yãroamë of Serra do Pacu/Ajarani,,-25.6521,-55.051,,yrm
+pcp,Pacahuara,,-11.9968,-65.5568,paca1246,pcp
+yup,Yukpa,,9.67534,-73.0557,yukp1241,yup
+trn,Trinitario,,-15.3331,-65.4096,trin1274,trn
