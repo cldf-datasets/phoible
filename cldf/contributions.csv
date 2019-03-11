@@ -1,2156 +1,3021 @@
-ID,Name,Description,Contributors
-1,Korean (SPA),Korean,Stanford Phonology Archive
-2,Ket (SPA),Ket,Stanford Phonology Archive
-3,Lak (SPA),Lak,Stanford Phonology Archive
-4,Kabardian (SPA),Kabardian,Stanford Phonology Archive
-5,Nuclear Georgian (SPA),Georgian,Stanford Phonology Archive
-6,Burushaski (SPA),Burushaski,Stanford Phonology Archive
-7,Kurukh (SPA),Kurukh,Stanford Phonology Archive
-8,Telugu (SPA),Telugu,Stanford Phonology Archive
-9,Kota (India) (SPA),Kota,Stanford Phonology Archive
-10,Mundari (SPA),Mundari,Stanford Phonology Archive
-11,Kharia (SPA),Kharia,Stanford Phonology Archive
-12,Khasi (SPA),Khasi,Stanford Phonology Archive
-13,Sedang (SPA),Sedang,Stanford Phonology Archive
-14,Central Khmer (SPA),Cambodian,Stanford Phonology Archive
-15,Vietnamese (SPA),Vietnamese,Stanford Phonology Archive
-16,Mandarin Chinese (SPA),Mandarin Chinese,Stanford Phonology Archive
-17,Wu Chinese (SPA),Wu,Stanford Phonology Archive
-18,Hakka Chinese (SPA),Hakka,Stanford Phonology Archive
-19,Yue Chinese (SPA),Cantonese,Stanford Phonology Archive
-20,Iu Mien (SPA),Yao,Stanford Phonology Archive
-21,Nisi (India) (SPA),Dafla,Stanford Phonology Archive
-22,Nuclear Burmese (SPA),Burmese,Stanford Phonology Archive
-23,Lahu (SPA),Lahu,Stanford Phonology Archive
-24,Garo (SPA),Garo,Stanford Phonology Archive
-25,S'gaw Karen (SPA),Karen,Stanford Phonology Archive
-26,Lakkia (SPA),Lakkia,Stanford Phonology Archive
-27,Thai (SPA),Thai,Stanford Phonology Archive
-28,Bouyei (SPA),Yay,Stanford Phonology Archive
-29,Western Cham (SPA),Cham,Stanford Phonology Archive
-30,Atayal (SPA),Atayal,Stanford Phonology Archive
-31,Plateau Malagasy (SPA),Malagasy,Stanford Phonology Archive
-32,Standard Malay (SPA),Malay,Stanford Phonology Archive
-33,Batak Karo (SPA),Batak,Stanford Phonology Archive
-34,Sa'ban (SPA),Saban,Stanford Phonology Archive
-35,Sundanese (SPA),Sundanese,Stanford Phonology Archive
-36,Javanese (SPA),Javanese,Stanford Phonology Archive
-37,Tagalog (SPA),Tagalog,Stanford Phonology Archive
-38,Chamorro (SPA),Chamorro,Stanford Phonology Archive
-39,Iaai (SPA),Iai,Stanford Phonology Archive
-40,Lusi (SPA),Kaliai,Stanford Phonology Archive
-41,Adzera (SPA),Adzera,Stanford Phonology Archive
-42,Maori (SPA),Maori,Stanford Phonology Archive
-43,Hawaiian (SPA),Hawaiian,Stanford Phonology Archive
-44,Antakarinya (SPA),Western Desert,Stanford Phonology Archive
-45,Nyangumarta (SPA),Nyangumata,Stanford Phonology Archive
-46,Kunjen (SPA),Kunjen,Stanford Phonology Archive
-47,Maranunggu (SPA),Maranungku,Stanford Phonology Archive
-48,Maung (SPA),Maung,Stanford Phonology Archive
-49,Nunggubuyu (SPA),Nunggubuyu,Stanford Phonology Archive
-50,Alawa (SPA),Alawa,Stanford Phonology Archive
-51,Wik-Mungkan (SPA),Wik-Munkan,Stanford Phonology Archive
-52,Nuclear Nuclear Sentani (SPA),Sentani,Stanford Phonology Archive
-53,Kwoma (SPA),Washkuk,Stanford Phonology Archive
-54,Tamnim Citak (SPA),Asmat,Stanford Phonology Archive
-55,Telefol (SPA),Telefol,Stanford Phonology Archive
-56,Gadsup (SPA),Gadsup,Stanford Phonology Archive
-57,Awiyaana (SPA),Auyana,Stanford Phonology Archive
-58,Kunimaipa (SPA),Kunimaipa,Stanford Phonology Archive
-59,Selepet (SPA),Selepet,Stanford Phonology Archive
-60,Naasioi (SPA),Nasioi,Stanford Phonology Archive
-61,Aleut (SPA),Aleut,Stanford Phonology Archive
-62,Kalaallisut (SPA),Inuit,Stanford Phonology Archive
-63,Chipewyan (SPA),Chipewyan,Stanford Phonology Archive
-64,Tolowa (SPA),Chasta Costa,Stanford Phonology Archive
-65,Hupa (SPA),Hupa,Stanford Phonology Archive
-66,Navajo (SPA),Navaho,Stanford Phonology Archive
-67,Northern Haida (SPA),Haida,Stanford Phonology Archive
-68,Squamish (SPA),Squamish,Stanford Phonology Archive
-69,Straits Salish (SPA),Salish,Stanford Phonology Archive
-70,Nootka (SPA),Nootka,Stanford Phonology Archive
-71,Kwakiutl (SPA),Kwakiutl,Stanford Phonology Archive
-72,Eastern Ojibwa (SPA),Ojibwa,Stanford Phonology Archive
-73,Unami (SPA),Delaware,Stanford Phonology Archive
-74,Wichita (SPA),Wichita,Stanford Phonology Archive
-75,Lakota (SPA),Dakota,Stanford Phonology Archive
-76,Seneca (SPA),Seneca,Stanford Phonology Archive
-77,Oneida (SPA),Oneida,Stanford Phonology Archive
-78,Yuchi (SPA),Yuchi,Stanford Phonology Archive
-79,Alabama (SPA),Alabama,Stanford Phonology Archive
-80,Tunica (SPA),Tunica,Stanford Phonology Archive
-81,Nez Perce (SPA),Nez Perce,Stanford Phonology Archive
-82,Northeast Maidu (SPA),Maidu,Stanford Phonology Archive
-83,Copainala Zoque (SPA),Zoque,Stanford Phonology Archive
-84,Papantla Totonac (SPA),Totonac,Stanford Phonology Archive
-85,Tabasco Chontal (SPA),Chontal,Stanford Phonology Archive
-86,Tzeltal (SPA),Tzeltal,Stanford Phonology Archive
-87,Purepecha (SPA),Tarascan,Stanford Phonology Archive
-88,Karok (SPA),Karok,Stanford Phonology Archive
-89,Southeastern Pomo (SPA),Pomo,Stanford Phonology Archive
-90,Kumiai (SPA),Digueno,Stanford Phonology Archive
-91,Zuni (SPA),Zuni,Stanford Phonology Archive
-92,Southern Tiwa (SPA),Tiwa,Stanford Phonology Archive
-93,Tewa (USA) (SPA),Tewa,Stanford Phonology Archive
-94,Luiseno (SPA),Luiseno,Stanford Phonology Archive
-95,Hopi (SPA),Hopi,Stanford Phonology Archive
-96,Tohono O'odham (SPA),Pima,Stanford Phonology Archive
-97,Mezquital Otomi (SPA),Otomi,Stanford Phonology Archive
-98,Central Mazahua (SPA),Mazahua,Stanford Phonology Archive
-99,Chiquihuitlan Mazatec (SPA),Mazateco,Stanford Phonology Archive
-100,San Miguel El Grande Mixtec (SPA),Mixtec,Stanford Phonology Archive
-101,Chachi (SPA),Cayapa,Stanford Phonology Archive
-102,Paez (SPA),Paez,Stanford Phonology Archive
-103,Itonama (SPA),Itonama,Stanford Phonology Archive
-104,South Bolivian Quechua (SPA),Quechua,Stanford Phonology Archive
-105,Central Aymara (SPA),Aymara,Stanford Phonology Archive
-106,Mapudungun (SPA),Araucanian,Stanford Phonology Archive
-107,Island Carib (SPA),Island Carib,Stanford Phonology Archive
-108,Wapishana (SPA),Wapishana,Stanford Phonology Archive
-109,Wayuu (SPA),Goajiro,Stanford Phonology Archive
-110,Ashaninka (SPA),Campa,Stanford Phonology Archive
-111,Ignaciano (SPA),Moxo,Stanford Phonology Archive
-112,Yanesha' (SPA),Amuesha,Stanford Phonology Archive
-113,Shuar (SPA),Jivaro,Stanford Phonology Archive
-114,Waimaha (SPA),Barasano,Stanford Phonology Archive
-115,Ticuna (SPA),Ticuna,Stanford Phonology Archive
-116,Galibi Carib (SPA),Carib,Stanford Phonology Archive
-117,Ocaina (SPA),Ocaina,Stanford Phonology Archive
-118,Siriono (SPA),Siriono,Stanford Phonology Archive
-119,Paraguayan Guarani (SPA),Guarani,Stanford Phonology Archive
-120,Amahuaca (SPA),Amahuaca,Stanford Phonology Archive
-121,Chacobo (SPA),Chacobo,Stanford Phonology Archive
-122,Apinaye (SPA),Apinaye,Stanford Phonology Archive
-123,Tarifit (SPA),Shilha,Stanford Phonology Archive
-124,Hausa (SPA),Hausa,Stanford Phonology Archive
-125,Ngas (SPA),Angas,Stanford Phonology Archive
-126,Marghi Central (SPA),Margi,Stanford Phonology Archive
-127,Somali (SPA),Somali,Stanford Phonology Archive
-128,Awngi (SPA),Awiya,Stanford Phonology Archive
-129,Iraqw (SPA),Iraqw,Stanford Phonology Archive
-130,Tigre (SPA),Tigre,Stanford Phonology Archive
-131,Amharic (SPA),Amharic,Stanford Phonology Archive
-132,Egyptian Arabic (SPA),Egyptian Arabic,Stanford Phonology Archive
-133,Moroccan Arabic (SPA),Moroccan Arabic,Stanford Phonology Archive
-134,Maltese (SPA),Maltese,Stanford Phonology Archive
-135,Hebrew (SPA),Modern Hebrew,Stanford Phonology Archive
-136,Katcha-Kadugli-Miri (SPA),Katcha,Stanford Phonology Archive
-137,Liberia Kpelle (SPA),Kpelle,Stanford Phonology Archive
-138,Nuclear Wolof (SPA),Wolof,Stanford Phonology Archive
-139,Dagbani (SPA),Dagbani,Stanford Phonology Archive
-140,Akan (SPA),Akan,Stanford Phonology Archive
-141,Ga (SPA),Ga,Stanford Phonology Archive
-142,Ewe (SPA),Ewe,Stanford Phonology Archive
-143,Nuclear Igbo (SPA),Igbo,Stanford Phonology Archive
-144,Beembe (SPA),Beembe,Stanford Phonology Archive
-145,Swahili (SPA),Swahili,Stanford Phonology Archive
-146,Luvale (SPA),Luvale,Stanford Phonology Archive
-147,Zulu (SPA),Zulu,Stanford Phonology Archive
-148,Gbaya-Bossangoa (SPA),Gbeya,Stanford Phonology Archive
-149,Koyraboro Senni Songhai (SPA),Songhai,Stanford Phonology Archive
-150,Central Kanuri (SPA),Kanuri,Stanford Phonology Archive
-151,Lugbara (SPA),Logbara,Stanford Phonology Archive
-152,Nobiin (SPA),Mahas-Fiyadikka,Stanford Phonology Archive
-153,Luo (Kenya and Tanzania) (SPA),Luo,Stanford Phonology Archive
-154,Masai (SPA),Maasai,Stanford Phonology Archive
-155,Nama (Namibia) (SPA),Nama,Stanford Phonology Archive
-156,Irish (SPA),Irish Gaelic,Stanford Phonology Archive
-157,Breton (SPA),Breton,Stanford Phonology Archive
-158,Icelandic (SPA),Icelandic,Stanford Phonology Archive
-159,Norwegian Bokmål (SPA),Norwegian,Stanford Phonology Archive
-160,Standard English (SPA),English,Stanford Phonology Archive
-161,Standard German (SPA),German,Stanford Phonology Archive
-162,Standard French (SPA),French,Stanford Phonology Archive
-163,Portuguese (SPA),Portuguese,Stanford Phonology Archive
-164,Standard Spanish (SPA),Spanish,Stanford Phonology Archive
-165,Romanian (SPA),Rumanian,Stanford Phonology Archive
-166,Russian (SPA),Russian,Stanford Phonology Archive
-167,Bulgarian (SPA),Bulgarian,Stanford Phonology Archive
-168,Lithuanian (SPA),Lithuanian,Stanford Phonology Archive
-169,Tosk Albanian (SPA),Albanian,Stanford Phonology Archive
-170,Modern Greek (1453-) (SPA),Modern Greek,Stanford Phonology Archive
-171,Nuclear Armenian (SPA),Armenian,Stanford Phonology Archive
-172,Western Farsi (SPA),Persian,Stanford Phonology Archive
-173,Central Pashto (SPA),Pashto,Stanford Phonology Archive
-174,Kashmiri (SPA),Kashimiri,Stanford Phonology Archive
-175,Panjabi (SPA),Punjabi,Stanford Phonology Archive
-176,Hindi (SPA),Hindi-Urdu,Stanford Phonology Archive
-177,Bengali (SPA),Bengali,Stanford Phonology Archive
-178,Sinhala (SPA),Sinhalese,Stanford Phonology Archive
-179,Basque (SPA),Basque,Stanford Phonology Archive
-180,Finnish (SPA),Finnish,Stanford Phonology Archive
-181,Eastern Mari (SPA),Cheremis,Stanford Phonology Archive
-182,Komi-Zyrian (SPA),Komi,Stanford Phonology Archive
-183,Hungarian (SPA),Hungarian,Stanford Phonology Archive
-184,Khanty (SPA),Ostyak,Stanford Phonology Archive
-185,Nenets (SPA),Yurak,Stanford Phonology Archive
-186,Nuclear Turkish (SPA),Turkish,Stanford Phonology Archive
-187,South Azerbaijani (SPA),Azerbaijani,Stanford Phonology Archive
-188,Kirghiz (SPA),Kirghiz,Stanford Phonology Archive
-189,Chuvash (SPA),Chuvash,Stanford Phonology Archive
-190,Yakut (SPA),Yakut,Stanford Phonology Archive
-191,Halh Mongolian (SPA),Khalkha,Stanford Phonology Archive
-192,Even (SPA),Even,Stanford Phonology Archive
-193,Southern Yukaghir (SPA),Yukaghir,Stanford Phonology Archive
-194,Gilyak (SPA),Gilyak,Stanford Phonology Archive
-195,Chukot (SPA),Chukchi,Stanford Phonology Archive
-196,Ainu (Japan) (SPA),Ainu,Stanford Phonology Archive
-197,Nuclear Japanese (SPA),Japanese,Stanford Phonology Archive
-198,Afade (UPSID),KOTOKO,UCLA Phonological Segment Inventory Database
-199,Achumawi (UPSID),ACHUMAWI,UCLA Phonological Segment Inventory Database
-200,Adzera (UPSID),ADZERA,UCLA Phonological Segment Inventory Database
-201,Eastern Arrernte (UPSID),ARRERNTE,UCLA Phonological Segment Inventory Database
-202,Amele (UPSID),AMELE,UCLA Phonological Segment Inventory Database
-203,Angaataha (UPSID),ANGAATIHA,UCLA Phonological Segment Inventory Database
-204,Aghem (UPSID),AGHEM,UCLA Phonological Segment Inventory Database
-205,Aproumu Aizi (UPSID),AIZI,UCLA Phonological Segment Inventory Database
-206,Ahtena (UPSID),AHTNA,UCLA Phonological Segment Inventory Database
-207,Ainu (Japan) (UPSID),AINU,UCLA Phonological Segment Inventory Database
-208,Akan (UPSID),AKAN,UCLA Phonological Segment Inventory Database
-209,Akawaio (UPSID),AKAWAIO,UCLA Phonological Segment Inventory Database
-210,Alabama (UPSID),ALABAMA,UCLA Phonological Segment Inventory Database
-211,Qawasqar (UPSID),QAWASQAR,UCLA Phonological Segment Inventory Database
-212,Alladian (UPSID),ALLADIAN,UCLA Phonological Segment Inventory Database
-213,Aleut (UPSID),ALEUT,UCLA Phonological Segment Inventory Database
-214,Alawa (UPSID),ALAWA,UCLA Phonological Segment Inventory Database
-215,Tosk Albanian (UPSID),ALBANIAN,UCLA Phonological Segment Inventory Database
-216,Amahuaca (UPSID),AMAHUACA,UCLA Phonological Segment Inventory Database
-217,Yanesha' (UPSID),AMUESHA,UCLA Phonological Segment Inventory Database
-218,Hamer-Banna (UPSID),HAMER,UCLA Phonological Segment Inventory Database
-219,Amharic (UPSID),AMHARIC,UCLA Phonological Segment Inventory Database
-220,Amo (UPSID),AMO,UCLA Phonological Segment Inventory Database
-221,Alamblak (UPSID),ALAMBLAK,UCLA Phonological Segment Inventory Database
-222,Guerrero Amuzgo (UPSID),AMUZGO,UCLA Phonological Segment Inventory Database
-223,Ngas (UPSID),ANGAS,UCLA Phonological Segment Inventory Database
-224,Andoque (UPSID),ANDOKE,UCLA Phonological Segment Inventory Database
-225,Antakarinya (UPSID),WESTERN DESERT,UCLA Phonological Segment Inventory Database
-226,Apinaye (UPSID),APINAYE,UCLA Phonological Segment Inventory Database
-227,A-Pucikwar (UPSID),ANDAMANESE,UCLA Phonological Segment Inventory Database
-228,Archi (UPSID),ARCHI,UCLA Phonological Segment Inventory Database
-229,Arabela (UPSID),ARABELA,UCLA Phonological Segment Inventory Database
-230,Mapudungun (UPSID),ARAUCANIAN,UCLA Phonological Segment Inventory Database
-231,Egyptian Arabic (UPSID),ARABIC,UCLA Phonological Segment Inventory Database
-232,Waorani (UPSID),AUCA,UCLA Phonological Segment Inventory Database
-233,Avar (UPSID),AVAR,UCLA Phonological Segment Inventory Database
-234,Awngi (UPSID),AWIYA,UCLA Phonological Segment Inventory Database
-235,Abipon (UPSID),ABIPON,UCLA Phonological Segment Inventory Database
-236,North Azerbaijani (UPSID),AZERBAIJANI,UCLA Phonological Segment Inventory Database
-237,Bashkir (UPSID),BASHKIR,UCLA Phonological Segment Inventory Database
-238,Bambara (UPSID),BAMBARA,UCLA Phonological Segment Inventory Database
-239,Waimaha (UPSID),BARASANO,UCLA Phonological Segment Inventory Database
-240,Baatonum (UPSID),BARIBA,UCLA Phonological Segment Inventory Database
-241,Batak Toba (UPSID),BATAK,UCLA Phonological Segment Inventory Database
-242,Bats (UPSID),BATS,UCLA Phonological Segment Inventory Database
-243,Northern Bobo Madare (UPSID),BOBO-FING,UCLA Phonological Segment Inventory Database
-244,Central Bai (UPSID),BAI,UCLA Phonological Segment Inventory Database
-245,Bardi (UPSID),BARDI,UCLA Phonological Segment Inventory Database
-246,Kohumono (UPSID),KOHUMONO,UCLA Phonological Segment Inventory Database
-247,Indonesian Bajau (UPSID),SAMA,UCLA Phonological Segment Inventory Database
-248,Bandjalang (UPSID),BANDJALANG,UCLA Phonological Segment Inventory Database
-249,Beja (UPSID),BEJA,UCLA Phonological Segment Inventory Database
-250,Bengali (UPSID),BENGALI,UCLA Phonological Segment Inventory Database
-251,Beembe (UPSID),BEEMBE,UCLA Phonological Segment Inventory Database
-252,Daloa Bete (UPSID),BETE,UCLA Phonological Segment Inventory Database
-253,Bissa (UPSID),BISA,UCLA Phonological Segment Inventory Database
-254,Bakairi (UPSID),BAKAIRI,UCLA Phonological Segment Inventory Database
-255,Bella Coola (UPSID),BELLA COOLA,UCLA Phonological Segment Inventory Database
-256,Muinane (UPSID),MUINANE,UCLA Phonological Segment Inventory Database
-257,Berom (UPSID),BIROM,UCLA Phonological Segment Inventory Database
-258,Bororo (UPSID),BORORO,UCLA Phonological Segment Inventory Database
-259,Lave (UPSID),BRAO,UCLA Phonological Segment Inventory Database
-260,Breton (UPSID),BRETON,UCLA Phonological Segment Inventory Database
-261,Brahui (UPSID),BRAHUI,UCLA Phonological Segment Inventory Database
-262,Western Bru (UPSID),BRUU,UCLA Phonological Segment Inventory Database
-263,Bodo (India) (UPSID),BODO,UCLA Phonological Segment Inventory Database
-264,Burushaski (UPSID),BURUSHASKI,UCLA Phonological Segment Inventory Database
-265,Bulgarian (UPSID),BULGARIAN,UCLA Phonological Segment Inventory Database
-266,Burarra (UPSID),BURARRA,UCLA Phonological Segment Inventory Database
-267,Qaqet (UPSID),BAINING,UCLA Phonological Segment Inventory Database
-268,Bribri (UPSID),BRIBRI,UCLA Phonological Segment Inventory Database
-269,Caddo (UPSID),CADDO,UCLA Phonological Segment Inventory Database
-270,Nivacle (UPSID),ASHUSLAY,UCLA Phonological Segment Inventory Database
-271,Car Nicobarese (UPSID),NICOBARESE,UCLA Phonological Segment Inventory Database
-272,Galibi Carib (UPSID),CARIB,UCLA Phonological Segment Inventory Database
-273,Chachi (UPSID),CAYAPA,UCLA Phonological Segment Inventory Database
-274,Nyahkur (UPSID),NYAH KUR,UCLA Phonological Segment Inventory Database
-275,Cacua (UPSID),CACUA,UCLA Phonological Segment Inventory Database
-276,Min Dong Chinese (UPSID),FUZHOU,UCLA Phonological Segment Inventory Database
-277,Chamorro (UPSID),CHAMORRO,UCLA Phonological Segment Inventory Database
-278,Chipewyan (UPSID),CHIPEWYAN,UCLA Phonological Segment Inventory Database
-279,Quiotepec Chinantec (UPSID),HIGHLAND CHINANTEC,UCLA Phonological Segment Inventory Database
-280,Cherokee (UPSID),CHEROKEE,UCLA Phonological Segment Inventory Database
-281,Chuvash (UPSID),CHUVASH,UCLA Phonological Segment Inventory Database
-282,Western Cham (UPSID),CHAM,UCLA Phonological Segment Inventory Database
-283,Upper Chehalis (UPSID),UPPER CHEHALIS,UCLA Phonological Segment Inventory Database
-284,Chuave (UPSID),CHUAVE,UCLA Phonological Segment Inventory Database
-285,Chukot (UPSID),CHUKCHI,UCLA Phonological Segment Inventory Database
-286,Mandarin Chinese (UPSID),MANDARIN,UCLA Phonological Segment Inventory Database
-287,Haka Chin (UPSID),LAI,UCLA Phonological Segment Inventory Database
-288,Ashaninka (UPSID),CAMPA,UCLA Phonological Segment Inventory Database
-289,Cofan (UPSID),COFAN,UCLA Phonological Segment Inventory Database
-290,Wamey (UPSID),KONYAGI,UCLA Phonological Segment Inventory Database
-291,Chuanqiandian Cluster Miao (UPSID),HMONG,UCLA Phonological Segment Inventory Database
-292,Island Carib (UPSID),ISLAND CARIB,UCLA Phonological Segment Inventory Database
-293,Tedim Chin (UPSID),TIDDIM CHIN,UCLA Phonological Segment Inventory Database
-294,Western Highland Chatino (UPSID),CHATINO,UCLA Phonological Segment Inventory Database
-295,Cubeo (UPSID),CUBEO,UCLA Phonological Segment Inventory Database
-296,Cayubaba (UPSID),CAYUVAVA,UCLA Phonological Segment Inventory Database
-297,Dangaleat (UPSID),DANGALEAT,UCLA Phonological Segment Inventory Database
-298,Dan (UPSID),DAN,UCLA Phonological Segment Inventory Database
-299,Dagbani (UPSID),DAGBANI,UCLA Phonological Segment Inventory Database
-300,Dar Fur Daju (UPSID),DAJU,UCLA Phonological Segment Inventory Database
-301,Dahalo (UPSID),DAHALO,UCLA Phonological Segment Inventory Database
-302,Nisi (India) (UPSID),DAFLA,UCLA Phonological Segment Inventory Database
-303,Dyirbal (UPSID),DYIRBAL,UCLA Phonological Segment Inventory Database
-304,Standard German (UPSID),GERMAN,UCLA Phonological Segment Inventory Database
-305,Dieri (UPSID),DIYARI,UCLA Phonological Segment Inventory Database
-306,Kumiai (UPSID),DIEGUENO,UCLA Phonological Segment Inventory Database
-307,Northeastern Dinka (UPSID),DINKA,UCLA Phonological Segment Inventory Database
-308,Lower Grand Valley Dani (UPSID),DANI,UCLA Phonological Segment Inventory Database
-309,Northern Dong (UPSID),KAM,UCLA Phonological Segment Inventory Database
-310,Doyayo (UPSID),DOAYO,UCLA Phonological Segment Inventory Database
-311,Rukai (UPSID),RUKAI,UCLA Phonological Segment Inventory Database
-312,Daur (UPSID),DAGUR,UCLA Phonological Segment Inventory Database
-313,Toro So Dogon (UPSID),DOGON,UCLA Phonological Segment Inventory Database
-314,Dhuwal (UPSID),YOLNGU,UCLA Phonological Segment Inventory Database
-315,Jola-Fonyi (UPSID),DIOLA,UCLA Phonological Segment Inventory Database
-316,Efik (UPSID),EFIK,UCLA Phonological Segment Inventory Database
-317,Ekari (UPSID),EKARI,UCLA Phonological Segment Inventory Database
-318,Modern Greek (1453-) (UPSID),GREEK,UCLA Phonological Segment Inventory Database
-319,Central Siberian Yupik (UPSID),YUPIK,UCLA Phonological Segment Inventory Database
-320,Ejagham (UPSID),EJAGHAM,UCLA Phonological Segment Inventory Database
-321,Basque (UPSID),BASQUE,UCLA Phonological Segment Inventory Database
-322,Even (UPSID),EVEN,UCLA Phonological Segment Inventory Database
-323,Ewe (UPSID),EWE,UCLA Phonological Segment Inventory Database
-324,Ewondo (UPSID),EWONDO,UCLA Phonological Segment Inventory Database
-325,Eyak (UPSID),EYAK,UCLA Phonological Segment Inventory Database
-326,Fasu (UPSID),FASU,UCLA Phonological Segment Inventory Database
-327,Nobiin (UPSID),NUBIAN,UCLA Phonological Segment Inventory Database
-328,Fijian (UPSID),FIJIAN,UCLA Phonological Segment Inventory Database
-329,Finnish (UPSID),FINNISH,UCLA Phonological Segment Inventory Database
-330,Fe'fe' (UPSID),FE?FE?,UCLA Phonological Segment Inventory Database
-331,Standard French (UPSID),FRENCH,UCLA Phonological Segment Inventory Database
-332,Fulnio (UPSID),IATE,UCLA Phonological Segment Inventory Database
-333,Fur (UPSID),FUR,UCLA Phonological Segment Inventory Database
-334,Fwai (UPSID),PO-AI,UCLA Phonological Segment Inventory Database
-335,Ga (UPSID),GA,UCLA Phonological Segment Inventory Database
-336,Gadsup (UPSID),GADSUP,UCLA Phonological Segment Inventory Database
-337,Garawa (UPSID),GARAWA,UCLA Phonological Segment Inventory Database
-338,Gbaya-Bossangoa (UPSID),GBEYA,UCLA Phonological Segment Inventory Database
-339,Gbagyi (UPSID),GWARI,UCLA Phonological Segment Inventory Database
-340,Gelao (UPSID),GELAO,UCLA Phonological Segment Inventory Database
-341,Nanai (UPSID),NANAI,UCLA Phonological Segment Inventory Database
-342,Irish (UPSID),IRISH,UCLA Phonological Segment Inventory Database
-343,Gamo-Gofa-Dawro (UPSID),KULLO,UCLA Phonological Segment Inventory Database
-344,Wayuu (UPSID),GUAJIRO,UCLA Phonological Segment Inventory Database
-345,Paraguayan Guarani (UPSID),GUARANI,UCLA Phonological Segment Inventory Database
-346,Guahibo (UPSID),GUAHIBO,UCLA Phonological Segment Inventory Database
-347,Guambiano (UPSID),GUAMBIANO,UCLA Phonological Segment Inventory Database
-348,Ache (UPSID),ACHE,UCLA Phonological Segment Inventory Database
-349,Kuku-Yalanji (UPSID),GUGU-YALANDYI,UCLA Phonological Segment Inventory Database
-350,Hakka Chinese (UPSID),HAKKA,UCLA Phonological Segment Inventory Database
-351,Hausa (UPSID),HAUSA,UCLA Phonological Segment Inventory Database
-352,Hawaiian (UPSID),HAWAIIAN,UCLA Phonological Segment Inventory Database
-353,Northern Haida (UPSID),HAIDA,UCLA Phonological Segment Inventory Database
-354,Hindi (UPSID),HINDI-URDU,UCLA Phonological Segment Inventory Database
-355,Hixkaryana (UPSID),HIXKARYANA,UCLA Phonological Segment Inventory Database
-356,Hopi (UPSID),HOPI,UCLA Phonological Segment Inventory Database
-357,Hadza (UPSID),HADZA,UCLA Phonological Segment Inventory Database
-358,Hungarian (UPSID),HUNGARIAN,UCLA Phonological Segment Inventory Database
-359,Hupa (UPSID),HUPA,UCLA Phonological Segment Inventory Database
-360,Huastec (UPSID),HUASTECO,UCLA Phonological Segment Inventory Database
-361,San Mateo Del Mar Huave (UPSID),HUAVE,UCLA Phonological Segment Inventory Database
-362,Nuclear Armenian (UPSID),ARMENIAN,UCLA Phonological Segment Inventory Database
-363,Iaai (UPSID),IAI,UCLA Phonological Segment Inventory Database
-364,Iban (UPSID),IBAN,UCLA Phonological Segment Inventory Database
-365,Nuclear Igbo (UPSID),IGBO,UCLA Phonological Segment Inventory Database
-366,Ignaciano (UPSID),MOXO,UCLA Phonological Segment Inventory Database
-367,Izon (UPSID),KOLOKUMA IJO,UCLA Phonological Segment Inventory Database
-368,Ik (UPSID),IK,UCLA Phonological Segment Inventory Database
-369,Irarutu (UPSID),IRARUTU,UCLA Phonological Segment Inventory Database
-370,Iraqw (UPSID),IRAQW,UCLA Phonological Segment Inventory Database
-371,Irantxe (UPSID),IRANXE,UCLA Phonological Segment Inventory Database
-372,Isoko (UPSID),ISOKO,UCLA Phonological Segment Inventory Database
-373,Itelmen (UPSID),ITELMEN,UCLA Phonological Segment Inventory Database
-374,Itonama (UPSID),ITONAMA,UCLA Phonological Segment Inventory Database
-375,Iu Mien (UPSID),MIEN,UCLA Phonological Segment Inventory Database
-376,Ivatan (UPSID),IVATAN,UCLA Phonological Segment Inventory Database
-377,Iwam (UPSID),IWAM,UCLA Phonological Segment Inventory Database
-378,Popti' (UPSID),JACALTEC,UCLA Phonological Segment Inventory Database
-379,Yanyuwa (UPSID),YANYPHA,UCLA Phonological Segment Inventory Database
-380,Javanese (UPSID),JAVANESE,UCLA Phonological Segment Inventory Database
-381,Jebero (UPSID),JEBERO,UCLA Phonological Segment Inventory Database
-382,Tol (UPSID),TOL,UCLA Phonological Segment Inventory Database
-383,Shuar (UPSID),JIVARO,UCLA Phonological Segment Inventory Database
-384,Nuclear Japanese (UPSID),JAPANESE,UCLA Phonological Segment Inventory Database
-385,Jaqaru (UPSID),JAQARU,UCLA Phonological Segment Inventory Database
-386,Japreria (UPSID),JAPRERIA,UCLA Phonological Segment Inventory Database
-387,Kachin (UPSID),JINGPHO,UCLA Phonological Segment Inventory Database
-388,Kalaallisut (UPSID),INUIT,UCLA Phonological Segment Inventory Database
-389,Kashmiri (UPSID),KASHMIRI,UCLA Phonological Segment Inventory Database
-390,Nuclear Georgian (UPSID),GEORGIAN,UCLA Phonological Segment Inventory Database
-391,Kabardian (UPSID),KABARDIAN,UCLA Phonological Segment Inventory Database
-392,Camsa (UPSID),CAMSA,UCLA Phonological Segment Inventory Database
-393,Grass Koiari (UPSID),KOIARI,UCLA Phonological Segment Inventory Database
-394,Kafa (UPSID),KEFA,UCLA Phonological Segment Inventory Database
-395,Dera (Indonesia) (UPSID),DERA,UCLA Phonological Segment Inventory Database
-396,Khanty (UPSID),KHANTY,UCLA Phonological Segment Inventory Database
-397,Kekchi (UPSID),K'EKCHI,UCLA Phonological Segment Inventory Database
-398,Kera (UPSID),KERA,UCLA Phonological Segment Inventory Database
-399,Ket (UPSID),KET,UCLA Phonological Segment Inventory Database
-400,Kota (India) (UPSID),KOTA,UCLA Phonological Segment Inventory Database
-401,Koya (UPSID),KOYA,UCLA Phonological Segment Inventory Database
-402,Kaingang (UPSID),KAINGANG,UCLA Phonological Segment Inventory Database
-403,Khasi (UPSID),KHASI,UCLA Phonological Segment Inventory Database
-404,Lu (UPSID),LUE,UCLA Phonological Segment Inventory Database
-405,Halh Mongolian (UPSID),KHALKHA,UCLA Phonological Segment Inventory Database
-406,Lusi (UPSID),KALIAI,UCLA Phonological Segment Inventory Database
-407,Central Khmer (UPSID),KHMER,UCLA Phonological Segment Inventory Database
-408,Kharia (UPSID),KHARIA,UCLA Phonological Segment Inventory Database
-409,Kiowa (UPSID),KIOWA,UCLA Phonological Segment Inventory Database
-410,Kirghiz (UPSID),KIRGHIZ,UCLA Phonological Segment Inventory Database
-411,Southern Kiwai (UPSID),SOUTHERN KIWAI,UCLA Phonological Segment Inventory Database
-412,Khmu (UPSID),KHMU?,UCLA Phonological Segment Inventory Database
-413,Western Keres (UPSID),ACOMA,UCLA Phonological Segment Inventory Database
-414,East Kewa (UPSID),KEWA,UCLA Phonological Segment Inventory Database
-415,Teke-Kukuya (UPSID),TEKE,UCLA Phonological Segment Inventory Database
-416,Klamath-Modoc (UPSID),KLAMATH,UCLA Phonological Segment Inventory Database
-417,Klao (UPSID),KLAO,UCLA Phonological Segment Inventory Database
-418,Kwoma (UPSID),KWOMA,UCLA Phonological Segment Inventory Database
-419,Northern Kurdish (UPSID),KURDISH,UCLA Phonological Segment Inventory Database
-420,Dera (Nigeria) (UPSID),KANAKURU,UCLA Phonological Segment Inventory Database
-421,Central Kanuri (UPSID),KANURI,UCLA Phonological Segment Inventory Database
-422,Konkani (UPSID),KONKANI,UCLA Phonological Segment Inventory Database
-423,Korean (UPSID),KOREAN,UCLA Phonological Segment Inventory Database
-424,Kpan (UPSID),KPAN,UCLA Phonological Segment Inventory Database
-425,Koho (UPSID),SRE,UCLA Phonological Segment Inventory Database
-426,Komi-Zyrian (UPSID),KOMI,UCLA Phonological Segment Inventory Database
-427,Koryak (UPSID),KORYAK,UCLA Phonological Segment Inventory Database
-428,Kupsabiny (UPSID),SEBEI,UCLA Phonological Segment Inventory Database
-429,Kurukh (UPSID),KURUKH,UCLA Phonological Segment Inventory Database
-430,S'gaw Karen (UPSID),KAREN,UCLA Phonological Segment Inventory Database
-431,Kalkutung (UPSID),KALKATUNGU,UCLA Phonological Segment Inventory Database
-432,Ju/'hoan (UPSID),!XU,UCLA Phonological Segment Inventory Database
-433,Kunama (UPSID),KUNAMA,UCLA Phonological Segment Inventory Database
-434,Kunimaipa (UPSID),KUNIMAIPA,UCLA Phonological Segment Inventory Database
-435,Border Kuna (UPSID),CUNA,UCLA Phonological Segment Inventory Database
-436,Kwaio (UPSID),KWAIO,UCLA Phonological Segment Inventory Database
-437,Kwakiutl (UPSID),KWAKW'ALA,UCLA Phonological Segment Inventory Database
-438,Karok (UPSID),KAROK,UCLA Phonological Segment Inventory Database
-439,Lakkia (UPSID),LAKKIA,UCLA Phonological Segment Inventory Database
-440,Lak (UPSID),LAK,UCLA Phonological Segment Inventory Database
-441,Lelemi (UPSID),LELEMI,UCLA Phonological Segment Inventory Database
-442,Lugbara (UPSID),LUGBARA,UCLA Phonological Segment Inventory Database
-443,Lahu (UPSID),LAHU,UCLA Phonological Segment Inventory Database
-444,Lithuanian (UPSID),LITHUANIAN,UCLA Phonological Segment Inventory Database
-445,Lakota (UPSID),DAKOTA,UCLA Phonological Segment Inventory Database
-446,Peve (UPSID),LAME,UCLA Phonological Segment Inventory Database
-447,Luiseno (UPSID),LUISENO,UCLA Phonological Segment Inventory Database
-448,Luo (Kenya and Tanzania) (UPSID),LUO,UCLA Phonological Segment Inventory Database
-449,Lushootseed (UPSID),LUSHOOTSEED,UCLA Phonological Segment Inventory Database
-450,Chiquihuitlan Mazatec (UPSID),MAZATEC,UCLA Phonological Segment Inventory Database
-451,Masai (UPSID),MAASAI,UCLA Phonological Segment Inventory Database
-452,Central Mazahua (UPSID),MAZAHUA,UCLA Phonological Segment Inventory Database
-453,Maxakali (UPSID),MAXAKALI,UCLA Phonological Segment Inventory Database
-454,Cameroon Mambila (UPSID),MAMBILA,UCLA Phonological Segment Inventory Database
-455,Mbum (UPSID),MBUM,UCLA Phonological Segment Inventory Database
-456,Maba (Chad) (UPSID),MABA,UCLA Phonological Segment Inventory Database
-457,Dizin (UPSID),DIZI,UCLA Phonological Segment Inventory Database
-458,Mba (UPSID),MBA-NE,UCLA Phonological Segment Inventory Database
-459,Mogholi (UPSID),MOGHOL,UCLA Phonological Segment Inventory Database
-460,Eastern Mari (UPSID),MARI,UCLA Phonological Segment Inventory Database
-461,San Miguel El Grande Mixtec (UPSID),MIXTEC,UCLA Phonological Segment Inventory Database
-462,Tu (UPSID),MONGUOR,UCLA Phonological Segment Inventory Database
-463,Manchu (UPSID),MANCHU,UCLA Phonological Segment Inventory Database
-464,Mor (Bomberai Peninsula) (UPSID),MOR,UCLA Phonological Segment Inventory Database
-465,Moro (UPSID),MORO,UCLA Phonological Segment Inventory Database
-466,Mullukmulluk (UPSID),MALAKMALAK,UCLA Phonological Segment Inventory Database
-467,Maung (UPSID),MAUNG,UCLA Phonological Segment Inventory Database
-468,Dadibi (UPSID),DADIBI,UCLA Phonological Segment Inventory Database
-469,West Makian (UPSID),WEST MAKIAN,UCLA Phonological Segment Inventory Database
-470,Marghi Central (UPSID),MARGI,UCLA Phonological Segment Inventory Database
-471,Maranao (UPSID),MARANAO,UCLA Phonological Segment Inventory Database
-472,Totontepec Mixe (UPSID),MIXE,UCLA Phonological Segment Inventory Database
-473,Murle (UPSID),MURSI,UCLA Phonological Segment Inventory Database
-474,Murrinh-Patha (UPSID),MURINHPATHA,UCLA Phonological Segment Inventory Database
-475,Kala Lagaw Ya (UPSID),KALA LAGAW YA,UCLA Phonological Segment Inventory Database
-476,Nuclear Burmese (UPSID),BURMESE,UCLA Phonological Segment Inventory Database
-477,Piraha (UPSID),PIRAHA,UCLA Phonological Segment Inventory Database
-478,Nuclear Mumuye (UPSID),MUMUYE,UCLA Phonological Segment Inventory Database
-479,Movima (UPSID),MOVIMA,UCLA Phonological Segment Inventory Database
-480,Southern Nambikuara (UPSID),SOUTHERN NAMBIQUARA,UCLA Phonological Segment Inventory Database
-481,Min Nan Chinese (UPSID),XIAMEN,UCLA Phonological Segment Inventory Database
-482,Nama (Namibia) (UPSID),NAMA,UCLA Phonological Segment Inventory Database
-483,Naasioi (UPSID),NASIOI,UCLA Phonological Segment Inventory Database
-484,Navajo (UPSID),NAVAJO,UCLA Phonological Segment Inventory Database
-485,Naxi (UPSID),NAXI,UCLA Phonological Segment Inventory Database
-486,Northern Puebla Nahuatl (UPSID),NAHUATL,UCLA Phonological Segment Inventory Database
-487,Ndut (UPSID),NDUT,UCLA Phonological Segment Inventory Database
-488,Nepali (UPSID),NEPALI,UCLA Phonological Segment Inventory Database
-489,Newari (UPSID),NEWARI,UCLA Phonological Segment Inventory Database
-490,Nez Perce (UPSID),NEZ PERCE,UCLA Phonological Segment Inventory Database
-491,Ngizim (UPSID),NGIZIM,UCLA Phonological Segment Inventory Database
-492,Noone (UPSID),NONI,UCLA Phonological Segment Inventory Database
-493,Niellim (UPSID),LUA,UCLA Phonological Segment Inventory Database
-494,Nganasan (UPSID),NGANASAN,UCLA Phonological Segment Inventory Database
-495,Nuclear Nimboran (UPSID),NIMBORAN,UCLA Phonological Segment Inventory Database
-496,Gilyak (UPSID),NIVKH,UCLA Phonological Segment Inventory Database
-497,Ao Naga (UPSID),AO,UCLA Phonological Segment Inventory Database
-498,Northeast Maidu (UPSID),MAIDU,UCLA Phonological Segment Inventory Database
-499,Norwegian Bokmål (UPSID),NORWEGIAN,UCLA Phonological Segment Inventory Database
-500,Nootka (UPSID),TSESHAHT,UCLA Phonological Segment Inventory Database
-501,Nara (UPSID),NERA,UCLA Phonological Segment Inventory Database
-502,Nung (Viet Nam) (UPSID),LUNGCHOW,UCLA Phonological Segment Inventory Database
-503,Nunggubuyu (UPSID),NUNGGUBUYU,UCLA Phonological Segment Inventory Database
-504,Ama (Sudan) (UPSID),NYIMANG,UCLA Phonological Segment Inventory Database
-505,Nyang'i (UPSID),NYANGI,UCLA Phonological Segment Inventory Database
-506,Ocaina (UPSID),OCAINA,UCLA Phonological Segment Inventory Database
-507,Ogbia (UPSID),OGBIA,UCLA Phonological Segment Inventory Database
-508,Eastern Ojibwa (UPSID),OJIBWA,UCLA Phonological Segment Inventory Database
-509,Tohono O'odham (UPSID),PAPAGO,UCLA Phonological Segment Inventory Database
-510,Ormuri (UPSID),ORMURI,UCLA Phonological Segment Inventory Database
-511,Pacoh (UPSID),PACOH,UCLA Phonological Segment Inventory Database
-512,Pech (UPSID),PAYA,UCLA Phonological Segment Inventory Database
-513,Paez (UPSID),PAEZ,UCLA Phonological Segment Inventory Database
-514,E'napa Woromaipu (UPSID),PANARE,UCLA Phonological Segment Inventory Database
-515,Bouyei (UPSID),YAY,UCLA Phonological Segment Inventory Database
-516,Western Farsi (UPSID),FARSI,UCLA Phonological Segment Inventory Database
-517,Plateau Malagasy (UPSID),MALAGASY,UCLA Phonological Segment Inventory Database
-518,Southeastern Pomo (UPSID),POMO,UCLA Phonological Segment Inventory Database
-519,Pohnpeian (UPSID),POHNPEIAN,UCLA Phonological Segment Inventory Database
-520,Parauk (UPSID),PARAUK,UCLA Phonological Segment Inventory Database
-521,Central Pashto (UPSID),PASHTO,UCLA Phonological Segment Inventory Database
-522,Paiwan (UPSID),PAIWAN,UCLA Phonological Segment Inventory Database
-523,Pwo Northern Karen (UPSID),PHLONG,UCLA Phonological Segment Inventory Database
-524,South Bolivian Quechua (UPSID),QUECHUA,UCLA Phonological Segment Inventory Database
-525,Quileute (UPSID),QUILEUTE,UCLA Phonological Segment Inventory Database
-526,Resigaro (UPSID),RESIGARO,UCLA Phonological Segment Inventory Database
-527,Romanian (UPSID),ROMANIAN,UCLA Phonological Segment Inventory Database
-528,Rotokas (UPSID),ROTOKAS,UCLA Phonological Segment Inventory Database
-529,Waima (UPSID),RORO,UCLA Phonological Segment Inventory Database
-530,Russian (UPSID),RUSSIAN,UCLA Phonological Segment Inventory Database
-531,Rutul (UPSID),RUTUL,UCLA Phonological Segment Inventory Database
-532,Sandawe (UPSID),SANDAWE,UCLA Phonological Segment Inventory Database
-533,Sango (UPSID),SANGO,UCLA Phonological Segment Inventory Database
-534,Yakut (UPSID),YAKUT,UCLA Phonological Segment Inventory Database
-535,Sedang (UPSID),SEDANG,UCLA Phonological Segment Inventory Database
-536,Seneca (UPSID),SENECA,UCLA Phonological Segment Inventory Database
-537,Cebaara Senoufo (UPSID),SENADI,UCLA Phonological Segment Inventory Database
-538,Selkup (UPSID),SELKUP,UCLA Phonological Segment Inventory Database
-539,Koyraboro Senni Songhai (UPSID),SONGHAI,UCLA Phonological Segment Inventory Database
-540,Nuclear Nuclear Sentani (UPSID),SENTANI,UCLA Phonological Segment Inventory Database
-541,Ninam (UPSID),SHIRIANA,UCLA Phonological Segment Inventory Database
-542,Tachelhit (UPSID),SHILHA,UCLA Phonological Segment Inventory Database
-543,Shuswap (UPSID),SHUSWAP,UCLA Phonological Segment Inventory Database
-544,Shasta (UPSID),SHASTA,UCLA Phonological Segment Inventory Database
-545,Sinhala (UPSID),SINHALESE,UCLA Phonological Segment Inventory Database
-546,Epena (UPSID),EPENA PEDEE,UCLA Phonological Segment Inventory Database
-547,Southern Sierra Miwok (UPSID),SIERRA MIWOK,UCLA Phonological Segment Inventory Database
-548,Saliba (Colombia) (UPSID),SALIBA,UCLA Phonological Segment Inventory Database
-549,Southern Sami (UPSID),SAAMI,UCLA Phonological Segment Inventory Database
-550,Siona (UPSID),SIONA,UCLA Phonological Segment Inventory Database
-551,Sa'ban (UPSID),SA'BAN,UCLA Phonological Segment Inventory Database
-552,Somali (UPSID),SOMALI,UCLA Phonological Segment Inventory Database
-553,Standard Spanish (UPSID),SPANISH,UCLA Phonological Segment Inventory Database
-554,Selepet (UPSID),SELEPET,UCLA Phonological Segment Inventory Database
-555,Soqotri (UPSID),SOCOTRI,UCLA Phonological Segment Inventory Database
-556,Siriono (UPSID),SIRIONO,UCLA Phonological Segment Inventory Database
-557,Natügu (UPSID),NAMBAKAENGO,UCLA Phonological Segment Inventory Database
-558,Suena (UPSID),SUENA,UCLA Phonological Segment Inventory Database
-559,Savosavo (UPSID),SAVOSAVO,UCLA Phonological Segment Inventory Database
-560,Sui (UPSID),SUI,UCLA Phonological Segment Inventory Database
-561,Eastern Tamang (UPSID),TAMANG,UCLA Phonological Segment Inventory Database
-562,Atayal (UPSID),ATAYAL,UCLA Phonological Segment Inventory Database
-563,Aikana (UPSID),HUARI,UCLA Phonological Segment Inventory Database
-564,Gaam (UPSID),TABI,UCLA Phonological Segment Inventory Database
-565,Ticuna (UPSID),TICUNA,UCLA Phonological Segment Inventory Database
-566,Tulu (UPSID),TULU,UCLA Phonological Segment Inventory Database
-567,Tehuelche (UPSID),TEHUELCHE,UCLA Phonological Segment Inventory Database
-568,Telugu (UPSID),TELUGU,UCLA Phonological Segment Inventory Database
-569,Timne (UPSID),TEMNE,UCLA Phonological Segment Inventory Database
-570,Nuclear Temein (UPSID),TEMEIN,UCLA Phonological Segment Inventory Database
-571,Tetum (UPSID),TETUN,UCLA Phonological Segment Inventory Database
-572,Tigak (UPSID),TIGAK,UCLA Phonological Segment Inventory Database
-573,Tagalog (UPSID),TAGALOG,UCLA Phonological Segment Inventory Database
-574,Thai (UPSID),THAI,UCLA Phonological Segment Inventory Database
-575,Tahaggart Tamahaq (UPSID),TAMASHEQ,UCLA Phonological Segment Inventory Database
-576,Tigre (UPSID),TIGRE,UCLA Phonological Segment Inventory Database
-577,Tiwi (UPSID),TIWI,UCLA Phonological Segment Inventory Database
-578,Tiruray (UPSID),TIRURAY,UCLA Phonological Segment Inventory Database
-579,Tlingit (UPSID),TLINGIT,UCLA Phonological Segment Inventory Database
-580,Talodi (UPSID),JOMANG,UCLA Phonological Segment Inventory Database
-581,Tama (Chad) (UPSID),TAMA,UCLA Phonological Segment Inventory Database
-582,Tamnim Citak (UPSID),ASMAT,UCLA Phonological Segment Inventory Database
-583,Tacana (UPSID),TACANA,UCLA Phonological Segment Inventory Database
-584,Lenakel (UPSID),LENAKEL,UCLA Phonological Segment Inventory Database
-585,Papantla Totonac (UPSID),TOTONAC,UCLA Phonological Segment Inventory Database
-586,Tampulma (UPSID),TAMPULMA,UCLA Phonological Segment Inventory Database
-587,Acatepec Me'phaa (UPSID),TLAPANEC,UCLA Phonological Segment Inventory Database
-588,Trumai (UPSID),TRUMAI,UCLA Phonological Segment Inventory Database
-589,Toaripi (UPSID),TAORIPI,UCLA Phonological Segment Inventory Database
-590,Tonkawa (UPSID),TONKAWA,UCLA Phonological Segment Inventory Database
-591,Lishan Didan (UPSID),NEO-ARAMAIC,UCLA Phonological Segment Inventory Database
-592,Nuclear Tsimshian (UPSID),TSIMSHIAN,UCLA Phonological Segment Inventory Database
-593,Tsou (UPSID),TSOU,UCLA Phonological Segment Inventory Database
-594,Purepecha (UPSID),TARASCAN,UCLA Phonological Segment Inventory Database
-595,Tera (UPSID),TERA,UCLA Phonological Segment Inventory Database
-596,Tunica (UPSID),TUNICA,UCLA Phonological Segment Inventory Database
-597,Nuclear Turkish (UPSID),TURKISH,UCLA Phonological Segment Inventory Database
-598,Northern Tiwa (UPSID),PICURIS,UCLA Phonological Segment Inventory Database
-599,Tuvinian (UPSID),TUVA,UCLA Phonological Segment Inventory Database
-600,Tzeltal (UPSID),TZELTAL,UCLA Phonological Segment Inventory Database
-601,Ngarinyin (UPSID),NGARINJIN,UCLA Phonological Segment Inventory Database
-602,Mundari (UPSID),MUNDARI,UCLA Phonological Segment Inventory Database
-603,Northern Uzbek (UPSID),UZBEK,UCLA Phonological Segment Inventory Database
-604,Vanimo (UPSID),VANIMO,UCLA Phonological Segment Inventory Database
-605,Vietnamese (UPSID),VIETNAMESE,UCLA Phonological Segment Inventory Database
-606,Mbabaram (UPSID),MBABARAM,UCLA Phonological Segment Inventory Database
-607,Wappo (UPSID),WAPPO,UCLA Phonological Segment Inventory Database
-608,Wapishana (UPSID),WAPISHANA,UCLA Phonological Segment Inventory Database
-609,Warao (UPSID),WARAO,UCLA Phonological Segment Inventory Database
-610,Nuclear Wahgi (UPSID),WAHGI,UCLA Phonological Segment Inventory Database
-611,Wichita (UPSID),WICHITA,UCLA Phonological Segment Inventory Database
-612,Wik-Mungkan (UPSID),WIK-MUNKAN,UCLA Phonological Segment Inventory Database
-613,Wintu (UPSID),WINTU,UCLA Phonological Segment Inventory Database
-614,Wiyot (UPSID),WIYOT,UCLA Phonological Segment Inventory Database
-615,Wantoat (UPSID),WANTOAT,UCLA Phonological Segment Inventory Database
-616,Usan (UPSID),USAN,UCLA Phonological Segment Inventory Database
-617,Kamang (UPSID),WOISIKA,UCLA Phonological Segment Inventory Database
-618,Nuclear Wolof (UPSID),WOLOF,UCLA Phonological Segment Inventory Database
-619,Waris (UPSID),WARIS,UCLA Phonological Segment Inventory Database
-620,Waray (Australia) (UPSID),WARAY,UCLA Phonological Segment Inventory Database
-621,Berta (UPSID),BERTA,UCLA Phonological Segment Inventory Database
-622,Wu Chinese (UPSID),CHANGZHOU,UCLA Phonological Segment Inventory Database
-623,Wangaaybuwan-Ngiyambaa (UPSID),NGIYAMBAA,UCLA Phonological Segment Inventory Database
-624,Kawaiisu (UPSID),KAWAIISU,UCLA Phonological Segment Inventory Database
-625,Komo (Sudan) (UPSID),KOMA,UCLA Phonological Segment Inventory Database
-626,Liberia Kpelle (UPSID),KPELLE,UCLA Phonological Segment Inventory Database
-627,Katcha-Kadugli-Miri (UPSID),KADUGLI,UCLA Phonological Segment Inventory Database
-628,Yagua (UPSID),YAGUA,UCLA Phonological Segment Inventory Database
-629,Yaqui (UPSID),YAQUI,UCLA Phonological Segment Inventory Database
-630,Yucuna (UPSID),YUCUNA,UCLA Phonological Segment Inventory Database
-631,Tarok (UPSID),TAROK,UCLA Phonological Segment Inventory Database
-632,Yagaria (UPSID),YAGARIA,UCLA Phonological Segment Inventory Database
-633,Yidiny (UPSID),YIDINY,UCLA Phonological Segment Inventory Database
-634,Northern Yukaghir (UPSID),YUKAGHIR,UCLA Phonological Segment Inventory Database
-635,Yana (UPSID),YANA,UCLA Phonological Segment Inventory Database
-636,Yoruba (UPSID),YORUBA,UCLA Phonological Segment Inventory Database
-637,Yareba (UPSID),YAREBA,UCLA Phonological Segment Inventory Database
-638,Nenets (UPSID),NENETS,UCLA Phonological Segment Inventory Database
-639,Yessan-Mayo (UPSID),YESSAN-MAYO,UCLA Phonological Segment Inventory Database
-640,Yucateco (UPSID),YUCATEC,UCLA Phonological Segment Inventory Database
-641,Yuchi (UPSID),YUCHI,UCLA Phonological Segment Inventory Database
-642,Yue Chinese (UPSID),TAISHAN,UCLA Phonological Segment Inventory Database
-643,Yulu (UPSID),YULU,UCLA Phonological Segment Inventory Database
-644,Nuclear Yawa (UPSID),YAWA,UCLA Phonological Segment Inventory Database
-645,Zande (UPSID),AZANDE,UCLA Phonological Segment Inventory Database
-646,Copainala Zoque (UPSID),ZOQUE,UCLA Phonological Segment Inventory Database
-647,Zulu (UPSID),ZULU,UCLA Phonological Segment Inventory Database
-648,Zuni (UPSID),ZUNI,UCLA Phonological Segment Inventory Database
-649,Abidji (AA),abidji,Christian Chanard and Rhonda L. Hartell
-650,Adioukrou (AA),adioukrou,Christian Chanard and Rhonda L. Hartell
-651,Aja (Benin) 1 (AA),adja (Bénin),Christian Chanard and Rhonda L. Hartell
-652,Aja (Benin) 2 (AA),adja (Togo),Christian Chanard and Rhonda L. Hartell
-653,Anyin Morofo (AA),agni sanvi,Christian Chanard and Rhonda L. Hartell
-654,Igo (AA),ahlõ,Christian Chanard and Rhonda L. Hartell
-655,Akan (AA),akan,Christian Chanard and Rhonda L. Hartell
-656,Akoose (AA),akɔɔse (bakossi),Christian Chanard and Rhonda L. Hartell
-657,Ngas (AA),angas,Christian Chanard and Rhonda L. Hartell
-658,Anufo (AA),anufɔ ,Christian Chanard and Rhonda L. Hartell
-659,Sudanese Arabic (AA),arabe,Christian Chanard and Rhonda L. Hartell
-660,Avokaya (AA),avokaya,Christian Chanard and Rhonda L. Hartell
-661,Vengo (AA),"babungo (grassfields bantu, ring)",Christian Chanard and Rhonda L. Hartell
-662,Bafut (AA),bafut,Christian Chanard and Rhonda L. Hartell
-663,Baka (Cameroon) (AA),baka,Christian Chanard and Rhonda L. Hartell
-664,Bambara (AA),bambara,Christian Chanard and Rhonda L. Hartell
-665,Banda-Ndele 1 (AA),banda (CAF),Christian Chanard and Rhonda L. Hartell
-666,Banda-Ndele 2 (AA),banda (Sudan),Christian Chanard and Rhonda L. Hartell
-667,Bandi (AA),bandi (gbande),Christian Chanard and Rhonda L. Hartell
-668,Baoule (AA),baoulé (baule; baulé),Christian Chanard and Rhonda L. Hartell
-669,Baatonum (AA),bariba,Christian Chanard and Rhonda L. Hartell
-670,Basa (Cameroon) (AA),basaa,Christian Chanard and Rhonda L. Hartell
-671,Nuclear Bassa (AA),bassa,Christian Chanard and Rhonda L. Hartell
-672,Ntcham (AA),bassar ,Christian Chanard and Rhonda L. Hartell
-673,Gagnoa Bete (AA),bété,Christian Chanard and Rhonda L. Hartell
-674,Bekwarra (AA),bekwarra,Christian Chanard and Rhonda L. Hartell
-675,Berom (AA),berom,Christian Chanard and Rhonda L. Hartell
-676,Beng (AA),bɛ̀ŋ (ngain),Christian Chanard and Rhonda L. Hartell
-677,Bhele (AA),bhele,Christian Chanard and Rhonda L. Hartell
-678,Biali (AA),biali,Christian Chanard and Rhonda L. Hartell
-679,Bimoba (AA),bimoba,Christian Chanard and Rhonda L. Hartell
-680,Bissa (AA),bisa,Christian Chanard and Rhonda L. Hartell
-681,Northern Bobo Madare (AA),bobo (boomu),Christian Chanard and Rhonda L. Hartell
-682,Boko (Benin) (AA),boussa (boko),Christian Chanard and Rhonda L. Hartell
-683,Hainyaxo Bozo (AA),bozo,Christian Chanard and Rhonda L. Hartell
-684,Bulu (Cameroon) (AA),bulu,Christian Chanard and Rhonda L. Hartell
-685,Cerma (AA),cerma ,Christian Chanard and Rhonda L. Hartell
-686,Chumburung (AA),chumburung,Christian Chanard and Rhonda L. Hartell
-687,Nuclear Daba (AA),daba,Christian Chanard and Rhonda L. Hartell
-688,Southern Dagaare (AA),dagaare,Christian Chanard and Rhonda L. Hartell
-689,Northern Dagara (AA),dagara,Christian Chanard and Rhonda L. Hartell
-690,Dagbani (AA),dagbani,Christian Chanard and Rhonda L. Hartell
-691,Dan (AA),dan ,Christian Chanard and Rhonda L. Hartell
-692,Adangme (AA),dangme ,Christian Chanard and Rhonda L. Hartell
-693,Dazaga (AA),daza,Christian Chanard and Rhonda L. Hartell
-694,Luo (Kenya and Tanzania) (AA),dholuo,Christian Chanard and Rhonda L. Hartell
-695,Lakota Dida (AA),dida,Christian Chanard and Rhonda L. Hartell
-696,Dyula (AA),dioula,Christian Chanard and Rhonda L. Hartell
-697,Ditammari (AA),ditammari,Christian Chanard and Rhonda L. Hartell
-698,Doyayo (AA),doayo,Christian Chanard and Rhonda L. Hartell
-699,Toro So Dogon (AA),dogon ,Christian Chanard and Rhonda L. Hartell
-700,Duala (AA),duala,Christian Chanard and Rhonda L. Hartell
-701,Duruma (AA),duruma,Christian Chanard and Rhonda L. Hartell
-702,Ebira (AA),ebira,Christian Chanard and Rhonda L. Hartell
-703,Ewe (AA),eʋe,Christian Chanard and Rhonda L. Hartell
-704,Bini (AA),ẹdo ,Christian Chanard and Rhonda L. Hartell
-705,Izi-Ezaa-Ikwo-Mgbo 1 (AA),ẹzaa,Christian Chanard and Rhonda L. Hartell
-706,Ejagham (AA),ejagham de l'ouest,Christian Chanard and Rhonda L. Hartell
-707,Emai-Iuleha-Ora (AA),emai,Christian Chanard and Rhonda L. Hartell
-708,Engenni (AA),engenni,Christian Chanard and Rhonda L. Hartell
-709,Ewondo (AA),ewondo,Christian Chanard and Rhonda L. Hartell
-710,Fe'fe' (AA),fe'efe'fe,Christian Chanard and Rhonda L. Hartell
-711,Fon (AA),fɔn,Christian Chanard and Rhonda L. Hartell
-712,Adamawa Fulfulde (AA),fulfulde (Cameroon),Christian Chanard and Rhonda L. Hartell
-713,Central-Eastern Niger Fulfulde (AA),fulfulde (Niger),Christian Chanard and Rhonda L. Hartell
-714,Maasina Fulfulde (AA),fulfulde (Mali),Christian Chanard and Rhonda L. Hartell
-715,Western Niger Fulfulde (AA),fulfulde (Burkina Faso),Christian Chanard and Rhonda L. Hartell
-716,Fuliiru (AA),fuliru,Christian Chanard and Rhonda L. Hartell
-717,Ga (AA),ga,Christian Chanard and Rhonda L. Hartell
-718,Ngangam (AA),gangam,Christian Chanard and Rhonda L. Hartell
-719,Northwest Gbaya (AA),"gbaya (Northwest, CAR)",Christian Chanard and Rhonda L. Hartell
-720,Gbaya-Bossangoa (AA),"gbaya (Bossangoa, CAR)",Christian Chanard and Rhonda L. Hartell
-721,Gen 1 (AA),gɛn-mina (Benin),Christian Chanard and Rhonda L. Hartell
-722,Gen 2 (AA),gɛn-mina (Togo),Christian Chanard and Rhonda L. Hartell
-723,Godie (AA),godié,Christian Chanard and Rhonda L. Hartell
-724,Gonja (AA),gonja,Christian Chanard and Rhonda L. Hartell
-725,Northern Grebo (AA),grebo,Christian Chanard and Rhonda L. Hartell
-726,Gude (AA),guɗe,Christian Chanard and Rhonda L. Hartell
-727,Gourmanchema (AA),gulmancema ,Christian Chanard and Rhonda L. Hartell
-728,Hanga (AA),hanga,Christian Chanard and Rhonda L. Hartell
-729,Hausa 1 (AA),hausa (Niger),Christian Chanard and Rhonda L. Hartell
-730,Hausa 2 (AA),hausa (Nigeria),Christian Chanard and Rhonda L. Hartell
-731,Ife (AA),ifɛ̀,Christian Chanard and Rhonda L. Hartell
-732,Nuclear Igbo (AA),igbo,Christian Chanard and Rhonda L. Hartell
-733,Igede (AA),igede,Christian Chanard and Rhonda L. Hartell
-734,Southeast Ijo (AA),ijo de l'est; Eastern Ijo (Okrika),Christian Chanard and Rhonda L. Hartell
-735,Izi-Ezaa-Ikwo-Mgbo 2 (AA),ikwo,Christian Chanard and Rhonda L. Hartell
-736,Izi-Ezaa-Ikwo-Mgbo 3 (AA),izi,Christian Chanard and Rhonda L. Hartell
-737,Jola-Fonyi (AA),joola ,Christian Chanard and Rhonda L. Hartell
-738,Jur Modo (AA),jur mödö,Christian Chanard and Rhonda L. Hartell
-739,Kabiye (AA),kabiyɛ,Christian Chanard and Rhonda L. Hartell
-740,Kako (AA),kakɔ,Christian Chanard and Rhonda L. Hartell
-741,Baangi (AA),kambari,Christian Chanard and Rhonda L. Hartell
-742,Central Kanuri (AA),kanuri,Christian Chanard and Rhonda L. Hartell
-743,Western Karaboro (AA),karaboro,Christian Chanard and Rhonda L. Hartell
-744,Karang (AA),karaŋ,Christian Chanard and Rhonda L. Hartell
-745,Kasem 1 (AA),kasem,Christian Chanard and Rhonda L. Hartell
-746,Kasem 2 (AA),kasɩm,Christian Chanard and Rhonda L. Hartell
-747,Koonzime (AA),kɔɔzime,Christian Chanard and Rhonda L. Hartell
-748,Kikuyu (AA),kikuyu,Christian Chanard and Rhonda L. Hartell
-749,Northern Kissi (AA),kisiei,Christian Chanard and Rhonda L. Hartell
-750,Kom (Cameroon) (AA),kom,Christian Chanard and Rhonda L. Hartell
-751,Komo (Democratic Republic of Congo) (AA),komo,Christian Chanard and Rhonda L. Hartell
-752,Konkomba (AA),konkomba,Christian Chanard and Rhonda L. Hartell
-753,Liberia Kpelle (AA),kpelle,Christian Chanard and Rhonda L. Hartell
-754,Guinea Kpelle (AA),kpɛlɛwoo,Christian Chanard and Rhonda L. Hartell
-755,Gbaya (Sudan) (AA),kresh,Christian Chanard and Rhonda L. Hartell
-756,Krio (AA),krio,Christian Chanard and Rhonda L. Hartell
-757,Tepo Krumen (AA),kroumen tépo,Christian Chanard and Rhonda L. Hartell
-758,Kuria (AA),kuria,Christian Chanard and Rhonda L. Hartell
-759,Kusaal (AA),kusal,Christian Chanard and Rhonda L. Hartell
-760,Lama (Togo) (AA),lama,Christian Chanard and Rhonda L. Hartell
-761,Lele (Chad) (AA),lele,Christian Chanard and Rhonda L. Hartell
-762,Lendu (AA),lendu,Christian Chanard and Rhonda L. Hartell
-763,Loma (Liberia) (AA),lɔgɔmagooi,Christian Chanard and Rhonda L. Hartell
-764,Loko (AA),lɔkɔ,Christian Chanard and Rhonda L. Hartell
-765,Ligbi (AA),ligbi,Christian Chanard and Rhonda L. Hartell
-766,West-Central Limba (AA),limba,Christian Chanard and Rhonda L. Hartell
-767,Limbum (AA),limbum,Christian Chanard and Rhonda L. Hartell
-768,Lingala (AA),lingala,Christian Chanard and Rhonda L. Hartell
-769,Lukpa (AA),lokpa ,Christian Chanard and Rhonda L. Hartell
-770,Ganda (AA),luganda,Christian Chanard and Rhonda L. Hartell
-771,Lugbara (AA),lugbara,Christian Chanard and Rhonda L. Hartell
-772,Lyele (AA),lyélé,Christian Chanard and Rhonda L. Hartell
-773,Cameroon Mambila (AA),mambila (Cameroon),Christian Chanard and Rhonda L. Hartell
-774,Nigeria Mambila (AA),mambila (Nigeria),Christian Chanard and Rhonda L. Hartell
-775,Mampruli (AA),mampruli,Christian Chanard and Rhonda L. Hartell
-776,Western Maninkakan (AA),mande,Christian Chanard and Rhonda L. Hartell
-777,Eastern Maninkakan (AA),manding ,Christian Chanard and Rhonda L. Hartell
-778,Mangbetu (AA),mangbetu (meje),Christian Chanard and Rhonda L. Hartell
-779,Kita Maninkakan (AA),maninka-kan,Christian Chanard and Rhonda L. Hartell
-780,Mundu (AA),mündü,Christian Chanard and Rhonda L. Hartell
-781,Cross River Mbembe (AA),mbembe,Christian Chanard and Rhonda L. Hartell
-782,Mbo (Cameroon) (AA),mboó,Christian Chanard and Rhonda L. Hartell
-783,Makaa (AA),mekaa,Christian Chanard and Rhonda L. Hartell
-784,Mende (Sierra Leone) (AA),mende,Christian Chanard and Rhonda L. Hartell
-785,Meta' (AA),metta ,Christian Chanard and Rhonda L. Hartell
-786,Mamara Senoufo (AA),minyanka,Christian Chanard and Rhonda L. Hartell
-787,Deg (AA),mo (Deg),Christian Chanard and Rhonda L. Hartell
-788,Mofu-Gudur (AA),mofu-gudur,Christian Chanard and Rhonda L. Hartell
-789,Mossi (AA),moore,Christian Chanard and Rhonda L. Hartell
-790,Mwan (AA),muan,Christian Chanard and Rhonda L. Hartell
-791,Mundani (AA),mundani,Christian Chanard and Rhonda L. Hartell
-792,Kituba (Congo) (AA),munukutuba,Christian Chanard and Rhonda L. Hartell
-793,Murle (AA),murle,Christian Chanard and Rhonda L. Hartell
-794,Mwaghavul (AA),mwaghavul ,Christian Chanard and Rhonda L. Hartell
-795,Nafaanra (AA),nafaanra,Christian Chanard and Rhonda L. Hartell
-796,Nawdm (AA),nawdm,Christian Chanard and Rhonda L. Hartell
-797,Northern Nuni (AA),nʋni,Christian Chanard and Rhonda L. Hartell
-798,Nomaande (AA),nɔmaa (nɔmaándɛ́),Christian Chanard and Rhonda L. Hartell
-799,Ngambay (AA),ngambai,Christian Chanard and Rhonda L. Hartell
-800,Ngbaka (AA),ngbaka,Christian Chanard and Rhonda L. Hartell
-801,Northern Ngbandi (AA),ngbandi,Christian Chanard and Rhonda L. Hartell
-802,Ngiemboon (AA),ngyembɔɔn,Christian Chanard and Rhonda L. Hartell
-803,Nyabwa (AA),niaboua,Christian Chanard and Rhonda L. Hartell
-804,Lamnso' (AA),nsoʼ,Christian Chanard and Rhonda L. Hartell
-805,Nugunu (Cameroon) (AA),nugunu,Christian Chanard and Rhonda L. Hartell
-806,Nupe-Nupe-Tako (AA),nupe,Christian Chanard and Rhonda L. Hartell
-807,Ma'di (AA),pandikeri,Christian Chanard and Rhonda L. Hartell
-808,Parkwa (AA),podoko,Christian Chanard and Rhonda L. Hartell
-809,Pulaar (AA),pulaar ,Christian Chanard and Rhonda L. Hartell
-810,Pular (AA),pular ,Christian Chanard and Rhonda L. Hartell
-811,Rendille (AA),rendille,Christian Chanard and Rhonda L. Hartell
-812,Sabaot (AA),sabaot,Christian Chanard and Rhonda L. Hartell
-813,Sango 1 (AA),sango (CAF),Christian Chanard and Rhonda L. Hartell
-814,Sango 2 (AA),sango (COD),Christian Chanard and Rhonda L. Hartell
-815,Senara Senoufo (AA),senoufo ,Christian Chanard and Rhonda L. Hartell
-816,Serer (AA),sereer,Christian Chanard and Rhonda L. Hartell
-817,Sissala 1 (AA),sissala (Burkina),Christian Chanard and Rhonda L. Hartell
-818,Sissala 2 (AA),sissala (Ghana),Christian Chanard and Rhonda L. Hartell
-819,Koyra Chiini Songhay (AA),songhoy,Christian Chanard and Rhonda L. Hartell
-820,Soninke 1 (AA),soninke (Mali),Christian Chanard and Rhonda L. Hartell
-821,Soninke 2 (AA),sooninke (Senegal),Christian Chanard and Rhonda L. Hartell
-822,Susu (AA),soso,Christian Chanard and Rhonda L. Hartell
-823,Swahili (AA),swahili,Christian Chanard and Rhonda L. Hartell
-824,Tawallammat Tamajaq (AA),tamajaq,Christian Chanard and Rhonda L. Hartell
-825,Tamasheq (AA),tamasheq,Christian Chanard and Rhonda L. Hartell
-826,Tarok (AA),tarok ,Christian Chanard and Rhonda L. Hartell
-827,Teen (AA),téén ,Christian Chanard and Rhonda L. Hartell
-828,Tedaga (AA),teda,Christian Chanard and Rhonda L. Hartell
-829,Tem (AA),tem,Christian Chanard and Rhonda L. Hartell
-830,Tofin Gbe (AA),tɔfin,Christian Chanard and Rhonda L. Hartell
-831,Timne (AA),themne,Christian Chanard and Rhonda L. Hartell
-832,Tikar (AA),tikar,Christian Chanard and Rhonda L. Hartell
-833,Toposa (AA),toposa,Christian Chanard and Rhonda L. Hartell
-834,Toura (Cote d'Ivoire) (AA),toura,Christian Chanard and Rhonda L. Hartell
-835,Northern Toussian (AA),toussian,Christian Chanard and Rhonda L. Hartell
-836,Vagla (AA),vagala,Christian Chanard and Rhonda L. Hartell
-837,Vute (AA),vute,Christian Chanard and Rhonda L. Hartell
-838,Waama (AA),waama,Christian Chanard and Rhonda L. Hartell
-839,Wan (AA),wan,Christian Chanard and Rhonda L. Hartell
-840,We Northern (AA),wobé,Christian Chanard and Rhonda L. Hartell
-841,Nuclear Wolof (AA),wolof,Christian Chanard and Rhonda L. Hartell
-842,Yamba (AA),yamba,Christian Chanard and Rhonda L. Hartell
-843,Yambeta (AA),yambɛta,Christian Chanard and Rhonda L. Hartell
-844,Yaoure (AA),yaouré,Christian Chanard and Rhonda L. Hartell
-845,Yemba (AA),yemba,Christian Chanard and Rhonda L. Hartell
-846,Yom (AA),yom ,Christian Chanard and Rhonda L. Hartell
-847,Yoruba 1 (AA),yorouba (Benin),Christian Chanard and Rhonda L. Hartell
-848,Yoruba 2 (AA),yorouba (Nigeria),Christian Chanard and Rhonda L. Hartell
-849,Zande (AA),zande,Christian Chanard and Rhonda L. Hartell
-850,Zarma (AA),zarma ,Christian Chanard and Rhonda L. Hartell
-851,Zulgo-Gemzek (AA),zulgo,Christian Chanard and Rhonda L. Hartell
-852,Fwe (PH),Fwe,PHOIBLE
-853,Yeyi (PH),Yeyi,PHOIBLE
-854,Cavinena (PH),Cavinena,PHOIBLE
-855,Chamicuro (PH),Chamicuro,PHOIBLE
-856,Chechen (PH),Chechen,PHOIBLE
-857,Chepang (PH),Chepang,PHOIBLE
-858,Eastern Mari (PH),Cheremis,PHOIBLE
-859,Lealao Chinantec (PH),Chinanteco,PHOIBLE
-860,Chol (PH),"Tila, Chiapas",PHOIBLE
-861,Chrau (PH),Chrau,PHOIBLE
-862,Barbareno 1 (PH),Barbareño,PHOIBLE
-863,Coeur d'Alene (PH),Coeur d'Alene,PHOIBLE
-864,Comanche (PH),Comanche,PHOIBLE
-865,Cupeno (PH),Cupeno,PHOIBLE
-866,Cuvok (PH),Cuvok,PHOIBLE
-867,Denya (PH),Denya,PHOIBLE
-868,Nepali Kurux (PH),Dhangar,PHOIBLE
-869,Mufian (PH),Muhiang,PHOIBLE
-870,Usarufa (PH),Usarufa,PHOIBLE
-871,Korafe-Yegha (PH),Korafe,PHOIBLE
-872,Binumarien (PH),Binumarien,PHOIBLE
-873,Eggon (PH),Eggon,PHOIBLE
-874,Ekpeye (PH),Ekpeye,PHOIBLE
-875,Markweeta (PH),Endo,PHOIBLE
-876,Esimbi (PH),Esimbi,PHOIBLE
-877,Fang (Equatorial Guinea) (PH),Fan,PHOIBLE
-878,Furu (PH),Furu,PHOIBLE
-879,Karadjeri (PH),Garadjari,PHOIBLE
-880,Gbari (PH),Gbari,PHOIBLE
-881,Golin (PH),Golin,PHOIBLE
-882,Guajajara (PH),Guajajara,PHOIBLE
-883,Gunwinggu (PH),Gunwinggu,PHOIBLE
-884,Haya (PH),Haya,PHOIBLE
-885,Wyandot (PH),Huron,PHOIBLE
-886,Huichol (PH),Huichol,PHOIBLE
-887,Huaylas Ancash Quechua (PH),Huaylas,PHOIBLE
-888,San Mateo Del Mar Huave (PH),"Huave, San Mateo del Mar",PHOIBLE
-889,Jauja Wanca Quechua (PH),Huanca,PHOIBLE
-890,Luyana (PH),Louyi,PHOIBLE
-891,Ibani (PH),Ibani,PHOIBLE
-892,Imonda (PH),Imonda,PHOIBLE
-893,Ingush (PH),Ingush,PHOIBLE
-894,Krisa (PH),Isaka,PHOIBLE
-895,Yalunka (PH),Jalonke,PHOIBLE
-896,Jarawa (Nigeria) (PH),Jarawa,PHOIBLE
-897,Jamamadi (PH),Jarawara,PHOIBLE
-898,Jemez (PH),Jemez,PHOIBLE
-899,Lijili (PH),Jili,PHOIBLE
-900,Kabyle (PH),Kabyle,PHOIBLE
-901,Gidar (PH),Kada,PHOIBLE
-902,Kayabi (PH),Kaiabi,PHOIBLE
-903,Kamasau (PH),Kamasau,PHOIBLE
-904,Kanoe (PH),Kanoe,PHOIBLE
-905,Kenswei Nsei (PH),Kensei Nsei,PHOIBLE
-906,Eastern Karaboro (PH),Kar,PHOIBLE
-907,Karipuna Creole French (PH),Karipuna Creole,PHOIBLE
-908,Kenyang (PH),Kenyang,PHOIBLE
-909,Kharia (PH),Kharia,PHOIBLE
-910,Chong (PH),Chong,PHOIBLE
-911,Kinyarwanda (PH),Kinyarwanda,PHOIBLE
-912,Kirike (PH),Kirike,PHOIBLE
-913,Kokota (PH),Kokota,PHOIBLE
-914,Bakole (PH),Kole,PHOIBLE
-915,Konni (PH),Konni,PHOIBLE
-916,Kuy (PH),Kuay,PHOIBLE
-917,Kulung (Nepal) (PH),Kulung,PHOIBLE
-918,Kuot (PH),Kuot,PHOIBLE
-919,Kusunda (PH),Kusunda,PHOIBLE
-920,Kuvi (PH),Kuvi,PHOIBLE
-921,Kwaza (PH),Kwaza,PHOIBLE
-922,Ladakhi (PH),Ladakhi,PHOIBLE
-923,Langi (PH),Langi,PHOIBLE
-924,Lao (PH),Lao,PHOIBLE
-925,Lavukaleve (PH),Lavukaleve,PHOIBLE
-926,Bafaw-Balong (PH),Bafo,PHOIBLE
-927,Lunda (PH),Lunda,PHOIBLE
-928,Luchazi (PH),Lucazi,PHOIBLE
-929,Oroko (PH),Lukundu,PHOIBLE
-930,Macedonian (PH),Macedonian,PHOIBLE
-931,Mada (Cameroon) (PH),Mada,PHOIBLE
-932,Madi (PH),Ma'di,PHOIBLE
-933,Manam (PH),Manam,PHOIBLE
-934,Bamenyam (PH),Mamenyan,PHOIBLE
-935,Manange (PH),Manange,PHOIBLE
-936,Ngemba (PH),Ngemba,PHOIBLE
-937,Mara (PH),Mara,PHOIBLE
-938,Mai Brat (PH),Maybrat,PHOIBLE
-939,Gbaya-Mbodomo (PH),Mbodomo; Mbódɔ̀mɔ́,PHOIBLE
-940,Medumba (PH),Medumba,PHOIBLE
-941,Mingrelian (PH),Mingrelian,PHOIBLE
-942,Mmen (PH),Mmen,PHOIBLE
-943,Moken (PH),Moken,PHOIBLE
-944,Moseten-Chimane (PH),Moseten,PHOIBLE
-945,Mpongmpong (PH),Mpumpun,PHOIBLE
-946,Mungaka (PH),Mungaka,PHOIBLE
-947,Kwasio (PH),Mvumbo,PHOIBLE
-948,Motlav (PH),Mwotlap,PHOIBLE
-949,Namia (PH),Namia,PHOIBLE
-950,Ndemli (PH),Ndemli,PHOIBLE
-951,Mescalero-Chiricahua Apache (PH),Chiricahua Apache,PHOIBLE
-952,Quechan (PH),Yuma,PHOIBLE
-953,Nankina (PH),Nankina,PHOIBLE
-954,Nandi (PH),Nandi,PHOIBLE
-955,Kimaama (PH),Khmu,PHOIBLE
-956,Naki (PH),Naki,PHOIBLE
-957,Michoacan Nahuatl (PH),Michoacan Nahual,PHOIBLE
-958,Naga Pidgin (PH),Nagamese,PHOIBLE
-959,Ngoshie (PH),Ngishe,PHOIBLE
-960,Ngalakan (PH),Ngalakan,PHOIBLE
-961,Nangikurrunggurr (PH),Nganikurungkurr,PHOIBLE
-962,Isebe (PH),Ngomba,PHOIBLE
-963,Ngombale (PH),Ngombale,PHOIBLE
-964,Nootka (PH),Nootka,PHOIBLE
-965,Northern Khmer (PH),Northern Khmer,PHOIBLE
-966,Northern Paiute (PH),Northern Paiute,PHOIBLE
-967,Nubi (PH),Nubi,PHOIBLE
-968,Nuer (PH),Nuer,PHOIBLE
-969,Elip (PH),Nulibie,PHOIBLE
-970,Nyamwezi (PH),Kinyamwezi,PHOIBLE
-971,Nyeu (PH),Nyeu,PHOIBLE
-972,Obolo (PH),Obolo,PHOIBLE
-973,Mian (PH),Mianmin,PHOIBLE
-974,Faiwol (PH),Faiwol,PHOIBLE
-975,Oku (Cameroon) (PH),Oku,PHOIBLE
-976,Ossetian (PH),Ossetian,PHOIBLE
-977,Palauan (PH),Palauan,PHOIBLE
-978,Orokaiva (PH),Orokaiva,PHOIBLE
-979,Yil (PH),Yil,PHOIBLE
-980,Ningil (PH),Ningil,PHOIBLE
-981,Dobu (PH),Dobu,PHOIBLE
-982,Samo (PH),Samo,PHOIBLE
-983,Uri (PH),Urii,PHOIBLE
-984,Boikin (PH),Boiken,PHOIBLE
-985,Phai (PH),Pray,PHOIBLE
-986,Mal (PH),Mal,PHOIBLE
-987,Rama (PH),Rama,PHOIBLE
-988,Matbat (PH),Matbat,PHOIBLE
-989,Rundi (PH),Rundi,PHOIBLE
-990,Nyankole (PH),Runyankore,PHOIBLE
-991,Marwari (India) (PH),Marwari,PHOIBLE
-992,Samba Leko (PH),Samba Leko,PHOIBLE
-993,Southern Samo (PH),Samo de Toma,PHOIBLE
-994,Samre (PH),Samre,PHOIBLE
-995,Sabane (PH),Sabane,PHOIBLE
-996,Straits Salish (PH),Saanich,PHOIBLE
-997,Sasak (PH),Sasak,PHOIBLE
-998,Savara (PH),Savara,PHOIBLE
-999,Sayula Popoluca (PH),Popoluca de Sayula,PHOIBLE
-1000,Secoya (PH),Secoya,PHOIBLE
-1001,Taroko (PH),Sedik,PHOIBLE
-1002,Seimat (PH),Seimat,PHOIBLE
-1003,Semelai (PH),Semelai,PHOIBLE
-1004,Serrano (PH),Serrano,PHOIBLE
-1005,Shabo (PH),Shabo,PHOIBLE
-1006,Yawanawa (PH),Shanenawa,PHOIBLE
-1007,Makonde (PH),Shimakonde,PHOIBLE
-1008,Shona (PH),Shona,PHOIBLE
-1009,Bamun (PH),Shupamem,PHOIBLE
-1010,Siar-Lak (PH),Siar-Lak,PHOIBLE
-1011,Seraiki (PH),Siraiki,PHOIBLE
-1012,Shawnee (PH),Shawnee,PHOIBLE
-1013,Nuclear Skou (PH),Skou,PHOIBLE
-1014,Aheu 1 (PH),So,PHOIBLE
-1015,South Efate (PH),South Efate,PHOIBLE
-1016,Spokane (PH),Spokan,PHOIBLE
-1017,Sissano (PH),Sesotho,PHOIBLE
-1018,Satawalese (PH),Satawalese,PHOIBLE
-1019,Ulwa (PH),Sumo,PHOIBLE
-1020,Hupde (PH),Hup,PHOIBLE
-1021,Copainala Zoque (PH),San Miguel Chimalapa Zoque,PHOIBLE
-1022,Loxicha Zapotec (PH),Zapotec,PHOIBLE
-1023,Yuki (PH),Yuki,PHOIBLE
-1024,Yapese (PH),Yapese,PHOIBLE
-1025,Yurok (PH),Yurok,PHOIBLE
-1026,Yuracare (PH),Yuracure,PHOIBLE
-1027,Southern Yukaghir (PH),Yukaghir (Kolyma),PHOIBLE
-1028,Nuclear Wa (PH),Wa,PHOIBLE
-1029,Wambon (PH),Wambon,PHOIBLE
-1030,Washo (PH),Washo,PHOIBLE
-1031,Wayana (PH),Wayana,PHOIBLE
-1032,Wogeo (PH),Wogeo,PHOIBLE
-1033,Huarijio (PH),Warihio,PHOIBLE
-1034,Vai (PH),Vai,PHOIBLE
-1035,Ukrainian (PH),Ukrainian,PHOIBLE
-1036,Phalura (PH),Palula (Phalura),PHOIBLE
-1037,East Makian 1 (PH),East Makian,PHOIBLE
-1038,Tok Pisin (PH),Tapiete,PHOIBLE
-1039,Baruga (PH),Baruga,PHOIBLE
-1040,Tatuyo (PH),Tatuyo,PHOIBLE
-1041,Tagwana Senoufo (PH),Tagwana,PHOIBLE
-1042,Mazanderani (PH),Mazanderani,PHOIBLE
-1043,Pa'o Karen (PH),"Pa-O, Taungthu",PHOIBLE
-1044,Ternate (PH),Ternate,PHOIBLE
-1045,Toba (PH),Toba (Argentina),PHOIBLE
-1046,Polish (PH),Polish,PHOIBLE
-1047,Mandarin Chinese (PH),Standard Chinese; Mandarin,PHOIBLE
-1048,Kalabari (PH),Kalabari; Kirike; Kalabari-Ijo,PHOIBLE
-1049,Eastern Yiddish (PH),Standard Yiddish,PHOIBLE
-1050,Dutch (PH),Dutch,PHOIBLE
-1051,Malo (PH),Tamambo; Malo,PHOIBLE
-1052,Gayo (PH),Gayo,PHOIBLE
-1053,Jamaican (PH),Jamaican Creole,PHOIBLE
-1054,Mambai (Atlantic-Congo) (PH),Mambay; Mambai,PHOIBLE
-1055,Aragonese (PH),Aragonese,PHOIBLE
-1056,Tilquiapan Zapotec (PH),Tilquiapan Zapotec,PHOIBLE
-1057,Ibibio (PH),Ibibio,PHOIBLE
-1058,Tamil (PH),Tamil,PHOIBLE
-1059,Zoogocho Zapotec (PH),San Bartolomé Zoogocho Zapotec,PHOIBLE
-1060,Baga Koga (PH),Baga Koga; Koba; Barka,PHOIBLE
-1061,South Nuaulu (PH),Southern Nuautl,PHOIBLE
-1062,Selaru (PH),Selaru,PHOIBLE
-1063,Tsuvadi (PH),Tsuvadi; Avadi; Abadi; Evadi; Kamberi; Ibeto,PHOIBLE
-1064,Hanga Hundi (PH),Hanga Hundi; Kwasengen; West Wosera,PHOIBLE
-1065,Blang (PH),Blang; Plang; Bulang; Pulang; Pula; Kawa; K'ala; Kontoi,PHOIBLE
-1066,Tatana (PH),Tatana'; Tatanaq; Tatana,PHOIBLE
-1067,Tibetan (PH),Tibetan,PHOIBLE
-1068,Che (PH),Che; Rukuba; Kuche; Bache; Inchazi; Sale,PHOIBLE
-1069,Tolowa (PH),Tolowa; Tolowa-Chetco,PHOIBLE
-1070,Pagibete (PH),Pagibete; Apakabeti; Apakibeti; Apagibete;Apagibeti; Pagabete,PHOIBLE
-1071,Choctaw (PH),Choctaw,PHOIBLE
-1072,Michif (PH),Michif,PHOIBLE
-1073,Pilaga (PH),Pilaga; Pilagá,PHOIBLE
-1074,Yuchi (PH),Euchee; Yuchi,PHOIBLE
-1075,Baniwa (PH),Kurripako; Baniwa; Baniwa (Icana),PHOIBLE
-1076,Karitiana (PH),Karitiana; Karitiâna,PHOIBLE
-1077,North Alaskan Inupiatun (PH),Iñupiaq; Iñupiat; Inupiat; Inupiaq,PHOIBLE
-1078,San Juan Guelavia Zapotec (PH),"Tlacolula Valley Zapotec; Western Tlacolula Zapotec; Zapotec, San Juan Guelavía",PHOIBLE
-1079,Tzotzil (PH),"Tzotzil, Chamula",PHOIBLE
-1080,Sidamo (PH),Sidaama; Sidamo; Sidamic,PHOIBLE
-1081,West Coast Bajau (PH),"Bajau, West Coast; Land Bajaw; West Coast Bajao",PHOIBLE
-1082,Chimariko (PH),Chimariko,PHOIBLE
-1083,Huehuetla Tepehua (PH),"Tepehua, Huehuetla; Tepehua de Hidalgo; Tepehua de Huehuetla",PHOIBLE
-1084,Ute-Southern Paiute (PH),Southern Ute; Ute; Ute-Southern Paiute,PHOIBLE
-1085,Dupaninan Agta (PH),Dupaningan Agta; Eastern Cagayan Agta; Dupaninan Agta,PHOIBLE
-1086,Tonga (Tonga Islands) (PH),Tongan; Tonga,PHOIBLE
-1087,Lake Miwok (PH),Lake Miwok; Miwok (Lake),PHOIBLE
-1088,Laz (PH),Laz,PHOIBLE
-1089,Juang (PH),Juang,PHOIBLE
-1090,Adang (PH),Adang,PHOIBLE
-1091,Ambele (PH),Ambele,PHOIBLE
-1092,Apurina (PH),Apurinã,PHOIBLE
-1093,Achinese (PH),Acehnese,PHOIBLE
-1094,Antigua and Barbuda Creole English (PH),Antiguan Creole,PHOIBLE
-1095,Aklanon (PH),Aklan,PHOIBLE
-1096,Arhuaco (PH),Ika,PHOIBLE
-1097,Karo (Brazil) (PH),Karo,PHOIBLE
-1098,Libyan Arabic (PH),Lebanese Arabic,PHOIBLE
-1099,Batak Toba (PH),Toba-Batak,PHOIBLE
-1100,Baoule (PH),Baule,PHOIBLE
-1101,Bondo (PH),Remo,PHOIBLE
-1102,Kol (Cameroon) (PH),Bikele,PHOIBLE
-1103,Siksika (PH),Blackfoot,PHOIBLE
-1104,Biloxi (PH),Biloxi,PHOIBLE
-1105,Belize Kriol English (PH),Belizean Creole,PHOIBLE
-1106,Koasati (PH),Koasati,PHOIBLE
-1107,Comox (PH),Comox,PHOIBLE
-1108,Sochiapam Chinantec (PH),Sochiapan Chinantec,PHOIBLE
-1109,Dimli (PH),Dimili,PHOIBLE
-1110,Yekhee (PH),Etsako,PHOIBLE
-1111,Northern Frisian (PH),Frisian,PHOIBLE
-1112,Gujari (PH),Gojri; Gujari; Gujar,PHOIBLE
-1113,Kotiria (PH),Wanano,PHOIBLE
-1114,Hungana (PH),Kihungan,PHOIBLE
-1115,Halkomelem (PH),Chilliwak Halkomelem,PHOIBLE
-1116,Huastec (PH),Huastec,PHOIBLE
-1117,Iloko (PH),Ilocano,PHOIBLE
-1118,Kadiweu (PH),Kadiweu,PHOIBLE
-1119,Kutep (PH),Kuteb,PHOIBLE
-1120,Awa-Cuaiquer (PH),Awa Pit,PHOIBLE
-1121,Lisu (PH),Lisu,PHOIBLE
-1122,Loniu (PH),Loniu,PHOIBLE
-1123,Molale (PH),Molalla,PHOIBLE
-1124,Matses (PH),Matses,PHOIBLE
-1125,Manipuri (PH),Manipuri,PHOIBLE
-1126,Mandinka (PH),Mandingo,PHOIBLE
-1127,Mocovi (PH),Mocovi,PHOIBLE
-1128,Mam (PH),Western Mam; Tacanec,PHOIBLE
-1129,Munduruku (PH),Mundurukú,PHOIBLE
-1130,Nisga'a (PH),Nishgha,PHOIBLE
-1131,Northern Low Saxon (PH),Low German,PHOIBLE
-1132,Northern Pame (PH),Northern Pame,PHOIBLE
-1133,Panamint (PH),Panamint,PHOIBLE
-1134,Nigerian Pidgin (PH),Nigerian Pidgin,PHOIBLE
-1135,Northern Pomo (PH),Northern Pomo,PHOIBLE
-1136,Texistepec Popoluca (PH),Texistepec Popoluca,PHOIBLE
-1137,Khanty (PH),Eastern Khanty,PHOIBLE
-1138,Standard Catalan (PH),Catalan,PHOIBLE
-1139,Croatian (PH),Croatian,PHOIBLE
-1140,Czech (PH),Czech,PHOIBLE
-1141,Galician (PH),Galician,PHOIBLE
-1142,Kabiye (PH),Kabiye,PHOIBLE
-1143,Mono (Democratic Republic of Congo) (PH),Mono,PHOIBLE
-1144,Indonesian (PH),Indonesian,PHOIBLE
-1145,Italian (PH),Italian,PHOIBLE
-1146,Salasaca Highland Quichua (PH),Salasaca Quichua,PHOIBLE
-1147,Seri (PH),Seri,PHOIBLE
-1148,Sindhi (PH),Sindhi,PHOIBLE
-1149,Slovenian (PH),Slovene,PHOIBLE
-1150,Swedish (PH),Swedish,PHOIBLE
-1151,East Makian 2 (PH),Taba,PHOIBLE
-1152,Tukang Besi North (PH),Tukang Besi,PHOIBLE
-1153,Yine (PH),Yine,PHOIBLE
-1154,K'iche' (PH),Quiche,PHOIBLE
-1155,Huamalies-Dos de Mayo Huanuco Quechua (PH),Huallaga (Huanuco) Quechua,PHOIBLE
-1156,Sipacapense (PH),Sipakapense Maya,PHOIBLE
-1157,Chimborazo Highland Quichua (PH),Chimborazo Quichua,PHOIBLE
-1158,Tlachichilco Tepehua (PH),Tepehua,PHOIBLE
-1159,Ambulas (PH),Abulas,PHOIBLE
-1160,Abau (PH),Abau,PHOIBLE
-1161,Qimant (PH),Agaw,PHOIBLE
-1162,Akha (PH),Akha,PHOIBLE
-1163,Alyawarr (PH),Alyawarra,PHOIBLE
-1164,Amanab (PH),Amanab,PHOIBLE
-1165,Anuak (PH),Anywa,PHOIBLE
-1166,Arandai (PH),Arandai,PHOIBLE
-1167,Bumbita Arapesh (PH),Arapesh,PHOIBLE
-1168,Tanacross (PH),Tanacross,PHOIBLE
-1169,Au (PH),Au,PHOIBLE
-1170,Tinputz (PH),Tinputz,PHOIBLE
-1171,Petats (PH),Petats,PHOIBLE
-1172,Patep (PH),Patep,PHOIBLE
-1173,Kela (Papua New Guinea) (PH),Kela,PHOIBLE
-1174,Sursurunga (PH),Sursurunga,PHOIBLE
-1175,Awara (PH),Awara,PHOIBLE
-1176,Awing (PH),Awing,PHOIBLE
-1177,Awtuw (PH),Awtuw,PHOIBLE
-1178,Baba (PH),Baba,PHOIBLE
-1179,Babanki (PH),Babanki,PHOIBLE
-1180,Bakoko (PH),Bakoko,PHOIBLE
-1181,Nyong (PH),Bali-Kumbat,PHOIBLE
-1182,Bamunka (PH),Bamunka,PHOIBLE
-1183,Bangolan (PH),Bangolan,PHOIBLE
-1184,Batanga (PH),Banoo,PHOIBLE
-1185,Bariai (PH),Bariai,PHOIBLE
-1186,Befang (PH),Befang,PHOIBLE
-1187,Ida'an (PH),Ida'an,PHOIBLE
-1188,Bemba (Zambia) (PH),Bemba,PHOIBLE
-1189,Berbice Creole Dutch (PH),Berbice Dutch,PHOIBLE
-1190,Betta Kurumba (PH),Betta Kurumba,PHOIBLE
-1191,Biak (PH),Biak,PHOIBLE
-1192,Ngarinman (PH),Bilinara,PHOIBLE
-1193,Binandere (PH),Binandere,PHOIBLE
-1194,Southern Bobo Madare (PH),Bobo,PHOIBLE
-1195,Nuclear Bole (PH),Bole,PHOIBLE
-1196,Bongo (PH),Bongo,PHOIBLE
-1197,Boro (Ethiopia) (PH),Boro,PHOIBLE
-1198,Brokskat (PH),Brokskat,PHOIBLE
-1199,Baga Sitemu (PH),Baga Sitem,PHOIBLE
-1200,Bubia (PH),Bubia,PHOIBLE
-1201,Bukusu (PH),Bukusu,PHOIBLE
-1202,Subiya (PH),Subiya,PHOIBLE
-1203,Totela (PH),Totela,PHOIBLE
-1204,Bambalang (PH),Bambalang; Círàmbɔ́,PHOIBLE
-1205,North Marquesan (PH),North Marquesan,PHOIBLE
-1206,Onge (PH),Öñge; Ong; Onge,PHOIBLE
-1207,Oluta Popoluca (PH),Oluta Popoluca; Olutec,PHOIBLE
-1208,Gyalrong (PH),Jiarong,PHOIBLE
-1209,Suri (PH),Suri,PHOIBLE
-1210,Bilua (PH),Bilua,PHOIBLE
-1211,Hoava (PH),Hoava,PHOIBLE
-1212,Filipino (PH),Filipino,PHOIBLE
-1213,Ngad'a (PH),Ngad'a; Ngadha,PHOIBLE
-1214,Muna (PH),Muna,PHOIBLE
-1215,Keo (PH),Ke'o; Kéo,PHOIBLE
-1216,Aheu 2 (PH),Aheu; Thavung,PHOIBLE
-1217,Sakirabia (PH),Sakirabiá; Mekens,PHOIBLE
-1218,Tiwi (PH),Tiwi,PHOIBLE
-1219,Torwali (PH),Torwali,PHOIBLE
-1220,Thulung (PH),Thulung; Thulung Rai,PHOIBLE
-1221,Tshangla (PH),Tshangla,PHOIBLE
-1222,Colorado (PH),Colorado; Tsafiki,PHOIBLE
-1223,Tz'utujil (PH),Tzutujil,PHOIBLE
-1224,Pwo Northern Karen (PH),Pwo Karen,PHOIBLE
-1225,Tuvinian (PH),Tuva; Tuvan,PHOIBLE
-1226,Kinnauri (PH),Kinnauri; Kanauri,PHOIBLE
-1227,Mewati (PH),Mewati,PHOIBLE
-1228,Aneityum (PH),Aneityum; Anejom̃,PHOIBLE
-1229,Zaiwa (PH),Zaiwa,PHOIBLE
-1230,Chickasaw (PH),Chickasaw,PHOIBLE
-1231,Friulian (PH),Friulian,PHOIBLE
-1232,Jicarilla Apache (PH),Jicarilla Apache,PHOIBLE
-1233,Ega (PH),Ega,PHOIBLE
-1234,Adamawa Fulfulde (PH),Adamawa Fulfulde; Adamawa Fulani,PHOIBLE
-1235,Western Arrarnta (PH),Arrarnte,PHOIBLE
-1236,Sanuma (PH),Sanuma; Sanumá,PHOIBLE
-1237,Wari (PH),Wari; Wari'; Wariʔ; Oro Nao,PHOIBLE
-1238,Crow (PH),Crow,PHOIBLE
-1239,Barbareno 2 (PH),Barbareño,PHOIBLE
-1240,Lyele (PH),Lele (Lyélé),PHOIBLE
-1241,Adamawa Fulfulde 1 (GM),Fulfulde (Cameroon),Christopher Green and Steven Moran
-1242,Anyin 1 (GM),Anyi Sanvi,Christopher Green and Steven Moran
-1243,Anyin 2 (GM),Agni Djuablin,Christopher Green and Steven Moran
-1244,Anyin Morofo (GM),Agni Morofo,Christopher Green and Steven Moran
-1245,Akan (GM),Akan,Christopher Green and Steven Moran
-1246,Anufo (GM),anufɔ,Christopher Green and Steven Moran
-1247,Dibole (GM),babole,Christopher Green and Steven Moran
-1248,Bana (GM),bana,Christopher Green and Steven Moran
-1249,Baka (Sudan) (GM),baka,Christopher Green and Steven Moran
-1250,Aja (Sudan) (GM),aja,Christopher Green and Steven Moran
-1251,Bila (GM),bila,Christopher Green and Steven Moran
-1252,Busa (GM),busa,Christopher Green and Steven Moran
-1253,Adamawa Fulfulde 2 (GM),fulfulde (fuunaangere),Christopher Green and Steven Moran
-1254,Nigerian Fulfulde 1 (GM),fulfulde (NGA),Christopher Green and Steven Moran
-1255,Herero (GM),herero,Christopher Green and Steven Moran
-1256,Cebaara Senoufo 1 (GM),Senoufo-Cebaara,Christopher Green and Steven Moran
-1257,Koyra Chiini Songhay (GM),songhoy,Christopher Green and Steven Moran
-1258,Bafia 1 (GM),kpaʔ,Christopher Green and Steven Moran
-1259,Lega-Shabunda (GM),lega-shabunda,Christopher Green and Steven Moran
-1260,Limbum 1 (GM),limbum (southern),Christopher Green and Steven Moran
-1261,Limbum 2 (GM),limbum (central),Christopher Green and Steven Moran
-1262,Limbum 3 (GM),limbum (northern),Christopher Green and Steven Moran
-1263,Myene (GM),myene,Christopher Green and Steven Moran
-1264,Ntcham (GM),N'cam,Christopher Green and Steven Moran
-1265,Tunen (GM),Nen,Christopher Green and Steven Moran
-1266,Matumbi (GM),matuumbi,Christopher Green and Steven Moran
-1267,Yao (GM),yao,Christopher Green and Steven Moran
-1268,Umbundu (GM),umbundu,Christopher Green and Steven Moran
-1269,Ndonga 1 (GM),ndonga,Christopher Green and Steven Moran
-1270,Mbukushu (GM),mbukushu,Christopher Green and Steven Moran
-1271,Diriku (GM),diriku,Christopher Green and Steven Moran
-1272,Kwangali (GM),kwangari,Christopher Green and Steven Moran
-1273,Soninke (GM),soninke (kaedi (MRT)),Christopher Green and Steven Moran
-1274,Koyraboro Senni Songhai (GM),"Songhay, Koyraboro Senni",Christopher Green and Steven Moran
-1275,Lele (Chad) (GM),Lele,Christopher Green and Steven Moran
-1276,Kalanga (GM),Ikalanga,Christopher Green and Steven Moran
-1277,Mongo (Atlantic-Congo) (GM),mongo-nkundu,Christopher Green and Steven Moran
-1278,Longto (GM),longto,Christopher Green and Steven Moran
-1279,Xwela Gbe (GM),xwela,Christopher Green and Steven Moran
-1280,Western Xwla Gbe (GM),western xwla,Christopher Green and Steven Moran
-1281,Kotafon Gbe (GM),kotafon,Christopher Green and Steven Moran
-1282,Gbesi Gbe (GM),gbesi,Christopher Green and Steven Moran
-1283,Machame (GM),machame,Christopher Green and Steven Moran
-1284,Mada (Nigeria) (GM),mada,Christopher Green and Steven Moran
-1285,Mbe (GM),mbe,Christopher Green and Steven Moran
-1286,Ngwe (GM),ngwe,Christopher Green and Steven Moran
-1287,Jowulu (GM),jowulu,Christopher Green and Steven Moran
-1288,Yala (GM),yala,Christopher Green and Steven Moran
-1289,Mambwe-Lungu (GM),cilungu,Christopher Green and Steven Moran
-1290,Kete (GM),kete,Christopher Green and Steven Moran
-1291,Kwese (GM),kwezo,Christopher Green and Steven Moran
-1292,Southern Ma'di (GM),Madi,Christopher Green and Steven Moran
-1293,Moru (GM),Moru,Christopher Green and Steven Moran
-1294,Logo (GM),Logo,Christopher Green and Steven Moran
-1295,Afitti (GM),Afitti,Christopher Green and Steven Moran
-1296,Avatime (GM),Avatime,Christopher Green and Steven Moran
-1297,Abua (GM),Abua,Christopher Green and Steven Moran
-1298,Anyin 3 (GM),Anyi,Christopher Green and Steven Moran
-1299,Dghwede (GM),Dghwede,Christopher Green and Steven Moran
-1300,Eloyi (GM),Eloyi,Christopher Green and Steven Moran
-1301,Nigerian Fulfulde 2 (GM),Fula (Nigeria),Christopher Green and Steven Moran
-1302,Gikyode (GM),Gechode,Christopher Green and Steven Moran
-1303,Ginyanga (GM),Genyanga,Christopher Green and Steven Moran
-1304,Huba (GM),Kilba,Christopher Green and Steven Moran
-1305,Kofyar (GM),Kofyar,Christopher Green and Steven Moran
-1306,Krache (GM),Krache,Christopher Green and Steven Moran
-1307,Krim (GM),Krim,Christopher Green and Steven Moran
-1308,West Central Banda (GM),"Banda, West Central",Christopher Green and Steven Moran
-1309,South Central Dinka (GM),"Dinka, South Central",Christopher Green and Steven Moran
-1310,Foodo (GM),Foodo,Christopher Green and Steven Moran
-1311,Jola-Kasa (GM),Joola Huluf,Christopher Green and Steven Moran
-1312,Jumjum (GM),Jumjum,Christopher Green and Steven Moran
-1313,Burun (GM),Burun,Christopher Green and Steven Moran
-1314,Olu'bo (GM),Lulubo,Christopher Green and Steven Moran
-1315,Maay (GM),Maay,Christopher Green and Steven Moran
-1316,Mabaan (GM),Mabaan,Christopher Green and Steven Moran
-1317,Nizaa (GM),Nizaa,Christopher Green and Steven Moran
-1318,Chopi (GM),Copi,Christopher Green and Steven Moran
-1319,Xhosa (GM),Xhosa,Christopher Green and Steven Moran
-1320,Siwu (GM),Siwu,Christopher Green and Steven Moran
-1321,Sherbro (GM),Sherbro,Christopher Green and Steven Moran
-1322,Bullom So (GM),Mmani,Christopher Green and Steven Moran
-1323,Cherepon (GM),Hill Guang,Christopher Green and Steven Moran
-1324,Palor (GM),Ndut-Falor,Christopher Green and Steven Moran
-1325,Farefare (GM),Frafra,Christopher Green and Steven Moran
-1326,Sekpele (GM),Likpe,Christopher Green and Steven Moran
-1327,Mampruli (GM),Mampruli,Christopher Green and Steven Moran
-1328,Tonga (Zambia) (GM),Shanjo,Christopher Green and Steven Moran
-1329,Badyara (GM),Pajade,Christopher Green and Steven Moran
-1330,Selee (GM),Sele,Christopher Green and Steven Moran
-1331,Tiv (GM),Tiv,Christopher Green and Steven Moran
-1332,Bilin (GM),Blin,Christopher Green and Steven Moran
-1333,Xamtanga (GM),Xamtanga,Christopher Green and Steven Moran
-1334,Lika (GM),Lika,Christopher Green and Steven Moran
-1335,Yansi (GM),Yanzi,Christopher Green and Steven Moran
-1336,Budu (GM),Kibudu,Christopher Green and Steven Moran
-1337,Kele (Democratic Republic of Congo) (GM),Iikile,Christopher Green and Steven Moran
-1338,Lengola (GM),Lengola,Christopher Green and Steven Moran
-1339,Keliko (GM),Kaliko,Christopher Green and Steven Moran
-1340,Wongo (GM),Wongo,Christopher Green and Steven Moran
-1341,Mwali Comorian (GM),Mwali,Christopher Green and Steven Moran
-1342,Afar (GM),Afar,Christopher Green and Steven Moran
-1343,Mundang (GM),Mundang,Christopher Green and Steven Moran
-1344,Mono (Cameroon) (GM),Mono,Christopher Green and Steven Moran
-1345,Tupuri (GM),Tupuri,Christopher Green and Steven Moran
-1346,Kuo (GM),Kuo,Christopher Green and Steven Moran
-1347,Kare (Central African Republic) (GM),Kare,Christopher Green and Steven Moran
-1348,Ndai (GM),Galke,Christopher Green and Steven Moran
-1349,Bambassi (GM),Northern Mao,Christopher Green and Steven Moran
-1350,Tigrinya (GM),Tigrinya,Christopher Green and Steven Moran
-1351,Karamojong (GM),Karimojong,Christopher Green and Steven Moran
-1352,Gwandara 1 (GM),Gwandara (Karshi),Christopher Green and Steven Moran
-1353,Gwandara 2 (GM),Gwandara (Cancara),Christopher Green and Steven Moran
-1354,Gwandara 3 (GM),Gwandara (Toni),Christopher Green and Steven Moran
-1355,Gwandara 4 (GM),Gwandara (Gitata),Christopher Green and Steven Moran
-1356,Gwandara 5 (GM),Gwandara (Koro),Christopher Green and Steven Moran
-1357,Gwandara 6 (GM),Gwandara (Nimbia),Christopher Green and Steven Moran
-1358,Avikam (GM),Avikam,Christopher Green and Steven Moran
-1359,Shilluk (GM),Shilluk,Christopher Green and Steven Moran
-1360,Hai//om (GM),San,Christopher Green and Steven Moran
-1361,Pero (GM),Pero,Christopher Green and Steven Moran
-1362,Borana-Arsi-Guji Oromo (GM),Galla,Christopher Green and Steven Moran
-1363,Hadiyya (GM),Hadiyya,Christopher Green and Steven Moran
-1364,Wolaytta (GM),Welamo,Christopher Green and Steven Moran
-1365,Kunyi (GM),Nyanga,Christopher Green and Steven Moran
-1366,Otuho (GM),Otuho,Christopher Green and Steven Moran
-1367,Masaaba (GM),Orusyan,Christopher Green and Steven Moran
-1368,Kamwe (GM),Higi,Christopher Green and Steven Moran
-1369,Manya (GM),Manya,Christopher Green and Steven Moran
-1370,Saya (GM),Syan,Christopher Green and Steven Moran
-1371,Njebi (GM),Nzɛbi,Christopher Green and Steven Moran
-1372,Tadaksahak (GM),Tadaksahak,Christopher Green and Steven Moran
-1373,Kambaata (GM),Kambaata,Christopher Green and Steven Moran
-1374,Otoro (GM),Otoro,Christopher Green and Steven Moran
-1375,Tira (GM),Tira,Christopher Green and Steven Moran
-1376,Nyam (GM),Nyam,Christopher Green and Steven Moran
-1377,Fali (GM),Kirya-Konzɘl,Christopher Green and Steven Moran
-1378,Mawa (Chad) (GM),Mawa,Christopher Green and Steven Moran
-1379,!Xoo (GM),!Xóõ,Christopher Green and Steven Moran
-1380,Koalib (GM),Koalib,Christopher Green and Steven Moran
-1381,Kagulu (GM),Kagulu,Christopher Green and Steven Moran
-1382,Oko-Eni-Osayen (GM),Oko,Christopher Green and Steven Moran
-1383,Kxoe (GM),!Xun,Christopher Green and Steven Moran
-1384,Ghomala' (GM),Banjun,Christopher Green and Steven Moran
-1385,Defaka (GM),Defaka,Christopher Green and Steven Moran
-1386,Tee (GM),Tee,Christopher Green and Steven Moran
-1387,Kipsigis (GM),Kipsigis,Christopher Green and Steven Moran
-1388,Pangwa (GM),Pangwa,Christopher Green and Steven Moran
-1389,Holoholo (GM),Holoholo,Christopher Green and Steven Moran
-1390,Buli (Ghana) (GM),Buli,Christopher Green and Steven Moran
-1391,Balanta-Ganja (GM),Balante,Christopher Green and Steven Moran
-1392,Nyambo (GM),Kinyambo,Christopher Green and Steven Moran
-1393,Dan (GM),Dan,Christopher Green and Steven Moran
-1394,Pokoot (GM),Pokot,Christopher Green and Steven Moran
-1395,Afrikaans (GM),Afrikaans,Christopher Green and Steven Moran
-1396,Argobba (GM),Argobba,Christopher Green and Steven Moran
-1397,Harari (GM),Harari,Christopher Green and Steven Moran
-1398,Dinka (GM),Dinka,Christopher Green and Steven Moran
-1399,Nzima (GM),Nzema,Christopher Green and Steven Moran
-1400,Ahanta (GM),Ahanta,Christopher Green and Steven Moran
-1401,Mina (Cameroon) (GM),Besleri,Christopher Green and Steven Moran
-1402,Buwal (GM),Buwal,Christopher Green and Steven Moran
-1403,Hdi (GM),Hide,Christopher Green and Steven Moran
-1404,Lamang (GM),Lamang,Christopher Green and Steven Moran
-1405,Ikwere (GM),Ikwere,Christopher Green and Steven Moran
-1406,Lagwan (GM),Lagwan,Christopher Green and Steven Moran
-1407,Gbaya-Mbodomo (GM),Mbodomo,Christopher Green and Steven Moran
-1408,Mbuko (GM),Mbuko,Christopher Green and Steven Moran
-1409,Moloko (GM),Moloko,Christopher Green and Steven Moran
-1410,Muyang (GM),Muyang,Christopher Green and Steven Moran
-1411,Ngomba (GM),Ngomba,Christopher Green and Steven Moran
-1412,Kemezung (GM),Kemezung,Christopher Green and Steven Moran
-1413,Nateni (GM),Nateni,Christopher Green and Steven Moran
-1414,Silt'e (GM),Silt'i,Christopher Green and Steven Moran
-1415,Weh (GM),Weh,Christopher Green and Steven Moran
-1416,Tulishi (GM),Tulishi,Christopher Green and Steven Moran
-1417,Keiga (GM),Keiga,Christopher Green and Steven Moran
-1418,Krongo (GM),Krongo,Christopher Green and Steven Moran
-1419,Kanga 1 (GM),Kanga (Kanga),Christopher Green and Steven Moran
-1420,Kanga 2 (GM),Kanga (Kufa),Christopher Green and Steven Moran
-1421,Katcha-Kadugli-Miri 1 (GM),Kadugli (Kadugli),Christopher Green and Steven Moran
-1422,Katcha-Kadugli-Miri 2 (GM),Kadugli (Miri),Christopher Green and Steven Moran
-1423,Katcha-Kadugli-Miri 3 (GM),Kadugli (Katcha),Christopher Green and Steven Moran
-1424,Morokodo (GM),Morokodo,Christopher Green and Steven Moran
-1425,Aringa (GM),Aringa,Christopher Green and Steven Moran
-1426,Tese (GM),These,Christopher Green and Steven Moran
-1427,Lumun (GM),Lumun,Christopher Green and Steven Moran
-1428,Acheron (GM),Asharon,Christopher Green and Steven Moran
-1429,Tocho (GM),Tocco,Christopher Green and Steven Moran
-1430,Dagik (GM),Thakik,Christopher Green and Steven Moran
-1431,Didinga (GM),Didinga,Christopher Green and Steven Moran
-1432,Luwo (GM),Luwo,Christopher Green and Steven Moran
-1433,Acoli (GM),Acholi,Christopher Green and Steven Moran
-1434,Belanda Bor (GM),Belanda Boor,Christopher Green and Steven Moran
-1435,Belanda Viri (GM),Belanda Viri,Christopher Green and Steven Moran
-1436,Ndogo (GM),Ndogo,Christopher Green and Steven Moran
-1437,Bade (GM),Bade,Christopher Green and Steven Moran
-1438,Fernando Po Creole English (GM),Pichi,Christopher Green and Steven Moran
-1439,Jita (GM),Jita,Christopher Green and Steven Moran
-1440,Dime (GM),Dime,Christopher Green and Steven Moran
-1441,Tsotso (GM),Lutsootso,Christopher Green and Steven Moran
-1442,Jamsay Dogon (GM),"Jamsay, Dogon",Christopher Green and Steven Moran
-1443,Kamba (Kenya) (GM),Kikamba,Christopher Green and Steven Moran
-1444,Bafia 2 (GM),Bafia,Christopher Green and Steven Moran
-1445,Lango (Uganda) (GM),Lango,Christopher Green and Steven Moran
-1446,Kisa (GM),Olukisa,Christopher Green and Steven Moran
-1447,Nyole (GM),Nyole,Christopher Green and Steven Moran
-1448,Mwani (GM),Kimwani,Christopher Green and Steven Moran
-1449,Kgalagadi (GM),Shekgalagari,Christopher Green and Steven Moran
-1450,Tieyaxo Bozo (GM),Tigemaxo Bozo,Christopher Green and Steven Moran
-1451,Alaba-K'abeena (GM),Alaaba,Christopher Green and Steven Moran
-1452,Degema (GM),Degema,Christopher Green and Steven Moran
-1453,Bassari (GM),Basari,Christopher Green and Steven Moran
-1454,Principense (GM),Principense,Christopher Green and Steven Moran
-1455,Nkonya (GM),Nkonya,Christopher Green and Steven Moran
-1456,Kistane 1 (GM),Soddo,Christopher Green and Steven Moran
-1457,Kistane 2 (GM),Goggot,Christopher Green and Steven Moran
-1458,Mesqan (GM),Masqan,Christopher Green and Steven Moran
-1459,Sebat Bet Gurage 1 (GM),Muher,Christopher Green and Steven Moran
-1460,Sebat Bet Gurage 2 (GM),Ezha,Christopher Green and Steven Moran
-1461,Sebat Bet Gurage 3 (GM),Chaha,Christopher Green and Steven Moran
-1462,Sebat Bet Gurage 4 (GM),Gumer,Christopher Green and Steven Moran
-1463,Sebat Bet Gurage 5 (GM),Gura,Christopher Green and Steven Moran
-1464,Sebat Bet Gurage 6 (GM),Gyeto,Christopher Green and Steven Moran
-1465,Inor 1 (GM),Ennemor,Christopher Green and Steven Moran
-1466,Inor 2 (GM),Endegen,Christopher Green and Steven Moran
-1467,Inor 3 (GM),Ener,Christopher Green and Steven Moran
-1468,Dzuungoo (GM),Dzuungoo,Christopher Green and Steven Moran
-1469,Bagirmi (GM),Bagirmi,Christopher Green and Steven Moran
-1470,Ngiti (GM),Ngiti,Christopher Green and Steven Moran
-1471,Ndali (GM),Chindali,Christopher Green and Steven Moran
-1472,Me'en (GM),Me'en,Christopher Green and Steven Moran
-1473,Ngasa (GM),Ongamo,Christopher Green and Steven Moran
-1474,Mbay (GM),Mbay,Christopher Green and Steven Moran
-1475,Gumuz (GM),Gumuz,Christopher Green and Steven Moran
-1476,Soo (GM),Soo,Christopher Green and Steven Moran
-1477,Bench 1 (GM),Gimira,Christopher Green and Steven Moran
-1478,Bench 2 (GM),Bench,Christopher Green and Steven Moran
-1479,Yemsa (GM),Yemsa,Christopher Green and Steven Moran
-1480,Zayse-Zergulla (GM),Zayse,Christopher Green and Steven Moran
-1481,Gamo-Gofa-Dawro (GM),Gamo,Christopher Green and Steven Moran
-1482,Koorete (GM),Koorete,Christopher Green and Steven Moran
-1483,Aari (GM),Aari,Christopher Green and Steven Moran
-1484,Komo (Sudan) (GM),Komo,Christopher Green and Steven Moran
-1485,Uduk (GM),Twampa,Christopher Green and Steven Moran
-1486,Opuuo (GM),Opo,Christopher Green and Steven Moran
-1487,Kwama (GM),Kwama,Christopher Green and Steven Moran
-1488,Mayogo (GM),Mayogo,Christopher Green and Steven Moran
-1489,Saamia (GM),Lusaamia,Christopher Green and Steven Moran
-1490,Southern Nuni (GM),Nouni,Christopher Green and Steven Moran
-1491,North Ndebele (GM),Ndebele,Christopher Green and Steven Moran
-1492,Saxwe Gbe (GM),"Saxwe, Gbe",Christopher Green and Steven Moran
-1493,Narim (GM),Laarim,Christopher Green and Steven Moran
-1494,Bidyogo (GM),Bijogo,Christopher Green and Steven Moran
-1495,Dompo (GM),Dompo,Christopher Green and Steven Moran
-1496,Bambara (GM),Bamana,Christopher Green and Steven Moran
-1497,Heiban (GM),Heiban,Christopher Green and Steven Moran
-1498,Koyaga (GM),Koyaga,Christopher Green and Steven Moran
-1499,Shwai (GM),Cwaya,Christopher Green and Steven Moran
-1500,Gaa (GM),Tiba,Christopher Green and Steven Moran
-1501,Kuanyama (GM),Kwanyama,Christopher Green and Steven Moran
-1502,Mbalanhu (GM),Mbalanhu,Christopher Green and Steven Moran
-1503,Kwambi (GM),Kwambi,Christopher Green and Steven Moran
-1504,Ngandyera (GM),Ngandjera,Christopher Green and Steven Moran
-1505,Ndonga 2 (GM),Ndonga (Kwaluudhi),Christopher Green and Steven Moran
-1506,Ndonga 3 (GM),Ndonga (Kolonkadhi),Christopher Green and Steven Moran
-1507,Ndonga 4 (GM),Ndonga (Eunda),Christopher Green and Steven Moran
-1508,Konkomba (GM),Konkomba,Christopher Green and Steven Moran
-1509,Zaghawa (GM),Beria,Christopher Green and Steven Moran
-1510,Zay (GM),Zway,Christopher Green and Steven Moran
-1511,Bomitaba (GM),Leke,Christopher Green and Steven Moran
-1512,Northern Bobo Madare (GM),"Bobo, North",Christopher Green and Steven Moran
-1513,Bena (Tanzania) (GM),Bena,Christopher Green and Steven Moran
-1514,Guinea Kpelle (GM),"Kpelle, North",Christopher Green and Steven Moran
-1515,Kakabe (GM),Kakabe,Christopher Green and Steven Moran
-1516,Lele (Guinea) (GM),Lele,Christopher Green and Steven Moran
-1517,Loma (Liberia) (GM),Looma,Christopher Green and Steven Moran
-1518,Mann (GM),Mano,Christopher Green and Steven Moran
-1519,Kyenga (GM),Kyanga,Christopher Green and Steven Moran
-1520,Shanga (GM),Shanga,Christopher Green and Steven Moran
-1521,Abure (GM),Abure,Christopher Green and Steven Moran
-1522,Bankon (GM),Bankon,Christopher Green and Steven Moran
-1523,Awutu (GM),Efutu,Christopher Green and Steven Moran
-1524,Aghem (GM),Aghem,Christopher Green and Steven Moran
-1525,Arbore (GM),Arbore,Christopher Green and Steven Moran
-1526,Abidji (GM),Abidji,Christopher Green and Steven Moran
-1527,Adioukrou (GM),Adioukrou,Christopher Green and Steven Moran
-1528,Tiagbamrin Aizi (GM),"Aizi, Tiagba",Christopher Green and Steven Moran
-1529,Alladian (GM),Alladian,Christopher Green and Steven Moran
-1530,Ashe (GM),Tinɔr,Christopher Green and Steven Moran
-1531,Ngazidja Comorian (GM),Shindazidja,Christopher Green and Steven Moran
-1532,Akpes (GM),Akpes,Christopher Green and Steven Moran
-1533,Eten (GM),Iten,Christopher Green and Steven Moran
-1534,Nuer (GM),Nuer,Christopher Green and Steven Moran
-1535,Kag-Fer-Jiir-Koor-Ror-Us-Zuksun (GM),West Kainji,Christopher Green and Steven Moran
-1536,Idoma (GM),Idu,Christopher Green and Steven Moran
-1537,Irigwe (GM),Rigwe,Christopher Green and Steven Moran
-1538,Izere (GM),Izere,Christopher Green and Steven Moran
-1539,Jere (GM),Jere,Christopher Green and Steven Moran
-1540,Legbo (GM),Leggbo,Christopher Green and Steven Moran
-1541,Logba (GM),Logba,Christopher Green and Steven Moran
-1542,Awngi (GM),Awngi,Christopher Green and Steven Moran
-1543,Glavda (GM),Glavda,Christopher Green and Steven Moran
-1544,Ahan (GM),Ahaan,Christopher Green and Steven Moran
-1545,Ayere (GM),Uwu,Christopher Green and Steven Moran
-1546,Ronga (GM),Ronga,Christopher Green and Steven Moran
-1547,Ndzwani Comorian (GM),"Comorian, Ndzwani",Christopher Green and Steven Moran
-1548,Southern Birifor (GM),Birifor,Christopher Green and Steven Moran
-1549,Kuwaataay (GM),Kwatay,Christopher Green and Steven Moran
-1550,Attie (GM),Attie,Christopher Green and Steven Moran
-1551,Angolar (GM),Angolar,Christopher Green and Steven Moran
-1552,Eastern Oromo (GM),"Oromo, Eastern",Christopher Green and Steven Moran
-1553,Upper Guinea Crioulo (GM),Kriyol,Christopher Green and Steven Moran
-1554,Akoose (GM),Akoose,Christopher Green and Steven Moran
-1555,Bakaka 1 (GM),Bakaka (Mwaneka),Christopher Green and Steven Moran
-1556,Bakaka 2 (GM),Bakaka (Babong),Christopher Green and Steven Moran
-1557,Bakaka 3 (GM),Bakaka (Mkaa'),Christopher Green and Steven Moran
-1558,Mbo (Cameroon) 1 (GM),Mbo (Ekanang),Christopher Green and Steven Moran
-1559,Bassossi (GM),Bassossi,Christopher Green and Steven Moran
-1560,Mbo (Cameroon) 2 (GM),Mbo (Ngwatta),Christopher Green and Steven Moran
-1561,Liberian English (GM),Liberian English,Christopher Green and Steven Moran
-1562,Gagu (GM),Gban,Christopher Green and Steven Moran
-1563,Eton (Cameroon) (GM),Eton,Christopher Green and Steven Moran
-1564,Reunion Creole French (GM),Reunionnais,Christopher Green and Steven Moran
-1565,Nuclear Masalit (GM),Masalit,Christopher Green and Steven Moran
-1566,Saotomense (GM),Saotomense,Christopher Green and Steven Moran
-1567,Nuclear Tangale (GM),Tangale,Christopher Green and Steven Moran
-1568,Sukuma (GM),Sukuma,Christopher Green and Steven Moran
-1569,Morisyen (GM),Mauritian Creole,Christopher Green and Steven Moran
-1570,Krio (GM),Krio,Christopher Green and Steven Moran
-1571,Kituba (Democratic Republic of Congo) (GM),Kituba,Christopher Green and Steven Moran
-1572,Akaselem (GM),Akasilimi,Christopher Green and Steven Moran
-1573,Tuki (GM),Tuki,Christopher Green and Steven Moran
-1574,Baka (Cameroon) (GM),Baka,Christopher Green and Steven Moran
-1575,Bum (GM),Bum,Christopher Green and Steven Moran
-1576,Nuclear Daba (GM),Daba,Christopher Green and Steven Moran
-1577,Gavar (GM),Gavar,Christopher Green and Steven Moran
-1578,Gude (GM),Gu'de,Christopher Green and Steven Moran
-1579,Lango (Sudan) (GM),Lango,Christopher Green and Steven Moran
-1580,Igo (GM),Igo,Christopher Green and Steven Moran
-1581,Kako (GM),Kako,Christopher Green and Steven Moran
-1582,Kwanja (GM),Kwanja,Christopher Green and Steven Moran
-1583,Cameroon Mambila (GM),Mambila,Christopher Green and Steven Moran
-1584,Merey (GM),Mere,Christopher Green and Steven Moran
-1585,Wandala (GM),Mandara,Christopher Green and Steven Moran
-1586,Chonyi-Dzihana-Kauma (GM),Chonyi,Christopher Green and Steven Moran
-1587,Digo (GM),Digo,Christopher Green and Steven Moran
-1588,Duruma (GM),Duruma,Christopher Green and Steven Moran
-1589,Giryama 1 (GM),Giryama,Christopher Green and Steven Moran
-1590,Giryama 2 (GM),Jiβana,Christopher Green and Steven Moran
-1591,Giryama 3 (GM),Kambe,Christopher Green and Steven Moran
-1592,Giryama 4 (GM),Kauma,Christopher Green and Steven Moran
-1593,Giryama 5 (GM),Raβai,Christopher Green and Steven Moran
-1594,Giryama 6 (GM),Reβe,Christopher Green and Steven Moran
-1595,Vame (GM),Vame,Christopher Green and Steven Moran
-1596,Mmaala (GM),Numala,Christopher Green and Steven Moran
-1597,Mpade (GM),Kotoko,Christopher Green and Steven Moran
-1598,Mofu-Gudur (GM),"Mofu, South",Christopher Green and Steven Moran
-1599,Mbe' (GM),Mbe,Christopher Green and Steven Moran
-1600,Ncane (GM),Nchane,Christopher Green and Steven Moran
-1601,Mfumte (GM),Mfumte,Christopher Green and Steven Moran
-1602,Njyem (GM),Njem,Christopher Green and Steven Moran
-1603,Buamu (GM),Bwamut,Christopher Green and Steven Moran
-1604,Kwami (GM),Kwami,Christopher Green and Steven Moran
-1605,Guro (GM),Gouro,Christopher Green and Steven Moran
-1606,Kabuverdianu (GM),Cape Verde Creole,Christopher Green and Steven Moran
-1607,Bouna Kulango (GM),Kulango,Christopher Green and Steven Moran
-1608,Tsamai (GM),Ts'amakko,Christopher Green and Steven Moran
-1609,Central Atlas Tamazight (GM),Tamazight Berber,Christopher Green and Steven Moran
-1610,Siwi (GM),Siwi,Christopher Green and Steven Moran
-1611,Ndamba (GM),Ndamba,Christopher Green and Steven Moran
-1612,Barein 1 (GM),Barein (Jalkiya),Christopher Green and Steven Moran
-1613,Barein 2 (GM),Barein (Giliya),Christopher Green and Steven Moran
-1614,Barein 3 (GM),Barein (Jalking),Christopher Green and Steven Moran
-1615,Barein 4 (GM),Barein (Komiya),Christopher Green and Steven Moran
-1616,Gaam (GM),Gaahmg,Christopher Green and Steven Moran
-1617,Abar (GM),Mungbam,Christopher Green and Steven Moran
-1618,Mundabli (GM),Mundabli,Christopher Green and Steven Moran
-1619,Mbu' (GM),Ajumbu,Christopher Green and Steven Moran
-1620,Koshin (GM),Koshin,Christopher Green and Steven Moran
-1621,Fang (Cameroon) (GM),Fang,Christopher Green and Steven Moran
-1622,Kuranko (GM),Kuranko,Christopher Green and Steven Moran
-1623,Niellim (GM),Lwaa,Christopher Green and Steven Moran
-1624,North Giziga (GM),Gisiga,Christopher Green and Steven Moran
-1625,Meta' (GM),Moghamo,Christopher Green and Steven Moran
-1626,Mokpwe (GM),Mokpwe,Christopher Green and Steven Moran
-1627,Siamou (GM),Siamou,Christopher Green and Steven Moran
-1628,Ngiemboon (GM),Ngiemboon,Christopher Green and Steven Moran
-1629,Nugunu (Cameroon) (GM),Nugunu,Christopher Green and Steven Moran
-1630,Tigon Mbembe (GM),Mbembe,Christopher Green and Steven Moran
-1631,Orma (GM),Orma,Christopher Green and Steven Moran
-1632,Pinyin (GM),Pinyin,Christopher Green and Steven Moran
-1633,Pana (Central African Republic) (GM),Pana,Christopher Green and Steven Moran
-1634,Reel (GM),Thok Reel,Christopher Green and Steven Moran
-1635,Wuzlam (GM),Ouldeme,Christopher Green and Steven Moran
-1636,Lese (GM),Balese,Christopher Green and Steven Moran
-1637,Toura (Cote d'Ivoire) (GM),Toura,Christopher Green and Steven Moran
-1638,Gweno (GM),Kigweno,Christopher Green and Steven Moran
-1639,Sumbwa (GM),Sisumbwa,Christopher Green and Steven Moran
-1640,Zinza (GM),Luzinza,Christopher Green and Steven Moran
-1641,Meru (GM),Kimeru,Christopher Green and Steven Moran
-1642,Kahe (GM),Kikahe,Christopher Green and Steven Moran
-1643,Hangaza (GM),Kihangaza,Christopher Green and Steven Moran
-1644,Mochi (GM),Kimochi,Christopher Green and Steven Moran
-1645,Suba-Simbiti (GM),Kisimbiti,Christopher Green and Steven Moran
-1646,Kwaya (GM),Eciruuri,Christopher Green and Steven Moran
-1647,Wawa (GM),Wawa,Christopher Green and Steven Moran
-1648,Tachelhit (GM),Tachelhit,Christopher Green and Steven Moran
-1649,Tunia (GM),Tounia,Christopher Green and Steven Moran
-1650,Cebaara Senoufo 2 (GM),"Senoufo, Cebaara",Christopher Green and Steven Moran
-1651,Fuliiru (GM),Fuliiru,Christopher Green and Steven Moran
-1652,Sandawe (GM),Sandawe,Christopher Green and Steven Moran
-1653,Tsuvadi (GM),Tsuvaɗi,Christopher Green and Steven Moran
-1654,Ejagham (GM),Ejagham,Christopher Green and Steven Moran
-1655,Yemba (GM),Yemba,Christopher Green and Steven Moran
-1656,Bafanji (GM),Nchufie,Christopher Green and Steven Moran
-1657,Burji (GM),Burji,Christopher Green and Steven Moran
-1658,Anii (GM),Anii,Christopher Green and Steven Moran
-1659,Fipa (GM),Fipa,Christopher Green and Steven Moran
-1660,Nawuri (GM),Nawuri,Christopher Green and Steven Moran
-1661,Anfillo (GM),Anfillo,Christopher Green and Steven Moran
-1662,Ntomba (GM),Bokala-Nkole,Christopher Green and Steven Moran
-1663,Tumtum (GM),Talasa,Christopher Green and Steven Moran
-1664,Iyive (GM),Iyive,Christopher Green and Steven Moran
-1665,Batak Karo (GM),Karo Batak,Christopher Green and Steven Moran
-1666,Tagalog (GM),Tagalog,Christopher Green and Steven Moran
-1667,Southern Sama (GM),Southern Sama,Christopher Green and Steven Moran
-1668,Kimaragang (GM),Kimaragang,Christopher Green and Steven Moran
-1669,Belait (GM),Belait,Christopher Green and Steven Moran
-1670,Iloko (GM),Iloko/Ilocano,Christopher Green and Steven Moran
-1671,Eastern Cham (GM),Phan Rang Cham (Eastern Cham),Christopher Green and Steven Moran
-1672,Moklen (GM),Moklen,Christopher Green and Steven Moran
-1673,Moken (GM),Moken,Christopher Green and Steven Moran
-1674,Nias (GM),Nias,Christopher Green and Steven Moran
-1675,Javanese (GM),Javanese,Christopher Green and Steven Moran
-1676,Buol (GM),Buol,Christopher Green and Steven Moran
-1677,Makasar (GM),Makassar,Christopher Green and Steven Moran
-1678,Mori Bawah (GM),Mori Bawah,Christopher Green and Steven Moran
-1679,Kambera (GM),Kambera,Christopher Green and Steven Moran
-1680,Tetum (GM),Tetun,Christopher Green and Steven Moran
-1681,Leti (Indonesia) (GM),Leti,Christopher Green and Steven Moran
-1682,East Makian (GM),"Makian, East (Taba)",Christopher Green and Steven Moran
-1683,Biak (GM),Biak,Christopher Green and Steven Moran
-1684,Ambonese Malay (GM),Ambon Malay,Christopher Green and Steven Moran
-1685,Banda Malay (GM),Banda Malay,Christopher Green and Steven Moran
-1686,"Malay, Manado (GM)",Manado Malay,Christopher Green and Steven Moran
-1687,Kupang Malay (GM),Kupang Malay,Christopher Green and Steven Moran
-1688,Larantuka Malay (GM),Larantuka Malay,Christopher Green and Steven Moran
-1689,North Moluccan Malay (GM),North Maluku Malay,Christopher Green and Steven Moran
-1690,Indonesian (GM),Indonesian,Christopher Green and Steven Moran
-1691,Nuclear Madurese (GM),Madurese,Christopher Green and Steven Moran
-1692,Cebuano (GM),Cebuano,Christopher Green and Steven Moran
-1693,Balinese (GM),Balinese,Christopher Green and Steven Moran
-1694,Buginese (GM),Bugis,Christopher Green and Steven Moran
-1695,Central Bicolano (GM),Bikol (Bicolano),Christopher Green and Steven Moran
-1696,Hiligaynon (GM),Hiligaynon,Christopher Green and Steven Moran
-1697,Pampanga (GM),Kapampangan,Christopher Green and Steven Moran
-1698,Minangkabau (GM),Minangkabau,Christopher Green and Steven Moran
-1699,Pangasinan (GM),Pagasinan,Christopher Green and Steven Moran
-1700,Tengger (GM),Tengger,Christopher Green and Steven Moran
-1701,Maria (India) (RA),Abujmaria,"Ramaswami, N."
-1702,A-Pucikwar (RA),Andamanese,"Ramaswami, N."
-1703,Angami Naga (RA),Angami,"Ramaswami, N."
-1704,Ao Naga (RA),Ao-Naga,"Ramaswami, N."
-1705,Apatani (RA),Apatani,"Ramaswami, N."
-1706,Assamese (RA),Assamese,"Ramaswami, N."
-1707,Awadhi (RA),Awadhi,"Ramaswami, N."
-1708,Badaga (RA),Badaga,"Ramaswami, N."
-1709,Balti (RA),Balti,"Ramaswami, N."
-1710,Lambadi 1 (RA),Banjara,"Ramaswami, N."
-1711,Bengali (RA),Bengali,"Ramaswami, N."
-1712,Bhili (RA),Bhili,"Ramaswami, N."
-1713,Mundari 1 (RA),Bhumij,"Ramaswami, N."
-1714,Boro (Ethiopia) (RA),BoRo,"Ramaswami, N."
-1715,Brokskat (RA),Brokskat,"Ramaswami, N."
-1716,Bundeli (RA),Bundeli,"Ramaswami, N."
-1717,Chaudangsi (RA),Chandangs and Byangs,"Ramaswami, N."
-1718,Chokri Naga (RA),Chokri,"Ramaswami, N."
-1719,Darmiya (RA),Darmiya,"Ramaswami, N."
-1720,Gata' (RA),Didayi,"Ramaswami, N."
-1721,Gade Lohar (RA),Gade-Lohar,"Ramaswami, N."
-1722,Galo (RA),Gallong,"Ramaswami, N."
-1723,Garo (RA),Garo,"Ramaswami, N."
-1724,Gujari (RA),Gojri,"Ramaswami, N."
-1725,Gujarati (RA),Gujarati,"Ramaswami, N."
-1726,Bodo Gadaba (RA),Gutob,"Ramaswami, N."
-1727,Halbi (RA),Halbi,"Ramaswami, N."
-1728,Hindi (RA),Hindi,"Ramaswami, N."
-1729,Ho (RA),Ho,"Ramaswami, N."
-1730,Irula 1 (RA),Irula,"Ramaswami, N."
-1731,Jaunsari (RA),Jaunsari,"Ramaswami, N."
-1732,Juang (RA),Juang,"Ramaswami, N."
-1733,Kangri (RA),Kangri,"Ramaswami, N."
-1734,Nuclear Kannada (RA),Kannada,"Ramaswami, N."
-1735,Saurashtra (RA),Kanigke:rgotti,"Ramaswami, N."
-1736,Karbi (RA),Karbi (Mikir),"Ramaswami, N."
-1737,Irula 2 (RA),Kasaba,"Ramaswami, N."
-1738,Kashmiri (RA),Kashmiri,"Ramaswami, N."
-1739,Jennu Kurumba (RA),Kattunaika,"Ramaswami, N."
-1740,Kharia (RA),Kharia,"Ramaswami, N."
-1741,Khasi (RA),Khasi,"Ramaswami, N."
-1742,Khezha Naga (RA),Khezha,"Ramaswami, N."
-1743,Kodava (RA),Kod̩agu,"Ramaswami, N."
-1744,Northwestern Kolami (RA),Kolami,"Ramaswami, N."
-1745,Konda-Dora (RA),Kon̩d̩a or Kubi,"Ramaswami, N."
-1746,Mudhili Gadaba (RA),Kon̩ekar Gadaba,"Ramaswami, N."
-1747,Konkani (RA),Konkani,"Ramaswami, N."
-1748,Korra Koraga (RA),Koraga,"Ramaswami, N."
-1749,Korku (RA),Korku,"Ramaswami, N."
-1750,Kota (India) (RA),Kota,"Ramaswami, N."
-1751,Koya (RA),Koya,"Ramaswami, N."
-1752,Kui (India) (RA),Kui,"Ramaswami, N."
-1753,Kumaoni (RA),Kumauni,"Ramaswami, N."
-1754,Kurukh (RA),Kurux,"Ramaswami, N."
-1755,Kuvi (RA),Kuvi,"Ramaswami, N."
-1756,Ladakhi (RA),Ladakhi,"Ramaswami, N."
-1757,Lambadi 2 (RA),Lamani,"Ramaswami, N."
-1758,Lepcha (RA),Lepca,"Ramaswami, N."
-1759,Lotha Naga (RA),Lotha,"Ramaswami, N."
-1760,Lushai (RA),Lushai,"Ramaswami, N."
-1761,Maithili (RA),Maithili,"Ramaswami, N."
-1762,Malayalam (RA),Malayalam,"Ramaswami, N."
-1763,Sauria Paharia (RA),Malto,"Ramaswami, N."
-1764,Manipuri (RA),Manipuri,"Ramaswami, N."
-1765,Mao Naga (RA),Mao-Naga,"Ramaswami, N."
-1766,Marathi (RA),Marathi,"Ramaswami, N."
-1767,Miju-Mishmi (RA),Mishmi,"Ramaswami, N."
-1768,Mising = Padam = Miri (RA),Mising,"Ramaswami, N."
-1769,Moyon Naga (RA),Moyon,"Ramaswami, N."
-1770,Mundari 2 (RA),Mundari,"Ramaswami, N."
-1771,Southeastern Kolami (RA),Naiki,"Ramaswami, N."
-1772,Nepali (RA),Nepali,"Ramaswami, N."
-1773,Central Nicobarese (RA),Nicobarese,"Ramaswami, N."
-1774,Pottangi Ollar Gadaba (RA),Ollari,"Ramaswami, N."
-1775,Nuclear Oriya (RA),Oriya,"Ramaswami, N."
-1776,Paite Chin (RA),Paite,"Ramaswami, N."
-1777,Duruwa (RA),Parji,"Ramaswami, N."
-1778,Pattani (RA),Pat̩t̩an̩i,"Ramaswami, N."
-1779,Pengo (RA),Pengo,"Ramaswami, N."
-1780,Panjabi (RA),Punjabi,"Ramaswami, N."
-1781,Bondo (RA),Remo,"Ramaswami, N."
-1782,Sanskrit (RA),Sanskrit,"Ramaswami, N."
-1783,Santali (RA),Santali,"Ramaswami, N."
-1784,Sumi Naga (RA),Sema,"Ramaswami, N."
-1785,Shina (RA),Shina,"Ramaswami, N."
-1786,Sindhi (RA),Sindhi,"Ramaswami, N."
-1787,Sora (RA),Soːra,"Ramaswami, N."
-1788,Tamil (RA),Tamil,"Ramaswami, N."
-1789,Tangkhul Naga (RA),Tangkul Naga,"Ramaswami, N."
-1790,Tase Naga (RA),Tangsa,"Ramaswami, N."
-1791,Telugu (RA),Telugu,"Ramaswami, N."
-1792,Thado Chin (RA),Thaadou,"Ramaswami, N."
-1793,Toda (RA),Toda,"Ramaswami, N."
-1794,Kok Borok (RA),Tripuri,"Ramaswami, N."
-1795,Tulu (RA),Tulu,"Ramaswami, N."
-1796,Urali (RA),Urali,"Ramaswami, N."
-1797,Urdu (RA),Urdu,"Ramaswami, N."
-1798,Vaagri Booli (RA),Vaagri Boli,"Ramaswami, N."
-1799,Ravula (RA),Yerava,"Ramaswami, N."
-1800,Yerukula (RA),Yerukala,"Ramaswami, N."
-1801,Qawasqar 1 (SAPHON),Kawesqar,South American Phonological Inventory Database
-1802,Mapudungun (SAPHON),Mapudungun,South American Phonological Inventory Database
-1803,Achagua (SAPHON),Achagua,South American Phonological Inventory Database
-1804,Apurina (SAPHON),Apurinã,South American Phonological Inventory Database
-1805,Lokono (SAPHON),Lokono,South American Phonological Inventory Database
-1806,Ashaninka (SAPHON),Asháninka,South American Phonological Inventory Database
-1807,Ajyininka Apurucayali (SAPHON),Ashéninka (Apurucayali dialect),South American Phonological Inventory Database
-1808,Asheninka Perene (SAPHON),Ashéninka (Perené dialect),South American Phonological Inventory Database
-1809,Pichis Asheninka (SAPHON),Ashéninka (Pichis dialect),South American Phonological Inventory Database
-1810,Ucayali-Yurua Asheninka (SAPHON),Ashéninka (Ucayali-Yurúa dialect),South American Phonological Inventory Database
-1811,Baniwa 1 (SAPHON),Baniwa (Central),South American Phonological Inventory Database
-1812,Baniwa 2 (SAPHON),Baniwa (Rio Negro),South American Phonological Inventory Database
-1813,Bare (SAPHON),Baré,South American Phonological Inventory Database
-1814,Cabiyari (SAPHON),Cabiyarí,South American Phonological Inventory Database
-1815,Caquinte (SAPHON),Caquinte,South American Phonological Inventory Database
-1816,Chamicuro (SAPHON),Chamicuro,South American Phonological Inventory Database
-1817,Curripaco (SAPHON),Curripaco,South American Phonological Inventory Database
-1818,Enawene-Nawe (SAPHON),Enawené-Nawé,South American Phonological Inventory Database
-1819,Inapari (SAPHON),Iñapari,South American Phonological Inventory Database
-1820,Guana (Brazil) (SAPHON),Kinikinao,South American Phonological Inventory Database
-1821,Machinere (SAPHON),Manchinere,South American Phonological Inventory Database
-1822,Machiguenga (SAPHON),Matsigenka,South American Phonological Inventory Database
-1823,Mehinaku (SAPHON),Mehináku,South American Phonological Inventory Database
-1824,Nanti (SAPHON),Nanti,South American Phonological Inventory Database
-1825,Nomatsiguenga (SAPHON),Nomatsigenga,South American Phonological Inventory Database
-1826,Palikur (SAPHON),Palikúr,South American Phonological Inventory Database
-1827,Paraujano (SAPHON),Paraujano,South American Phonological Inventory Database
-1828,Parecis (SAPHON),Paresí,South American Phonological Inventory Database
-1829,Piapoco (SAPHON),Piapoco,South American Phonological Inventory Database
-1830,Resigaro (SAPHON),Resígaro,South American Phonological Inventory Database
-1831,Tariana (SAPHON),Tariana,South American Phonological Inventory Database
-1832,Tereno (SAPHON),Terêna,South American Phonological Inventory Database
-1833,Wapishana (SAPHON),Wapichana,South American Phonological Inventory Database
-1834,Guarequena (SAPHON),Warekena,South American Phonological Inventory Database
-1835,Waura (SAPHON),Waurá,South American Phonological Inventory Database
-1836,Wayuu (SAPHON),Wayúu,South American Phonological Inventory Database
-1837,Xiriana (SAPHON),Xiriâna,South American Phonological Inventory Database
-1838,Yanesha' (SAPHON),Yánesha,South American Phonological Inventory Database
-1839,Yavitero (SAPHON),Yavitero,South American Phonological Inventory Database
-1840,Yawalapiti (SAPHON),Yawalapití,South American Phonological Inventory Database
-1841,Yine (SAPHON),Yine,South American Phonological Inventory Database
-1842,Yucuna (SAPHON),Yucuna,South American Phonological Inventory Database
-1843,Baure (SAPHON),Baure,South American Phonological Inventory Database
-1844,Ignaciano (SAPHON),Ignaciano,South American Phonological Inventory Database
-1845,Deni (SAPHON),Dení,South American Phonological Inventory Database
-1846,Jamamadi 1 (SAPHON),Jamamadí,South American Phonological Inventory Database
-1847,Jamamadi 2 (SAPHON),Jarawara,South American Phonological Inventory Database
-1848,Culina (SAPHON),Kulina,South American Phonological Inventory Database
-1849,Paumari (SAPHON),Paumarí,South American Phonological Inventory Database
-1850,Suruaha (SAPHON),Suruahá,South American Phonological Inventory Database
-1851,Central Aymara 1 (SAPHON),Aymara (Central dialect),South American Phonological Inventory Database
-1852,Jaqaru (SAPHON),Jaqaru,South American Phonological Inventory Database
-1853,Awa-Cuaiquer (SAPHON),Awa-Cuaiquer,South American Phonological Inventory Database
-1854,Chachi (SAPHON),Cha'palaa,South American Phonological Inventory Database
-1855,Guambiano (SAPHON),Guambiano,South American Phonological Inventory Database
-1856,Colorado (SAPHON),Tsáfiki,South American Phonological Inventory Database
-1857,Bora 1 (SAPHON),Bora,South American Phonological Inventory Database
-1858,Bora 2 (SAPHON),Miraña,South American Phonological Inventory Database
-1859,Muinane (SAPHON),Muinane,South American Phonological Inventory Database
-1860,Jebero (SAPHON),Shiwilu,South American Phonological Inventory Database
-1861,Chayahuita (SAPHON),Shawi,South American Phonological Inventory Database
-1862,Akurio (SAPHON),Akurio,South American Phonological Inventory Database
-1863,Apalai (SAPHON),Apalaí,South American Phonological Inventory Database
-1864,Para Arara (SAPHON),"Arára, Pará",South American Phonological Inventory Database
-1865,Bakairi 1 (SAPHON),Bakairí (Eastern dialect),South American Phonological Inventory Database
-1866,Bakairi 2 (SAPHON),Bakairí (Western dialect),South American Phonological Inventory Database
-1867,Galibi Carib 1 (SAPHON),Carib (French Guiana dialect),South American Phonological Inventory Database
-1868,Galibi Carib 2 (SAPHON),Carib (Venezuela dialect),South American Phonological Inventory Database
-1869,Galibi Carib 3 (SAPHON),Carib (Suriname dialect),South American Phonological Inventory Database
-1870,Carijona (SAPHON),Carijona,South American Phonological Inventory Database
-1871,Hixkaryana (SAPHON),Hixkaryána,South American Phonological Inventory Database
-1872,Ikpeng (SAPHON),Ikpeng,South American Phonological Inventory Database
-1873,Akawaio (SAPHON),Ingarikó,South American Phonological Inventory Database
-1874,Japreria (SAPHON),Japreria,South American Phonological Inventory Database
-1875,Kaxuiana (SAPHON),Kaxuiâna,South American Phonological Inventory Database
-1876,Kuikuro-Kalapalo (SAPHON),Kuikúro-Kalapálo,South American Phonological Inventory Database
-1877,Macushi (SAPHON),Macushi,South American Phonological Inventory Database
-1878,Mapoyo (SAPHON),Mapoyo,South American Phonological Inventory Database
-1879,Maquiritari (SAPHON),Yekwana,South American Phonological Inventory Database
-1880,E'napa Woromaipu (SAPHON),Panare,South American Phonological Inventory Database
-1881,Pemon 1 (SAPHON),Pemon (Tarepang dialect),South American Phonological Inventory Database
-1882,Pemon 2 (SAPHON),Pemon (Arekuna dialect),South American Phonological Inventory Database
-1883,Pemono (SAPHON),Pémono,South American Phonological Inventory Database
-1884,Trio (SAPHON),Trió,South American Phonological Inventory Database
-1885,Waimiri-Atroari (SAPHON),Waimiri-Atroarí,South American Phonological Inventory Database
-1886,Waiwai (SAPHON),Waiwai,South American Phonological Inventory Database
-1887,Wayana (SAPHON),Wayana,South American Phonological Inventory Database
-1888,Yabarana (SAPHON),Yabarana,South American Phonological Inventory Database
-1889,Oro Win (SAPHON),Oro Win,South American Phonological Inventory Database
-1890,Wari (SAPHON),Wari',South American Phonological Inventory Database
-1891,Arhuaco (SAPHON),Ika,South American Phonological Inventory Database
-1892,Bari (Chibchan) (SAPHON),Barí,South American Phonological Inventory Database
-1893,Chibcha (SAPHON),Muisca,South American Phonological Inventory Database
-1894,Chimila (SAPHON),Chimila,South American Phonological Inventory Database
-1895,Cofan (SAPHON),Cofán,South American Phonological Inventory Database
-1896,Cogui (SAPHON),Kogi,South American Phonological Inventory Database
-1897,Border Kuna (SAPHON),Border Kuna,South American Phonological Inventory Database
-1898,Malayo (SAPHON),Damana,South American Phonological Inventory Database
-1899,Central Tunebo (SAPHON),Tunebo (Central dialect),South American Phonological Inventory Database
-1900,Woun Meu (SAPHON),Woun Meu,South American Phonological Inventory Database
-1901,Embera-Baudo (SAPHON),Emberá-Baudó,South American Phonological Inventory Database
-1902,Embera-Catio (SAPHON),Emberá-Catío,South American Phonological Inventory Database
-1903,Embera-Chami (SAPHON),Emberá-Chamí,South American Phonological Inventory Database
-1904,Northern Embera (SAPHON),Northern Emberá,South American Phonological Inventory Database
-1905,Epena (SAPHON),Epena,South American Phonological Inventory Database
-1906,Günün Yajich (SAPHON),Günün Yajich,South American Phonological Inventory Database
-1907,Ona (SAPHON),Chon,South American Phonological Inventory Database
-1908,Tehuelche (SAPHON),Tehuelche,South American Phonological Inventory Database
-1909,Cocama-Cocamilla (SAPHON),Kokama-Kokamilla,South American Phonological Inventory Database
-1910,Cuiba (SAPHON),Cuiba,South American Phonological Inventory Database
-1911,Guahibo (SAPHON),Guahibo,South American Phonological Inventory Database
-1912,Guayabero (SAPHON),Guayabero,South American Phonological Inventory Database
-1913,Macaguan (SAPHON),Macaguán,South American Phonological Inventory Database
-1914,Abipon (SAPHON),Abipon,South American Phonological Inventory Database
-1915,Kadiweu (SAPHON),Kadiwéu,South American Phonological Inventory Database
-1916,Mocovi (SAPHON),Mocoví,South American Phonological Inventory Database
-1917,Pilaga (SAPHON),Pilagá,South American Phonological Inventory Database
-1918,Toba 1 (SAPHON),Toba (Lañagashik dialect),South American Phonological Inventory Database
-1919,Toba 2 (SAPHON),Toba (Takshek dialect),South American Phonological Inventory Database
-1920,Amarakaeri (SAPHON),Amarakaeri,South American Phonological Inventory Database
-1921,Cholon (SAPHON),Cholón,South American Phonological Inventory Database
-1922,Andoque (SAPHON),Andoke,South American Phonological Inventory Database
-1923,Abishira (SAPHON),Aʔɨwa,South American Phonological Inventory Database
-1924,Camsa (SAPHON),Camsá,South American Phonological Inventory Database
-1925,Candoshi-Shapra (SAPHON),Candoshi-Shapra,South American Phonological Inventory Database
-1926,Cayubaba (SAPHON),Cayubaba,South American Phonological Inventory Database
-1927,Irantxe (SAPHON),Mỹky,South American Phonological Inventory Database
-1928,Itonama (SAPHON),Itonama,South American Phonological Inventory Database
-1929,Leco (SAPHON),Leco,South American Phonological Inventory Database
-1930,Olu'bo (SAPHON),Lule,South American Phonological Inventory Database
-1931,Mochica (SAPHON),Mochica,South American Phonological Inventory Database
-1932,Movima (SAPHON),Movima,South American Phonological Inventory Database
-1933,Muniche (SAPHON),Muniche,South American Phonological Inventory Database
-1934,Paez (SAPHON),Páez,South American Phonological Inventory Database
-1935,Puinave (SAPHON),Puinave,South American Phonological Inventory Database
-1936,Taushiro (SAPHON),Taushiro,South American Phonological Inventory Database
-1937,Ticuna (SAPHON),Ticuna,South American Phonological Inventory Database
-1938,Tinigua (SAPHON),Tinigua,South American Phonological Inventory Database
-1939,Trumai (SAPHON),Trumai,South American Phonological Inventory Database
-1940,Urarina (SAPHON),Urarina,South American Phonological Inventory Database
-1941,Vilela (SAPHON),Vilela,South American Phonological Inventory Database
-1942,Waorani (SAPHON),Waorani,South American Phonological Inventory Database
-1943,Warao (SAPHON),Warao,South American Phonological Inventory Database
-1944,Yamana (SAPHON),Yahgan,South American Phonological Inventory Database
-1945,Yuracare (SAPHON),Yurakaré,South American Phonological Inventory Database
-1946,Achuar-Shiwiar (SAPHON),Achuar-Shiwiar,South American Phonological Inventory Database
-1947,Aguaruna (SAPHON),Aguaruna,South American Phonological Inventory Database
-1948,Huambisa (SAPHON),Huambisa,South American Phonological Inventory Database
-1949,Shuar (SAPHON),Shuar,South American Phonological Inventory Database
-1950,Cacua (SAPHON),Kakua,South American Phonological Inventory Database
-1951,Nukak Maku (SAPHON),Nukak,South American Phonological Inventory Database
-1952,Nuclear Katukina (SAPHON),Katukína,South American Phonological Inventory Database
-1953,Apinaye (SAPHON),Apinayé,South American Phonological Inventory Database
-1954,Arikapu (SAPHON),Arikapú,South American Phonological Inventory Database
-1955,Bororo (SAPHON),Borôro,South American Phonological Inventory Database
-1956,Canela (SAPHON),Canela,South American Phonological Inventory Database
-1957,Chiquitano (SAPHON),Bésɨro,South American Phonological Inventory Database
-1958,Para Gaviao (SAPHON),Gavião do Pará,South American Phonological Inventory Database
-1959,Guato (SAPHON),Guató,South American Phonological Inventory Database
-1960,Djeoromitxi (SAPHON),Jabutí,South American Phonological Inventory Database
-1961,Kaingang (SAPHON),Kaingang,South American Phonological Inventory Database
-1962,Karaja (SAPHON),Karajá,South American Phonological Inventory Database
-1963,Kayapo (SAPHON),Mebengokre,South American Phonological Inventory Database
-1964,Kraho (SAPHON),Krahô,South American Phonological Inventory Database
-1965,Krenak (SAPHON),Krenak,South American Phonological Inventory Database
-1966,Krikati-Timbira (SAPHON),Krinkati-Timbira,South American Phonological Inventory Database
-1967,Maxakali (SAPHON),Maxakalí,South American Phonological Inventory Database
-1968,Ofaye (SAPHON),Ofayé,South American Phonological Inventory Database
-1969,Panara (SAPHON),Panará,South American Phonological Inventory Database
-1970,Parkateje (SAPHON),Parkateje,South American Phonological Inventory Database
-1971,Puri (SAPHON),Puri,South American Phonological Inventory Database
-1972,Rikbaktsa (SAPHON),Rikbaktsa,South American Phonological Inventory Database
-1973,Suya 1 (SAPHON),Suyá,South American Phonological Inventory Database
-1974,Suya 2 (SAPHON),Tapayuna,South American Phonological Inventory Database
-1975,Umotina (SAPHON),Umotína,South American Phonological Inventory Database
-1976,Xavante (SAPHON),Xavánte,South American Phonological Inventory Database
-1977,Xerente (SAPHON),Xerénte,South American Phonological Inventory Database
-1978,Xokleng (SAPHON),Xokleng,South American Phonological Inventory Database
-1979,Fulnio (SAPHON),Yaathe,South American Phonological Inventory Database
-1980,Sao Paulo Kaingang (SAPHON),"Kaingáng, São Paulo",South American Phonological Inventory Database
-1981,Iyo'wujwa Chorote (SAPHON),Chorote (Iyo'wujwa and Iyowa'ja dialects),South American Phonological Inventory Database
-1982,Maca (SAPHON),Maka,South American Phonological Inventory Database
-1983,Nivacle (SAPHON),Chulupí,South American Phonological Inventory Database
-1984,Wichi Lhamtes Nocten (SAPHON),Wichí (Mision la Paz dialect),South American Phonological Inventory Database
-1985,Callawalla (SAPHON),Callawaya,South American Phonological Inventory Database
-1986,Moseten-Chimane 1 (SAPHON),Mosetén de Covendo,South American Phonological Inventory Database
-1987,Moseten-Chimane 2 (SAPHON),Mosetén de Santa Ana,South American Phonological Inventory Database
-1988,Moseten-Chimane 3 (SAPHON),Tsimané,South American Phonological Inventory Database
-1989,Piraha (SAPHON),Pirahã,South American Phonological Inventory Database
-1990,Daw (SAPHON),Dâw,South American Phonological Inventory Database
-1991,Hupde (SAPHON),Hup,South American Phonological Inventory Database
-1992,Nadeb (SAPHON),Nadëb,South American Phonological Inventory Database
-1993,Yuhup (SAPHON),Yuhup,South American Phonological Inventory Database
-1994,Southern Nambikuara (SAPHON),Kithaulhu,South American Phonological Inventory Database
-1995,Latunde (SAPHON),Latunde,South American Phonological Inventory Database
-1996,Mamainde (SAPHON),Mamaindé,South American Phonological Inventory Database
-1997,Sabane (SAPHON),Sabanê,South American Phonological Inventory Database
-1998,Amahuaca (SAPHON),Amahuaca,South American Phonological Inventory Database
-1999,Arara do Acre (SAPHON),Arara do Acre,South American Phonological Inventory Database
-2000,Capanahua (SAPHON),Capanahua,South American Phonological Inventory Database
-2001,Cashibo-Cacataibo (SAPHON),Cashibo-Cacataibo,South American Phonological Inventory Database
-2002,Chacobo (SAPHON),Chácobo,South American Phonological Inventory Database
-2003,Cashinahua (SAPHON),Kashinawa,South American Phonological Inventory Database
-2004,Panoan Katukina (SAPHON),Katukína (Panoan),South American Phonological Inventory Database
-2005,Kaxarari (SAPHON),Kaxararí,South American Phonological Inventory Database
-2006,Korubo (SAPHON),Korubo,South American Phonological Inventory Database
-2007,Matis (SAPHON),Matís,South American Phonological Inventory Database
-2008,Matses (SAPHON),Matsés,South American Phonological Inventory Database
-2009,Nukuini (SAPHON),Nukini,South American Phonological Inventory Database
-2010,Panobo (SAPHON),Panobo,South American Phonological Inventory Database
-2011,Poyanawa (SAPHON),Poyanáwa,South American Phonological Inventory Database
-2012,Siang (SAPHON),Saynawa,South American Phonological Inventory Database
-2013,Shall-Zwall (SAPHON),Shanenawa,South American Phonological Inventory Database
-2014,Sharanahua (SAPHON),Sharanawa,South American Phonological Inventory Database
-2015,Shipibo-Conibo (SAPHON),Shipibo,South American Phonological Inventory Database
-2016,Yaminahua (SAPHON),Yaminawa,South American Phonological Inventory Database
-2017,Yawanawa (SAPHON),Yawanawa,South American Phonological Inventory Database
-2018,Yora (SAPHON),Yora,South American Phonological Inventory Database
-2019,Yagua (SAPHON),Yagua,South American Phonological Inventory Database
-2020,Yameo (SAPHON),Yameo,South American Phonological Inventory Database
-2021,Corongo Ancash Quechua (SAPHON),Ancash Quechua (Sihuas and Corongo dialects),South American Phonological Inventory Database
-2022,Cajamarca Quechua (SAPHON),Cajamarca Quechua,South American Phonological Inventory Database
-2023,Chachapoyas Quechua (SAPHON),Chachapoyas Quechua,South American Phonological Inventory Database
-2024,Cusco Quechua (SAPHON),Cuzco-Collao Quechua,South American Phonological Inventory Database
-2025,Lambayeque Quechua (SAPHON),Ferreñafe Quechua,South American Phonological Inventory Database
-2026,Imbabura Highland Quichua (SAPHON),Imbabura Quichua,South American Phonological Inventory Database
-2027,Inga (SAPHON),Inga (Highland dialect),South American Phonological Inventory Database
-2028,Jungle Inga (SAPHON),Inga (Jungle dialect),South American Phonological Inventory Database
-2029,Jauja Wanca Quechua (SAPHON),Jauja-Huanca Quechua,South American Phonological Inventory Database
-2030,North Junin Quechua 1 (SAPHON),North Junín Quechua (San Pedro de Cajas dialect),South American Phonological Inventory Database
-2031,North Junin Quechua 2 (SAPHON),North Junín Quechua (Tarma dialect),South American Phonological Inventory Database
-2032,Ayacucho Quechua (SAPHON),Ayacucho Quechua,South American Phonological Inventory Database
-2033,North Bolivian Quechua (SAPHON),Bolivian Quechua (Northern and Southern dialects),South American Phonological Inventory Database
-2034,Huallaga Huanuco Quechua (SAPHON),Huallaga Huánuco Quechua,South American Phonological Inventory Database
-2035,Northern Conchucos Ancash Quechua (SAPHON),Huaylas-Conchucos Quechua,South American Phonological Inventory Database
-2036,San Martin Quechua (SAPHON),San Martin Quechua,South American Phonological Inventory Database
-2037,North Junin Quechua 3 (SAPHON),Yaru Quechua,South American Phonological Inventory Database
-2038,Santiago del Estero Quichua (SAPHON),Santiago del Estero Quechua,South American Phonological Inventory Database
-2039,Napo Lowland Quechua (SAPHON),Napo Quichua,South American Phonological Inventory Database
-2040,Salasaca Highland Quichua (SAPHON),Salasca Quechua,South American Phonological Inventory Database
-2041,Tena Lowland Quichua (SAPHON),Tena Quechua,South American Phonological Inventory Database
-2042,Piaroa (SAPHON),Piaroa,South American Phonological Inventory Database
-2043,Saliba (Colombia) (SAPHON),Sáliba,South American Phonological Inventory Database
-2044,Araona (SAPHON),Araona,South American Phonological Inventory Database
-2045,Cavinena (SAPHON),Cavineña,South American Phonological Inventory Database
-2046,Ese Ejja 1 (SAPHON),Ese Ejja (Bolivia),South American Phonological Inventory Database
-2047,Ese Ejja 2 (SAPHON),Ese Eja (Peru),South American Phonological Inventory Database
-2048,Reyesano (SAPHON),Reyesano,South American Phonological Inventory Database
-2049,Tacana (SAPHON),Tacana,South American Phonological Inventory Database
-2050,Barasana-Eduria (SAPHON),Barasana-Eduria,South American Phonological Inventory Database
-2051,Cubeo (SAPHON),Kubeo,South American Phonological Inventory Database
-2052,Desano (SAPHON),Desano,South American Phonological Inventory Database
-2053,Kotiria (SAPHON),Wanano,South American Phonological Inventory Database
-2054,Carapana (SAPHON),Karapanã,South American Phonological Inventory Database
-2055,Koreguaje (SAPHON),Koreguaje,South American Phonological Inventory Database
-2056,Macuna (SAPHON),Macuna,South American Phonological Inventory Database
-2057,Orejon (SAPHON),Máíhɨki,South American Phonological Inventory Database
-2058,Wa'ikhana (SAPHON),Piratapuyo,South American Phonological Inventory Database
-2059,Secoya (SAPHON),Secoya,South American Phonological Inventory Database
-2060,Siona (SAPHON),Siona,South American Phonological Inventory Database
-2061,Siriano (SAPHON),Siriano,South American Phonological Inventory Database
-2062,Tanimuca-Retuara (SAPHON),Tanimuca-Retuarã,South American Phonological Inventory Database
-2063,Tatuyo (SAPHON),Tatuyo,South American Phonological Inventory Database
-2064,Tucano (SAPHON),Tucano,South American Phonological Inventory Database
-2065,Tuyuca (SAPHON),Tuyuca,South American Phonological Inventory Database
-2066,Waimaha (SAPHON),Waimaha,South American Phonological Inventory Database
-2067,Yuruti (SAPHON),Yurutí,South American Phonological Inventory Database
-2068,Ache (SAPHON),Aché,South American Phonological Inventory Database
-2069,Akuntsu (SAPHON),Akuntsú,South American Phonological Inventory Database
-2070,Amundava (SAPHON),Amundava,South American Phonological Inventory Database
-2071,Apiaka (SAPHON),Apiaká,South American Phonological Inventory Database
-2072,Arawete (SAPHON),Araweté,South American Phonological Inventory Database
-2073,Xingu Asurini (SAPHON),Asurini do Xingú,South American Phonological Inventory Database
-2074,Tocantins Asurini (SAPHON),Asuriní do Tocantins,South American Phonological Inventory Database
-2075,Ava-Canoeiro (SAPHON),Avá-Canoeiro,South American Phonological Inventory Database
-2076,Aweti (SAPHON),Awetí,South American Phonological Inventory Database
-2077,Eastern Bolivian Guarani 1 (SAPHON),Chiriguano (Chané dialect),South American Phonological Inventory Database
-2078,Eastern Bolivian Guarani 2 (SAPHON),Chiriguano (Izoceño dialect),South American Phonological Inventory Database
-2079,Emerillon (SAPHON),Emerillon,South American Phonological Inventory Database
-2080,Gaviao Do Jiparana (SAPHON),Gavião do Jiparaná,South American Phonological Inventory Database
-2081,Guaja (SAPHON),Guajá,South American Phonological Inventory Database
-2082,Guajajara (SAPHON),Guajajára,South American Phonological Inventory Database
-2083,Mbya Guarani (SAPHON),Mbyá,South American Phonological Inventory Database
-2084,Paraguayan Guarani (SAPHON),Paraguayan Guaraní,South American Phonological Inventory Database
-2085,Guarayu (SAPHON),Guarayu,South American Phonological Inventory Database
-2086,Juma (SAPHON),Júma,South American Phonological Inventory Database
-2087,Juruna (SAPHON),Jurúna,South American Phonological Inventory Database
-2088,Urubu-Kaapor (SAPHON),Kaapor,South American Phonological Inventory Database
-2089,Kaiwa (SAPHON),Kaiwá,South American Phonological Inventory Database
-2090,Kamayura (SAPHON),Kamayurá,South American Phonological Inventory Database
-2091,Karitiana (SAPHON),Karitiâna,South American Phonological Inventory Database
-2092,Karo (Brazil) (SAPHON),Karo,South American Phonological Inventory Database
-2093,Kayabi (SAPHON),Kayabí,South American Phonological Inventory Database
-2094,Kuruaya (SAPHON),Kuruáya,South American Phonological Inventory Database
-2095,Makurap (SAPHON),Makuráp,South American Phonological Inventory Database
-2096,Munduruku (SAPHON),Mundurukú,South American Phonological Inventory Database
-2097,Nhengatu (SAPHON),Nheengatú,South American Phonological Inventory Database
-2098,Omagua (SAPHON),Omagua,South American Phonological Inventory Database
-2099,Pai Tavytera (SAPHON),Pai Tavytera,South American Phonological Inventory Database
-2100,Parakana (SAPHON),Parakanã,South American Phonological Inventory Database
-2101,Sakirabia (SAPHON),Sakirabiá,South American Phonological Inventory Database
-2102,Satere-Mawe (SAPHON),Sateré-Mawé,South American Phonological Inventory Database
-2103,Surui (SAPHON),Suruí,South American Phonological Inventory Database
-2104,Tapiete (SAPHON),Tapieté,South American Phonological Inventory Database
-2105,Tapirape (SAPHON),Tapirapé,South American Phonological Inventory Database
-2106,Tembe (SAPHON),Tembé,South American Phonological Inventory Database
-2107,Tenharim (SAPHON),Tenharim,South American Phonological Inventory Database
-2108,Tupari (SAPHON),Tuparí,South American Phonological Inventory Database
-2109,Tupinamba (SAPHON),Tupinambá,South American Phonological Inventory Database
-2110,Uru-Eu-Wau-Wau (SAPHON),Uru-Eu-Wau-Wau,South American Phonological Inventory Database
-2111,Wayampi 1 (SAPHON),Wayampi (Alto Jarí dialect),South American Phonological Inventory Database
-2112,Wayampi 2 (SAPHON),Wayampi (Ampari dialect),South American Phonological Inventory Database
-2113,Xeta (SAPHON),Xetá,South American Phonological Inventory Database
-2114,Xipaya (SAPHON),Xipaya,South American Phonological Inventory Database
-2115,Zo'e (SAPHON),Zo'é,South American Phonological Inventory Database
-2116,Siriono (SAPHON),Sirionó,South American Phonological Inventory Database
-2117,Yuqui (SAPHON),Yuqui,South American Phonological Inventory Database
-2118,Aikana (SAPHON),Aikanã,South American Phonological Inventory Database
-2119,Mato Grosso Arara (SAPHON),Arára do Mato Grosso,South American Phonological Inventory Database
-2120,Yuwana (SAPHON),Hoti,South American Phonological Inventory Database
-2121,Kanoe (SAPHON),Kanoé,South American Phonological Inventory Database
-2122,Kariri-Xoco (SAPHON),Karirí-Xocó (Dzubukuá dialect),South American Phonological Inventory Database
-2123,Kunza (SAPHON),Kunza,South American Phonological Inventory Database
-2124,Kwaza (SAPHON),Kwaza,South American Phonological Inventory Database
-2125,Pume (SAPHON),Pumé,South American Phonological Inventory Database
-2126,Chipaya (SAPHON),Chipaya,South American Phonological Inventory Database
-2127,Uru (SAPHON),Uru,South American Phonological Inventory Database
-2128,Minica Huitoto (SAPHON),"Huitoto, Minica",South American Phonological Inventory Database
-2129,Murui Huitoto (SAPHON),"Huitoto, Murui",South American Phonological Inventory Database
-2130,Nonuya (SAPHON),Nonuya,South American Phonological Inventory Database
-2131,Ocaina (SAPHON),Ocaina,South American Phonological Inventory Database
-2132,Ninam (SAPHON),Ninam,South American Phonological Inventory Database
-2133,Sanuma 1 (SAPHON),Sanumá,South American Phonological Inventory Database
-2134,Yanomami 1 (SAPHON),Yanomámi,South American Phonological Inventory Database
-2135,Yanomamo 1 (SAPHON),Yanomamö,South American Phonological Inventory Database
-2136,Chamacoco (SAPHON),Chamacoco,South American Phonological Inventory Database
-2137,Ayoreo (SAPHON),Ayoreo,South American Phonological Inventory Database
-2138,Andoa (SAPHON),Andoa,South American Phonological Inventory Database
-2139,Arabela (SAPHON),Arabela,South American Phonological Inventory Database
-2140,Iquito (SAPHON),Iquito,South American Phonological Inventory Database
-2141,Zaparo (SAPHON),Záparo,South American Phonological Inventory Database
-2142,Chiripa (SAPHON),Nhandeva,South American Phonological Inventory Database
-2143,Pisamira (SAPHON),Pisamira,South American Phonological Inventory Database
-2144,Qawasqar 2 (SAPHON),Alacalufe (Southern),South American Phonological Inventory Database
-2145,Central Aymara 2 (SAPHON),Aymara (Chilean dialect),South American Phonological Inventory Database
-2146,Yanomami 2 (SAPHON),Yanomama of Papiu,South American Phonological Inventory Database
-2147,Yanomami 3 (SAPHON),Yanomae of Demini/Tototopi,South American Phonological Inventory Database
-2148,Sanuma 2 (SAPHON),Sanömá of Kolulu,South American Phonological Inventory Database
-2149,Yanomamo 2 (SAPHON),Yanomamɨ of Parawau,South American Phonological Inventory Database
-2150,Yãroamë of Serra do Pacu/Ajarani (SAPHON),Yãroamë of Serra do Pacu/Ajarani,South American Phonological Inventory Database
-2151,Yanomamo 3 (SAPHON),Yanomamɨ of Venezuela,South American Phonological Inventory Database
-2152,Pacahuara (SAPHON),Pacahuara,South American Phonological Inventory Database
-2153,Yukpa 1 (SAPHON),Yukpa (Macoíta),South American Phonological Inventory Database
-2154,Yukpa 2 (SAPHON),Yukpa (de Irapa),South American Phonological Inventory Database
-2155,Trinitario (SAPHON),Trinitario,South American Phonological Inventory Database
+ID,Name
+19,Cantonese
+902,Kaiabi
+1169,Au
+2314,Northeastern Thai
+1670,Iloko/Ilocano
+2634,Murrinh-patha
+1155,Huallaga (Huanuco) Quechua
+664,bambara
+805,nugunu
+853,Yeyi
+2501,Mongghul
+1869,Carib
+2476,Iron Ossetic
+1184,Banoo
+320,EJAGHAM
+117,Ocaina
+722,gɛn-mina
+24,Garo
+1709,Balti
+1027,Yukaghir (Kolyma)
+1112,Gojri; Gujari; Gujar
+2794,Ngintait
+3014,Yawijibaya
+2426,Nyaw
+2576,Gutob
+1312,Jumjum
+470,MARGI
+344,GUAJIRO
+329,FINNISH
+23,Lahu
+2960,Ngalia
+1191,Biak
+594,TARASCAN
+2243,Moksha
+691,dan
+2791,Nulit
+1103,Blackfoot
+620,WARAY
+738,jur mödö
+2418,Yaghnobi
+1856,Tsáfiki
+537,SENADI
+2748,Mithaka
+1388,Pangwa
+1007,Shimakonde
+473,MURSI
+2034,Huallaga Huánuco Quechua
+2149,Yanomamɨ of Parawau
+1331,Tiv
+568,TELUGU
+1067,Tibetan
+1760,Lushai
+1626,Mokpwe
+2014,Sharanawa
+1779,Pengo
+70,Nootka
+317,EKARI
+1371,Nzɛbi
+2079,Emerillon
+1060,Baga Koga; Koba; Barka
+1820,Kinikinao
+875,Endo
+2506,Meadow Mari
+3003,Lardil
+2488,Lithuanian
+1326,Likpe
+1336,Kibudu
+520,PARAUK
+63,Chipewyan
+774,mambila
+1666,Tagalog
+2266,Tajik
+2208,Central Sama
+2279,Northern Khanty
+381,JEBERO
+854,Cavinena
+1821,Manchinere
+1881,Pemon
+146,Luvale
+1537,Rigwe
+1633,Pana
+1599,Mbe
+1275,Lele
+2993,Dharawal
+1887,Wayana
+1107,Comox
+825,tamasheq
+42,Maori
+609,WARAO
+547,SIERRA MIWOK
+653,agni sanvi
+159,Norwegian
+2798,Barada
+2025,Ferreñafe Quechua
+3013,Worrorra
+922,Ladakhi
+1039,Baruga
+2763,Pitta Pitta
+672,bassar
+2583,Basque
+1074,Euchee; Yuchi
+2607,Najdi Arabic
+1026,Yuracure
+1123,Molalla
+1595,Vame
+1534,Nuer
+1115,Chilliwak Halkomelem
+801,ngbandi
+1022,Zapotec
+2605,Sui
+2589,Waneci
+1314,Lulubo
+2323,Hakka Chinese
+2381,Zuberoan Basque
+878,Furu
+1106,Koasati
+814,sango
+221,ALAMBLAK
+2162,Bengali
+662,bafut
+2861,Warlpiri
+410,KIRGHIZ
+2953,Manjiljarra
+1967,Maxakalí
+868,Dhangar
+998,Savara
+1535,West Kainji
+2824,Yiningay
+1382,Oko
+1947,Aguaruna
+227,ANDAMANESE
+486,NAHUATL
+1593,Raβai
+2738,Yanda
+2572,Tai Nuea
+110,Campa
+2906,Kuthant
+492,NONI
+2845,Nyamal
+812,sabaot
+2888,Muluridji
+177,Bengali
+1805,Lokono
+2740,Yalarnnga
+1851,Aymara
+2711,Kaytetye
+98,Mazahua
+1391,Balante
+2727,Dhudhuroa
+333,FUR
+2656,Gun-Dedjnjenghmi
+2246,Lao
+1661,Anfillo
+2726,Yuwaliyaay
+330,FE?FE?
+788,mofu-gudur
+1029,Wambon
+1692,Cebuano
+3018,Ngardily
+1959,Guató
+2926,Agwamin
+2052,Desano
+1271,diriku
+985,Pray
+127,Somali
+1319,Xhosa
+682,boussa
+1548,Birifor
+1222,Colorado; Tsafiki
+1171,Petats
+2871,Wajuk
+1286,ngwe
+1437,Bade
+815,senoufo
+1043,"Pa-O, Taungthu"
+2174,Dutch
+27,Thai
+2173,Dutch
+2940,Butchulla
+2997,Gundungurra
+156,Irish Gaelic
+232,AUCA
+327,NUBIAN
+2549,Chechen
+1902,Emberá-Catío
+1129,Mundurukú
+1403,Hide
+1199,Baga Sitem
+2903,Yintyingka
+3020,Tableland Lamalama
+2665,Wubuy
+1033,Warihio
+1176,Awing
+465,MORO
+8,Telugu
+1718,Chokri
+1610,Siwi
+270,ASHUSLAY
+839,wan
+1258,kpaʔ
+1961,Kaingang
+2125,Pumé
+2891,Yidiny
+2686,Ngarnka
+2778,Yari-Yari
+2941,Gabi-Gabi
+318,GREEK
+372,ISOKO
+1142,Kabiye
+822,soso
+1735,Kanigke:rgotti
+800,ngbaka
+973,Mianmin
+2631,Gooniyandi
+192,Even
+1929,Leco
+887,Huaylas
+1023,Yuki
+106,Araucanian
+134,Maltese
+2905,Kurtjar
+392,CAMSA
+2676,Ndjebbana
+2986,Eora
+472,MIXE
+2404,Varli
+386,JAPRERIA
+2068,Aché
+2041,Tena Quechua
+1358,Avikam
+2724,Wiriyaraay
+215,ALBANIAN
+1933,Muniche
+1750,Kota
+2584,Breton
+1987,Mosetén de Santa Ana
+1812,Baniwa
+651,adja
+1591,Kambe
+666,banda
+2880,Aghu Tharnggala
+1024,Yapese
+2256,Darkhat
+1134,Nigerian Pidgin
+2971,Dhangu
+2958,Antakirinya
+150,Kanuri
+1572,Akasilimi
+1277,mongo-nkundu
+2890,Djabugay
+961,Nganikurungkurr
+246,KOHUMONO
+652,adja
+276,FUZHOU
+1687,Kupang Malay
+268,BRIBRI
+1875,Kaxuiâna
+2171,Dutch
+772,lyélé
+2083,Mbyá
+53,Washkuk
+1690,Indonesian
+164,Spanish
+2050,Barasana-Eduria
+235,ABIPON
+2499,Serbian
+2396,Hayu
+2085,Guarayu
+1510,Zway
+635,YANA
+2849,Yindjibarndi
+1093,Acehnese
+2321,Yousafzai Pashto
+1944,Yahgan
+1780,Punjabi
+778,mangbetu
+2252,English
+1468,Dzuungoo
+2645,Garrwa
+1996,Mamaindé
+2683,Jaminjung
+1679,Kambera
+2051,Kubeo
+2788,Bidhawal
+2909,Aritinngithigh
+1355,Gwandara (Gitata)
+3007,Ngarinyin
+1452,Degema
+1549,Kwatay
+1307,Krim
+1870,Carijona
+1190,Betta Kurumba
+2821,Wadjabangay
+2080,Gavião do Jiparaná
+2957,Warnman
+994,Samre
+2671,Ilgar
+17,Wu
+2799,Barna
+484,NAVAJO
+1434,Belanda Boor
+1803,Achagua
+1509,Beria
+2524,Lezgian
+253,BISA
+929,Lukundu
+782,mboó
+91,Zuni
+2522,Solu Sherpa
+1477,Gimira
+1660,Nawuri
+1202,Subiya
+1512,"Bobo, North"
+2018,Yora
+1449,Shekgalagari
+1397,Harari
+2055,Koreguaje
+1226,Kinnauri; Kanauri
+2899,Kugu Nganhcara
+1160,Abau
+618,WOLOF
+986,Mal
+661,babungo
+210,ALABAMA
+3,Lak
+1646,Eciruuri
+838,waama
+2575,Komi-Permyak
+2128,"Huitoto, Minica"
+2684,Ngaliwurru
+2848,Panyjima
+1619,Ajumbu
+2045,Cavineña
+2551,Shan
+2650,Urningangg
+515,YAY
+441,LELEMI
+1289,cilungu
+1086,Tongan; Tonga
+7,Kurukh
+678,biali
+888,"Huave, San Mateo del Mar"
+173,Pashto
+536,SENECA
+256,MUINANE
+2483,Nuosu
+2810,Yilba
+1260,limbum (southern)
+354,HINDI-URDU
+477,PIRAHA
+1748,Koraga
+584,LENAKEL
+2540,Tofa
+1418,Krongo
+2586,Southwestern Pashto
+2795,Yaraldi
+1044,Ternate
+2951,Warumungu
+862,Barbareño
+1891,Ika
+1972,Rikbaktsa
+1853,Awa-Cuaiquer
+452,MAZAHUA
+2557,Hungarian
+1778,Pat̩t̩an̩i
+2226,Pitjantjatjara
+307,DINKA
+3015,Wardaman
+781,mbembe
+925,Lavukaleve
+1511,Leke
+2761,Arabana
+743,karaboro
+2895,Rimanggudinhma
+424,KPAN
+1430,Thakik
+1462,Gumer
+432,!XU
+2312,Daur
+1663,Talasa
+496,NIVKH
+1603,Bwamut
+1696,Hiligaynon
+859,Chinanteco
+2448,Livonian
+1847,Jarawara
+1652,Sandawe
+2493,Latvian
+2642,Larrakia
+1272,kwangari
+1925,Candoshi-Shapra
+33,Batak
+943,Moken
+2863,Wulguru
+727,gulmancema
+1513,Bena
+1409,Moloko
+2107,Tenharim
+488,NEPALI
+1589,Giryama
+167,Bulgarian
+1360,San
+433,KUNAMA
+1647,Wawa
+1899,Tunebo
+950,Ndemli
+1706,Assamese
+2567,Jah-Hut
+2022,Cajamarca Quechua
+2646,Waanyi
+1188,Bemba
+874,Ekpeye
+2401,Kabardian
+2229,Tashlhiyt Berber
+2484,Northern Kurdish
+1299,Dghwede
+1376,Nyam
+2829,Mayi-Kulan
+388,INUIT
+2608,Akha
+2750,Thirarri
+1600,Nchane
+2537,Khalkhal
+301,DAHALO
+1544,Ahaan
+311,RUKAI
+420,KANAKURU
+2616,Erzya
+1016,Spokan
+546,EPENA PEDEE
+1543,Glavda
+2338,Burmese
+200,ADZERA
+2240,Udmurt
+2735,Gumbaynggir
+2263,gLo Tibetan
+25,Karen
+1845,Dení
+356,HOPI
+1053,Jamaican Creole
+2478,Occitan
+2352,Lizu
+449,LUSHOOTSEED
+2507,Shan
+1705,Apatani
+992,Samba Leko
+1602,Njem
+2647,Kunindirri
+2202,Mavea
+2682,Mangarrayi
+2857,Ngardi
+39,Iai
+2912,Linngithigh
+579,TLINGIT
+1373,Kambaata
+847,yorouba
+1387,Kipsigis
+1912,Guayabero
+2739,Kalkatungu
+598,PICURIS
+255,BELLA COOLA
+3008,Gambera
+770,luganda
+1678,Mori Bawah
+211,QAWASQAR
+611,WICHITA
+1882,Pemon
+242,BATS
+1018,Satawalese
+741,kambari
+1244,Agni Morofo
+339,GWARI
+575,TAMASHEQ
+789,moore
+1656,Nchufie
+729,hausa
+1357,Gwandara (Nimbia)
+358,HUNGARIAN
+1618,Mundabli
+102,Paez
+2889,Wagaman
+1330,Sele
+2952,Kartujarra
+1699,Pagasinan
+197,Japanese
+14,Cambodian
+2808,Yangga
+1398,Dinka
+1638,Kigweno
+2110,Uru-Eu-Wau-Wau
+2504,South Mustang Tibetan
+43,Hawaiian
+298,DAN
+832,tikar
+1761,Maithili
+2497,Pite Saami
+1345,Tupuri
+1521,Abure
+2069,Akuntsú
+2635,Ngan'gityemerri
+1116,Huastec
+2423,Shan
+2639,Marrithiyel
+119,Guarani
+963,Ngombale
+564,TABI
+1288,yala
+504,NYIMANG
+1764,Manipuri
+1689,North Maluku Malay
+705,ẹzaa
+2172,Dutch
+2108,Tuparí
+915,Konni
+1110,Etsako
+3000,Thawa
+1580,Igo
+495,NIMBORAN
+1216,Aheu; Thavung
+325,EYAK
+2304,Vallader Romansh
+2151,Yanomamɨ of Venezuela
+1038,Tapiete
+916,Kuay
+2626,Iron Ossetic
+407,KHMER
+841,wolof
+131,Amharic
+2842,Ngarla
+1305,Kofyar
+144,Beembe
+700,duala
+1680,Tetun
+2511,Kharia
+1768,Mising
+1127,Mocovi
+2076,Awetí
+2569,Vlax Romani
+2733,Warrgamay
+799,ngambai
+2462,Vietnamese
+2936,Narrungga
+2661,Mayali
+1582,Kwanja
+453,MAXAKALI
+2357,Bhojpuri
+1456,Soddo
+897,Jarawara
+1135,Northern Pomo
+638,NENETS
+1062,Selaru
+2380,Lhasa Tibetan
+551,SA'BAN
+2949,Western Wakaya
+2320,Lao
+2148,Sanömá of Kolulu
+2781,Wathi Wathi
+2820,Warungu
+567,TEHUELCHE
+694,dholuo
+1448,Kimwani
+231,ARABIC
+170,Modern Greek
+2954,Putijarra
+783,mekaa
+2163,Bulgarian
+296,CAYUVAVA
+2489,Nangchenpa Tibetan
+1415,Weh
+846,yom
+1059,San Bartolomé Zoogocho Zapotec
+478,MUMUYE
+991,Marwari
+2169,Dutch
+1844,Ignaciano
+1841,Yine
+2424,Iron Ossetic
+3005,Tiwi
+1698,Minangkabau
+971,Nyeu
+2767,Garlali
+880,Gbari
+2099,Pai Tavytera
+631,TAROK
+2203,Nara
+1659,Fipa
+1021,San Miguel Chimalapa Zoque
+2846,Nyiyaparli
+1651,Fuliiru
+1828,Paresí
+1469,Bagirmi
+476,BURMESE
+1287,jowulu
+225,WESTERN DESERT
+1751,Koya
+1654,Ejagham
+1470,Ngiti
+1364,Welamo
+2963,Pintupi
+1353,Gwandara (Cancara)
+595,TERA
+2289,Munji
+704,ẹdo
+455,MBUM
+403,KHASI
+2232,Upper Saxon
+2514,Wakhi
+817,sissala
+50,Alawa
+498,MAIDU
+138,Wolof
+2249,Bakhtiari
+223,ANGAS
+1807,Ashéninka
+57,Auyana
+1717,Chandangs and Byangs
+2432,Iron Ossetic
+81,Nez Perce
+1200,Bubia
+625,KOMA
+807,pandikeri
+953,Nankina
+1255,herero
+3010,Wunambal
+1938,Tinigua
+926,Bafo
+2894,Lamalama
+802,ngyembɔɔn
+2480,Czech
+732,igbo
+730,hausa
+2492,Northeastern Thai
+2465,Andi
+2764,Wangkayutyuru
+481,XIAMEN
+93,Tewa
+1091,Ambele
+1724,Gojri
+514,PANARE
+728,hanga
+648,ZUNI
+190,Yakut
+2145,Aymara
+1788,Tamil
+2789,Muk-Thang
+1406,Lagwan
+1145,Italian
+630,YUCUNA
+2606,Ilocano
+1740,Kharia
+172,Persian
+931,Mada
+2221,Kumzari
+1479,Yemsa
+710,fe'efe'fe
+1013,Skou
+2088,Kaapor
+901,Kada
+919,Kusunda
+2398,German
+2968,Malyangapa
+1132,Northern Pame
+2560,Ahi
+1668,Kimaragang
+786,minyanka
+2411,Drokpa Tibetan
+105,Aymara
+2828,Kukatj
+1501,Kwanyama
+1124,Matses
+2939,Guweng
+493,LUA
+573,TAGALOG
+2251,Ingush
+312,DAGUR
+427,KORYAK
+688,dagaare
+2897,Wik-Ngathan
+241,BATAK
+1986,Mosetén de Covendo
+400,KOTA
+2101,Sakirabiá
+1598,"Mofu, South"
+1203,Totela
+697,ditammari
+519,POHNPEIAN
+1553,Kriyol
+509,PAPAGO
+675,berom
+429,KURUKH
+58,Kunimaipa
+357,HADZA
+1122,Loniu
+2546,Campidanese Sardinian
+513,PAEZ
+2293,Kuvi
+1328,Shanjo
+2295,Mundari
+402,KAINGANG
+2929,Umbuygamu
+2858,Ngarinyman
+1049,Standard Yiddish
+2826,Mangala
+1719,Darmiya
+1871,Hixkaryána
+2765,Kungkari
+1259,lega-shabunda
+1231,Friulian
+205,AIZI
+1001,Sedik
+787,mo
+790,muan
+1508,Konkomba
+204,AGHEM
+2419,Basque
+2495,Oriya
+1642,Kikahe
+287,LAI
+1443,Kikamba
+1109,Dimili
+1090,Adang
+1215,Ke''o; Kéo'
+2143,Pisamira
+2106,Tembé
+1239,Barbareño
+1980,"Kaingáng, São Paulo"
+1209,Suri
+993,Samo de Toma
+794,mwaghavul
+2737,Guwa
+2815,Gunggari
+218,HAMER
+2313,Humla Bhotia
+2796,Yitha Yitha
+578,TIRURAY
+2377,Brahui
+696,dioula
+1524,Aghem
+2242,Eastern Yugur
+1786,Sindhi
+1877,Macushi
+2093,Kayabí
+67,Haida
+395,DERA
+2127,Uru
+1922,Andoke
+1270,mbukushu
+2271,Northern Khanty
+1294,Logo
+797,nʋni
+1419,Kanga (Kanga)
+1790,Tangsa
+1984,Wichí
+2354,Betta Kurumba
+2322,Wazirwola
+660,avokaya
+2976,Djinang
+2175,English (American)
+2407,Japhug
+1736,Karbi (Mikir)
+834,toura
+1240,Lele (Lyélé)
+302,DAFLA
+2663,Rembarrnga
+1302,Gechode
+352,HAWAIIAN
+968,Nuer
+1631,Orma
+463,MANCHU
+1198,Brokskat
+1782,Sanskrit
+643,YULU
+323,EWE
+2179,English (New Zealand)
+1579,Lango
+2185,Swiss German
+1827,Paraujano
+22,Burmese
+2046,Ese Ejja
+2847,Palyku
+440,LAK
+2707,Ayerrerenge
+1162,Akha
+1466,Endegen
+1632,Pinyin
+2719,Gamilaraay
+1218,Tiwi
+744,karaŋ
+1149,Slovene
+390,GEORGIAN
+259,BRAO
+2876,Southern Paakintyi
+1852,Jaqaru
+1910,Cuiba
+1006,Shanenawa
+768,lingala
+1042,Mazanderani
+889,Huanca
+2417,Mingrelian
+2972,Gupapuyngu
+2920,Yadhaykenu
+1350,Tigrinya
+1657,Burji
+275,CACUA
+2167,Danish
+2215,Thai
+951,Chiricahua Apache
+1691,Madurese
+364,IBAN
+2955,Wangkajunga
+135,Modern Hebrew
+508,OJIBWA
+2097,Nheengatú
+340,GELAO
+580,JOMANG
+2248,Estonian
+944,Moseten
+464,MOR
+2268,Beserman
+1217,Sakirabiá; Mekens
+428,SEBEI
+80,Tunica
+2394,Dzongkha
+240,BARIBA
+1257,songhoy
+2710,Western Arrernte
+1794,Tripuri
+2548,Achang
+1943,Warao
+1265,Nen
+2482,Tundra Nenets
+2879,Takalak
+1596,Numala
+2793,Ngayawang
+1577,Gavar
+2335,Lak
+2098,Omagua
+435,CUNA
+2049,Tacana
+735,ikwo
+1451,Alaaba
+2351,Iron Ossetic
+702,ebira
+1084,Southern Ute; Ute; Ute-Southern Paiute
+1036,Palula (Phalura)
+762,lendu
+2468,Abkhaz
+1459,Muher
+234,AWIYA
+337,GARAWA
+693,daza
+2839,Kariyarra
+1032,Wogeo
+456,MABA
+2964,Pitjantjatjara
+1846,Jamamadí
+2140,Iquito
+1151,Taba
+2021,Ancash Quechua
+2902,Umpila
+823,swahili
+446,LAME
+2673,Miriwoong
+890,Louyi
+2454,Magahi
+2350,Northern Cuona
+483,NASIOI
+2751,Karangura
+1817,Curripaco
+2715,Minjungbal
+1772,Nepali
+2974,Djambarrpuyngu
+2526,Sora
+153,Luo
+2282,Lithuanian
+1906,Günün Yajich
+1567,Tangale
+921,Kwaza
+2150,Yãroamë of Serra do Pacu/Ajarani
+1241,Fulfulde (Cameroon)
+2780,Madhi-Madhi
+2946,Bularnu
+2609,Tatar
+1575,Bum
+350,HAKKA
+996,Saanich
+13,Sedang
+679,bimoba
+1300,Eloyi
+1167,Arapesh
+852,Fwe
+1322,Mmani
+2372,Northern Altai
+2672,Iwaidja
+92,Tiwa
+633,YIDINY
+777,manding
+2512,Chechen
+2286,Tundra Yukaghir
+37,Tagalog
+2747,Warriyangga
+2074,Asuriní do Tocantins
+1756,Ladakhi
+634,YUKAGHIR
+983,Urii
+1230,Chickasaw
+2366,Ladakhi
+475,KALA LAGAW YA
+2059,Secoya
+1150,Swedish
+1412,Kemezung
+981,Dobu
+1333,Xamtanga
+2122,Karirí-Xocó
+1672,Moklen
+6,Burushaski
+726,guɗe
+780,mündü
+2400,Udmurt
+2223,Standard Malay
+632,YAGARIA
+2105,Tapirapé
+1368,Higi
+168,Lithuanian
+1627,Siamou
+2923,Thaayorre
+2217,Turkish
+2000,Capanahua
+864,Comanche
+1762,Malayalam
+1865,Bakairí
+2561,Burushaski
+2510,Mehri
+2443,Romanian
+1951,Nukak
+324,EWONDO
+46,Kunjen
+2288,Even
+742,kanuri
+2967,Kala Lagaw Ya
+2883,Ogh Unyjan
+1839,Yavitero
+1012,Shawnee
+2640,Marti Ke
+319,YUPIK
+1939,Trumai
+2866,Goreng
+2644,Umbugarla
+1868,Carib
+2475,Northern Mansi
+1487,Kwama
+1037,East Makian
+181,Cheremis
+956,Naki
+1208,Jiarong
+2204,Nepali
+2529,Kapampangan
+1498,Koyaga
+2585,Southern Pumi
+2704,Western Anmatyerre
+2805,Miyan
+2367,Shan
+2873,Wudjari
+2878,Ikarranggal
+641,YUCHI
+2893,Djangun
+347,GUAMBIANO
+1714,BoRo
+671,bassa
+1311,Joola Huluf
+422,KONKANI
+107,Island Carib
+1935,Puinave
+38,Chamorro
+1147,Seri
+1263,myene
+1566,Saotomense
+792,munukutuba
+1034,Vai
+239,BARASANO
+249,BEJA
+315,DIOLA
+1072,Michif
+809,pulaar
+1637,Toura
+2225,Kedayan
+1850,Suruahá
+2131,Ocaina
+2921,Yinwum
+1516,Lele
+1942,Waorani
+247,SAMA
+2114,Xipaya
+1730,Irula
+84,Totonac
+1741,Khasi
+2502,Labrang Tibetan
+103,Itonama
+2193,Irish
+2660,Kunwinjku
+1139,Croatian
+2664,Warray
+2518,Northern Thai
+918,Kuot
+2219,Bukharan Tajik
+1525,Arbore
+1727,Halbi
+1880,Panare
+1417,Keiga
+549,SAAMI
+2082,Guajajára
+2245,Moksha
+2979,Ritharrngu
+271,NICOBARESE
+2703,Eastern Anmatyerre
+2553,gSerpa
+2267,Yongning Na
+1997,Sabanê
+1538,Izere
+1526,Abidji
+1754,Kurux
+1003,Semelai
+1532,Akpes
+1125,Manipuri
+2466,Urdu
+2758,Punthamara
+2550,Santali
+746,kasɩm
+1223,Tzutujil
+396,KHANTY
+2706,Central Arrernte
+2832,Mayi-Yapi
+2995,Dhurga
+2773,Kolakngat
+1974,Tapayuna
+1752,Kui
+923,Langi
+1669,Belait
+3012,Unggumi
+646,ZOQUE
+978,Orokaiva
+1890,Wari'
+934,Mamenyan
+1703,Angami
+1872,Ikpeng
+1514,"Kpelle, North"
+1138,Catalan
+491,NGIZIM
+2720,Muruwari
+1675,Javanese
+2339,Malto
+1712,Bhili
+157,Breton
+2620,Manange
+426,KOMI
+2358,Gheg Albanian
+2094,Kuruáya
+1561,Liberian English
+2283,Iron Ossetic
+2593,Latgalian
+2037,Yaru Quechua
+2649,Mengerrdji
+2064,Tucano
+1831,Tariana
+2371,Laz
+2756,Yawarrawarrka
+821,sooninke
+1005,Shabo
+64,Chasta Costa
+810,pular
+1885,Waimiri-Atroarí
+2850,Yinhawangka
+2363,Macedonian
+1570,Krio
+850,zarma
+552,SOMALI
+2544,Tamang
+1787,Soːra
+1140,Czech
+1413,Nateni
+2159,Assamese
+2822,Wangan
+490,NEZ PERCE
+979,Yil
+2270,Ishkashimi
+1838,Yánesha
+336,GADSUP
+1601,Mfumte
+2884,Anguthimri
+893,Ingush
+348,ACHE
+196,Ainu
+59,Selepet
+2168,Luanyjang Dinka
+1297,Abua
+1518,Mano
+2694,Warrwa
+811,rendille
+1293,Moru
+2370,Nivkh
+984,Boiken
+1342,Afar
+2674,Kija
+3002,Kayardild
+359,HUPA
+1187,Ida''an'
+1876,Kuikúro-Kalapálo
+891,Ibani
+2111,Wayampi
+1237,Wari; Wari''; Wariʔ; Oro Nao'
+1792,Thaadou
+1159,Abulas
+836,vagala
+425,SRE
+936,Ngemba
+1214,Muna
+183,Hungarian
+2413,Eastern Mari
+714,fulfulde
+999,Popoluca de Sayula
+1864,"Arára, Pará"
+1438,Pichi
+251,BEEMBE
+2158,"Arrernte, Central"
+18,Hakka
+1814,Cabiyarí
+401,KOYA
+243,BOBO-FING
+1611,Ndamba
+162,French
+865,Cupeno
+2095,Makuráp
+1907,Chon
+2570,Udihe
+2494,Ter Saami
+335,GA
+2118,Aikanã
+2629,Burarra
+939,Mbodomo; Mbódɔ̀mɔ́
+1702,Andamanese
+942,Mmen
+273,CAYAPA
+2749,Diyari
+1349,Northern Mao
+2119,Arára do Mato Grosso
+2983,Yugambal
+607,WAPPO
+104,Quechua
+1766,Marathi
+305,DIYARI
+2072,Araweté
+1837,Xiriâna
+851,zulgo
+1930,Lule
+94,Luiseno
+2235,Northern Saami
+1233,Ega
+1321,Sherbro
+558,SUENA
+945,Mpumpun
+338,GBEYA
+1267,yao
+245,BARDI
+2191,Hungarian
+927,Lunda
+1408,Mbuko
+2930,Oykangand
+1497,Heiban
+2121,Kanoé
+2677,Gurr-Goni
+2965,Yankunytjatjara
+2040,Salasca Quechua
+1578,Gu'de
+590,TONKAWA
+2714,Guwar
+863,Coeur d''Alene'
+423,KOREAN
+2854,Jaru
+2908,Alngith
+1472,Me'en
+1949,Shuar
+767,limbum
+41,Adzera
+2582,Tay Yo
+1121,Lisu
+972,Obolo
+1136,Texistepec Popoluca
+525,QUILEUTE
+2581,Hill Mari
+967,Nubi
+2205,Persian
+191,Khalkha
+2819,Gugu Badhun
+3011,Umiida
+2388,Dolakha Newar
+2689,Gudanji
+2579,Tuvan
+1362,Galla
+29,Cham
+2392,Svan
+2892,Malthanmungu
+531,RUTUL
+866,Cuvok
+769,lokpa
+2603,Tundra Nenets
+1897,Border Kuna
+2685,Nungali
+2347,Mah Meri
+2416,Turkish
+2617,Nar-Phu
+2365,Tausug
+2632,Matngele
+1563,Eton
+848,yorouba
+79,Alabama
+534,YAKUT
+882,Guajajara
+2942,Barunggam
+88,Karok
+2774,Daungwurrung
+1243,Agni Djuablin
+346,GUAHIBO
+947,Mvumbo
+2389,Iron Ossetic
+2284,Juhuri
+2602,Lower Sorbian
+1886,Waiwai
+608,WAPISHANA
+2073,Asurini do Xingú
+115,Ticuna
+1069,Tolowa; Tolowa-Chetco
+1884,Trió
+1919,Toba
+2860,Warlmanpa
+1327,Mampruli
+1781,Remo
+2278,Mirandese
+2882,Ogh Awarrangg
+707,emai
+124,Hausa
+2196,Japanese
+2378,Faroese
+1564,Reunionnais
+2382,Kyrgyz
+2928,Mbabaram
+2200,Luxembourgish
+2653,Gaagudju
+1950,Kakua
+2209,Slovak
+2130,Nonuya
+2412,Alutor
+1052,Gayo
+2011,Poyanáwa
+1608,Ts'amakko
+2594,Catalan
+2336,Kunigami
+2452,Gujarati
+2287,Korean
+1432,Luwo
+2984,Darkinyung
+12,Khasi
+471,MARANAO
+2746,Thiin
+1213,Ngad''a; Ngadha'
+2800,Biri
+1061,Southern Nuautl
+66,Navaho
+995,Sabane
+2385,Lao
+1346,Kuo
+2328,Brag-g.yab Tibetan
+511,PACOH
+76,Seneca
+263,BODO
+419,KURDISH
+1639,Sisumbwa
+480,SOUTHERN NAMBIQUARA
+1385,Defaka
+2438,Arbëresh Albanian
+1623,Lwaa
+55,Telefol
+51,Wik-Munkan
+2272,Zurich German
+1396,Argobba
+1765,Mao-Naga
+980,Ningil
+1556,Bakaka (Babong)
+2680,Warndarrang
+342,IRISH
+1153,Yine
+1774,Ollari
+2708,Eastern Arrernte
+1347,Kare
+285,CHUKCHI
+637,YAREBA
+526,RESIGARO
+1220,Thulung; Thulung Rai
+2455,Slovene
+2236,Belhare
+2123,Kunza
+2496,Northeastern Thai
+1274,"Songhay, Koyraboro Senni"
+1962,Karajá
+2636,Patjtjamalh
+2721,Ngiyambaa
+2868,Minang
+2092,Karo
+629,YAQUI
+2442,Võro
+2915,Mpalitjanh
+438,KAROK
+2409,Mingrelian
+2253,Dupaningan Agta
+1088,Laz
+2490,Veps
+1697,Kapampangan
+2234,Pite Saami
+955,Khmu
+1320,Siwu
+375,MIEN
+2435,Gtaʔ
+47,Maranungku
+1506,Ndonga (Kolonkadhi)
+2327,Rgyalthang Tibetan
+2116,Sirionó
+974,Faiwol
+1268,umbundu
+1905,Epena
+2508,Sindhi
+2032,Ayacucho Quechua
+2525,Kami Tibetan
+99,Mazateco
+1630,Mbembe
+2115,Zo'é
+2536,Udmurt
+1051,Tamambo; Malo
+1334,Lika
+2433,Khakas
+451,MAASAI
+512,PAYA
+2005,Kaxararí
+640,YUCATEC
+1000,Secoya
+1148,Sindhi
+1491,Ndebele
+1804,Apurinã
+1713,Bhumij
+304,GERMAN
+2152,Pacahuara
+289,COFAN
+1545,Uwu
+2453,Miyako
+2087,Jurúna
+2331,Gagauz
+2784,Nari Nari
+2611,Tamil
+321,BASQUE
+1476,Soo
+258,BORORO
+1629,Nugunu
+479,MOVIMA
+2657,Gun-Djeihmi
+1246,anufɔ
+1465,Ennemor
+2238,Evenki
+2290,Brahui
+2156,Amharic
+1210,Bilua
+1283,machame
+601,NGARINJIN
+1378,Mawa
+1920,Amarakaeri
+160,English
+1310,Foodo
+2533,Ersu
+1993,Yuhup
+1970,Parkateje
+460,MARI
+2047,Ese Eja
+1685,Banda Malay
+2754,Yandruwandha
+1490,Nouni
+1634,Thok Reel
+876,Esimbi
+1855,Guambiano
+1557,Bakaka (Mkaa')
+2811,Yuwi
+2638,Marringarr
+2916,Ngkoth
+1197,Boro
+1166,Arandai
+2505,Scots
+500,TSESHAHT
+1256,Senoufo-Cebaara
+1867,Carib
+2669,Mawng
+2132,Ninam
+1181,Bali-Kumbat
+1903,Emberá-Chamí
+2994,Dharumba
+869,Muhiang
+1507,Ndonga (Eunda)
+1653,Tsuvaɗi
+2297,Itelmen
+2712,Bundjalung
+303,DYIRBAL
+1860,Shiwilu
+2515,English
+2182,French
+2410,Laz
+1878,Mapoyo
+1674,Nias
+2004,Katukína
+2696,Yawuru
+2618,Western Balochi
+370,IRAQW
+2449,Israeli Hebrew
+376,IVATAN
+1975,Umotína
+206,AHTNA
+2988,West Djadjawurung
+418,KWOMA
+1492,"Saxwe, Gbe"
+849,zande
+1594,Reβe
+175,Punjabi
+2592,Tosk Albanian
+371,IRANXE
+1775,Oriya
+930,Macedonian
+3001,Gangalidda
+1562,Gban
+591,NEO-ARAMAIC
+690,dagbani
+2189,Hebrew
+2573,Soutern Tai
+1968,Ofayé
+277,CHAMORRO
+1565,Masalit
+885,Huron
+2166,Chinese
+1070,Pagibete; Apakabeti; Apakibeti; Apagibete;Apagibeti; Pagabete
+36,Javanese
+1648,Tachelhit
+1177,Awtuw
+1590,Jiβana
+881,Golin
+2023,Chachapoyas Quechua
+1810,Ashéninka
+733,igede
+1254,fulfulde (NGA)
+803,niaboua
+250,BENGALI
+1444,Bafia
+858,Cheremis
+989,Rundi
+543,SHUSWAP
+924,Lao
+645,AZANDE
+1655,Yemba
+2071,Apiaká
+756,krio
+1227,Mewati
+2690,Wambaya
+1236,Sanuma; Sanumá
+2917,Uradhi
+283,UPPER CHEHALIS
+1071,Choctaw
+113,Jivaro
+264,BURUSHASKI
+1189,Berbice Dutch
+1467,Ener
+1723,Garo
+896,Hill Jarawa
+2212,Tausug (Suluk)
+2651,Anindilyakwa
+2178,English (British)
+804,nsoʼ
+2716,Waalubal
+828,teda
+2241,Meadow Mari
+2120,Hoti
+1405,Ikwere
+2406,Welsh
+2003,Kashinawa
+835,toussian
+843,yambɛta
+2301,Kangjia
+2741,Payungu
+740,kakɔ
+898,Jemez
+310,DOAYO
+2299,Bhujel
+123,Shilha
+2624,Bengali
+819,songhoy
+2844,Nhuwala
+1323,Hill Guang
+2324,Iron Ossetic
+2440,Tukita
+1614,Barein (Jalking)
+2446,Karelian
+1517,Looma
+1035,Ukrainian
+1165,Anywa
+1811,Baniwa
+415,TEKE
+2885,Gugu Wakura
+1755,Kuvi
+2723,Wiradjuri
+114,Barasano
+31,Malagasy
+1958,Gavião do Pará
+1894,Chimila
+798,nɔmaa
+2977,Djinba
+731,ifɛ̀
+2881,Awu Alaya
+2554,Swedish
+1078,"Tlacolula Valley Zapotec; Western Tlacolula Zapotec; Zapotec, San Juan Guelavía"
+2142,Nhandeva
+1643,Kihangaza
+2439,Kurtoep
+48,Maung
+883,Gunwinggu
+406,KALIAI
+1581,Kako
+213,ALEUT
+2124,Kwaza
+1454,Principense
+763,lɔgɔmagooi
+1758,Lepca
+1422,Kadugli (Miri)
+2760,Wangkumara
+1749,Korku
+2311,Lezgian
+1604,Kwami
+112,Amuesha
+272,CARIB
+2319,Lahu
+1558,Mbo (Ekanang)
+1926,Cayubaba
+447,LUISENO
+2474,Nyinpa Cone
+1746,Kon̩ekar Gadaba
+2281,Modern Aramaic
+2456,Purki
+334,PO-AI
+1102,Bikele
+118,Siriono
+2459,Kamassian
+2531,Phu Tai
+219,AMHARIC
+1771,Naiki
+391,KABARDIAN
+1834,Warekena
+1318,Copi
+899,Jili
+2927,Mbara
+73,Delaware
+686,chumburung
+1156,Sipakapense Maya
+510,ORMURI
+844,yaouré
+1573,Tuki
+1695,Bikol (Bicolano)
+1324,Ndut-Falor
+1207,Oluta Popoluca; Olutec
+2625,Kolyma Yukaghir
+16,Mandarin Chinese
+2265,Danish
+766,limba
+1683,Biak
+2596,Jèrriais
+2355,Kumyk
+2247,Rājbanshi
+295,CUBEO
+2113,Xetá
+1292,Madi
+1742,Khezha
+90,Digueno
+1533,Iten
+182,Komi
+605,VIETNAMESE
+2812,Dharawala
+474,MURINHPATHA
+413,ACOMA
+165,Rumanian
+1180,Bakoko
+917,Kulung
+86,Tzeltal
+52,Sentani
+1644,Kimochi
+2262,Irish
+2836,Kalaamaya
+734,ijo de l'est; Eastern Ijo
+2102,Sateré-Mawé
+2648,Erre
+1496,Bamana
+431,KALKATUNGU
+2164,Burmese
+2970,Yardliyawarra
+2898,Ayapathu
+1818,Enawené-Nawé
+387,JINGPHO
+2990,Nganyaywana
+2948,Warluwarra
+2855,Malngin
+1798,Vaagri Boli
+326,FASU
+2901,Bakanh
+1164,Amanab
+1799,Yerava
+15,Vietnamese
+1969,Panará
+2224,Mennonite Plautdietsch
+911,Kinyarwanda
+548,SALIBA
+2601,Scottish Gaelic
+199,ACHUMAWI
+1793,Toda
+489,NEWARI
+147,Zulu
+1726,Gutob
+2089,Kaiwá
+2165,Hakka Chinese
+1985,Callawaya
+1743,Kod̩agu
+2393,Kyirong Tibetan
+560,SUI
+1235,Arrarnte
+2619,Galician
+1028,Wa
+1011,Siraiki
+1374,Otoro
+1641,Kimeru
+2190,Hindi
+2379,Southern Cuona
+1824,Nanti
+709,ewondo
+2541,Upper Sorbian
+808,podoko
+2752,Ngamini
+1457,Goggot
+1667,Southern Sama
+1574,Baka
+2250,Kurdish
+602,MUNDARI
+879,Garadjari
+2932,Kaurna
+254,BAKAIRI
+1262,limbum (northern)
+659,arabe
+1677,Makassar
+2552,Abkhaz
+2138,Andoa
+1474,Mbay
+1058,Tamil
+1369,Manya
+228,ARCHI
+1482,Koorete
+613,WINTU
+2769,Malkana
+1732,Juang
+2713,Gidabal
+74,Wichita
+1308,"Banda, West Central"
+1458,Masqan
+394,KEFA
+748,kikuyu
+198,KOTOKO
+87,Tarascan
+2717,Buwandik
+499,NORWEGIAN
+128,Awiya
+892,Imonda
+1375,Tira
+2545,Southern Balochi
+166,Russian
+409,KIOWA
+676,bɛ̀ŋ
+2528,Korku
+2368,Bulgarian
+2147,Yanomae of Demini/Tototopi
+1141,Galician
+1990,Dâw
+557,NAMBAKAENGO
+628,YAGUA
+2078,Chiriguano
+1640,Luzinza
+502,LUNGCHOW
+1100,Baule
+2255,Dolgan
+1234,Adamawa Fulfulde; Adamawa Fulani
+9,Kota
+1077,Iñupiaq; Iñupiat; Inupiat; Inupiaq
+1914,Abipon
+1363,Hadiyya
+101,Cayapa
+655,akan
+2513,Tagalog
+2084,Paraguayan Guaraní
+507,OGBIA
+494,NGANASAN
+2590,Digor Ossetic
+439,LAKKIA
+1030,Washo
+2457,Standard Chinese
+624,KAWAIISU
+130,Tigre
+1400,Ahanta
+2961,Ngarlawangka
+900,Kabyle
+1635,Ouldeme
+501,NERA
+2104,Tapieté
+148,Gbeya
+592,TSIMSHIAN
+2875,Bandjigali
+1744,Kolami
+252,BETE
+1460,Ezha
+1681,Leti
+703,eʋe
+588,TRUMAI
+724,gonja
+2697,Bardi
+2039,Napo Quichua
+2308,Spanish
+367,KOLOKUMA IJO
+2384,Yodzyak Komi
+1854,Cha'palaa
+2019,Yagua
+952,Yuma
+1700,Tengger
+21,Dafla
+1815,Caquinte
+1048,Kalabari; Kirike; Kalabari-Ijo
+1560,Mbo (Ngwatta)
+1952,Katukína
+1094,Antiguan Creole
+1008,Shona
+1808,Ashéninka
+1219,Torwali
+2192,Igbo
+30,Atayal
+1622,Kuranko
+2627,Pnar
+444,LITHUANIAN
+1711,Bengali
+467,MAUNG
+75,Dakota
+44,Western Desert
+265,BULGARIAN
+360,HUASTECO
+363,IAI
+2757,Yarluyandi
+1966,Krinkati-Timbira
+765,ligbi
+2851,Bilinarra
+366,MOXO
+2962,Ngaanyatjarra
+674,bekwarra
+179,Basque
+2623,Portuguese
+2038,Santiago del Estero Quechua
+2785,Djabwurung
+32,Malay
+1298,Anyi
+2959,Kukatja
+695,dida
+2956,Yulparija
+776,mande
+2981,Yorta Yorta
+95,Hopi
+2500,Bashkir
+913,Kokota
+482,NAMA
+1620,Koshin
+1988,Tsimané
+1721,Gade-Lohar
+1569,Mauritian Creole
+2745,Tharrkari
+314,YOLNGU
+2198,Kunama
+2239,Hmong Njua
+108,Wapishana
+540,SENTANI
+1908,Tehuelche
+1801,Kawesqar
+1978,Xokleng
+411,SOUTHERN KIWAI
+2509,Iron Ossetic
+2310,Kabardian
+813,sango
+380,JAVANESE
+665,banda
+759,kusal
+2630,Bunuba
+2877,Pallanganmiddang
+2444,Sakha
+750,kom
+717,ga
+2376,Northern Khanty
+806,nupe
+2520,Farsi
+553,SPANISH
+1836,Wayúu
+753,kpelle
+2652,Dalabon
+155,Nama
+1133,Panamint
+2387,Telugu
+1936,Taushiro
+1372,Tadaksahak
+71,Kwakiutl
+2195,Italian
+1118,Kadiweu
+1211,Hoava
+1913,Macaguán
+2802,Gangulu
+417,KLAO
+2841,Martuthunira
+2197,Korean
+650,adioukrou
+2924,Olkol
+1662,Bokala-Nkole
+1352,Gwandara (Karshi)
+2732,Dyirbal
+462,MONGUOR
+174,Kashimiri
+871,Korafe
+2867,Kaniyang
+826,tarok
+1192,Bilinara
+1185,Bariai
+269,CADDO
+1186,Befang
+2477,Dongxiang
+397,K'EKCHI
+2441,Norwegian
+604,VANIMO
+2464,Mongolian
+2925,Yir Yoront
+977,Palauan
+2374,Lue
+1826,Palikúr
+2487,Arbëresh Albanian
+288,CAMPA
+1407,Mbodomo
+2186,Greek
+1068,Che; Rukuba; Kuche; Bache; Inchazi; Sale
+1898,Damana
+1893,Muisca
+332,IATE
+1152,Tukang Besi
+186,Turkish
+1228,Aneityum; Anejom̃
+903,Kamasau
+2291,Naukan Yupik
+2945,Wuli Wuli
+954,Nandi
+2659,Kuninjku
+353,HAIDA
+2700,Jawi
+2565,Godoberi
+683,bozo
+1427,Lumun
+791,mundani
+343,KULLO
+1973,Suyá
+670,basaa
+1584,Mere
+261,BRAHUI
+171,Armenian
+1095,Aklan
+331,FRENCH
+1379,!Xóõ
+2471,Tay Daeng
+2027,Inga
+1338,Lengola
+621,BERTA
+2722,Wayilwan
+2008,Matsés
+2999,Ngunawal
+2015,Shipibo
+1989,Pirahã
+736,izi
+1481,Gamo
+747,kɔɔzime
+627,KADUGLI
+1833,Wapichana
+2010,Panobo
+585,TOTONAC
+2558,Shigatse Tibetan
+56,Gadsup
+1806,Asháninka
+2361,Saek
+2307,Solu Sherpa
+2571,Asturian
+141,Ga
+2296,North Azerbaijani
+1119,Kuteb
+2222,Cocos Malay
+840,wobé
+2112,Wayampi
+322,EVEN
+1019,Sumo
+1528,"Aizi, Tiagba"
+517,MALAGASY
+723,godié
+2258,Juang
+2026,Imbabura Quichua
+2436,Mingrelian
+1410,Muyang
+1066,Tatana''; Tatanaq; Tatana'
+2559,Malayalam
+910,Chong
+1383,!Xun
+990,Runyankore
+2859,Walmajarri
+2817,Margany
+1020,Hup
+2823,Yandjibara
+1971,Puri
+2437,Sindhi
+1568,Sukuma
+1519,Kyanga
+1734,Kannada
+1393,Dan
+2298,Puxi
+506,OCAINA
+1731,Jaunsari
+2317,Buriat
+2269,French
+721,gɛn-mina
+1225,Tuva; Tuvan
+2807,Yambina
+385,JAQARU
+286,MANDARIN
+2562,Min Dong Chinese
+1859,Muinane
+1866,Bakairí
+180,Finnish
+2987,Awabakal
+1892,Barí
+365,IGBO
+20,Yao
+1356,Gwandara (Koro)
+857,Chepang
+1888,Yabarana
+2403,Karaim
+1168,Tanacross
+2230,Xumi
+2797,Bidyara
+2206,Portuguese (European)
+1080,Sidaama; Sidamo; Sidamic
+2580,Karata
+599,TUVA
+2786,Wemba Wemba
+2340,Basque
+2228,greek Thrace Xoraxane Romane
+1917,Pilagá
+1436,Ndogo
+909,Kharia
+1411,Ngomba
+2944,Waka Waka
+872,Binumarien
+2556,Mangghuer
+824,tamajaq
+833,toposa
+818,sissala
+2692,Ngumbarl
+582,ASMAT
+1170,Tinputz
+2300,Laz
+928,Lucazi
+529,RORO
+2402,Tundra Nenets
+2341,Laz
+3006,Wagiman
+266,BURARRA
+445,DAKOTA
+2309,Yue Chinese
+755,kresh
+617,WOISIKA
+1344,Mono
+563,HUARI
+2473,Elfdalian
+1423,Kadugli (Katcha)
+382,TOL
+554,SELEPET
+361,HUAVE
+1954,Arikapú
+966,Northern Paiute
+1096,Ika
+2887,Kuku Yalanji
+1046,Polish
+539,SONGHAI
+1686,Manado Malay
+2129,"Huitoto, Murui"
+2326,Votic
+1390,Buli
+161,German
+2318,Karakalpak
+2872,Wiilman
+1665,Karo Batak
+1895,Cofán
+2831,Mayi-Thakurti
+65,Hupa
+2333,Soutern Tai
+1130,Nishgha
+816,sereer
+2539,Shixing
+1341,Mwali
+673,bété
+1249,baka
+2814,Gungabula
+935,Manange
+281,CHUVASH
+2305,Remo
+1829,Piapoco
+1291,kwezo
+2353,Udmurt
+40,Kaliai
+997,Sasak
+1531,Shindazidja
+77,Oneida
+559,SAVOSAVO
+1247,babole
+1402,Buwal
+1956,Canela
+1276,Ikalanga
+562,ATAYAL
+1377,Kirya-Konzɘl
+2643,Limilngan
+306,DIEGUENO
+1523,Efutu
+2096,Mundurukú
+2827,Nyangumarta
+202,AMELE
+1163,Alyawarra
+920,Kuvi
+940,Medumba
+2886,Guugu Yimidhirr
+313,DOGON
+2532,Meadow Mari
+2874,Yuwat
+2292,Solon
+2362,Chukchi
+2058,Piratapuyo
+965,Northern Khmer
+982,Samo
+1273,soninke (kaedi (MRT))
+262,BRUU
+1281,kotafon
+122,Apinaye
+2031,North Junín Quechua
+299,DAGBANI
+2806,Wiri
+2207,Portuguese (Brazilian)
+2237,Hunzib
+2766,Pirriya
+1296,Avatime
+1117,Ilocano
+2154,Yukpa
+877,Fan
+1848,Kulina
+1229,Zaiwa
+658,anufɔ
+636,YORUBA
+2199,Lizu
+78,Yuchi
+1280,western xwla
+2577,Burushaski
+2985,Dharuk
+907,Karipuna Creole
+1499,Cwaya
+1994,Kithaulhu
+1840,Yawalapití
+1753,Kumauni
+2612,Uyghur
+1484,Komo
+2020,Yameo
+1475,Gumuz
+1017,Sesotho
+764,lɔkɔ
+349,GUGU-YALANDYI
+2486,Northern Qiang
+572,TIGAK
+718,gangam
+1597,Kotoko
+1965,Krenak
+606,MBABARAM
+178,Sinhalese
+143,Igbo
+2598,Assamese
+132,Egyptian Arabic
+2563,Temiar
+1976,Xavánte
+2701,Nyulnyul
+2430,Cebuano
+1076,Karitiana; Karitiâna
+1250,aja
+1463,Gura
+541,SHIRIANA
+725,grebo
+2991,Thanggati
+2420,Zhongu Tibetan
+238,BAMBARA
+577,TIWI
+1015,South Efate
+716,fuliru
+2931,Adnyamathanha
+739,kabiyɛ
+1981,Chorote
+3009,Kwini
+1763,Malto
+2980,Yabula-Yabula
+842,yamba
+561,TAMANG
+2180,English (British)
+1937,Ticuna
+2303,Spanish
+2201,Mah Meri
+1473,Ongamo
+1179,Babanki
+1707,Awadhi
+2194,Judeo-Spanish
+2451,Tamang
+404,LUE
+2759,Kungardutji
+459,MOGHOL
+1555,Bakaka (Mwaneka)
+593,TSOU
+1002,Seimat
+1429,Tocco
+1583,Mambila
+933,Manam
+1083,"Tepehua, Huehuetla; Tepehua de Hidalgo; Tepehua de Huehuetla"
+1395,Afrikaans
+1542,Awngi
+610,WAHGI
+987,Rama
+2261,Russian
+2840,Kurrama
+2467,Avar
+393,KOIARI
+1193,Binandere
+2679,Marra
+1441,Lutsootso
+2342,Nepali
+1609,Tamazight Berber
+1435,Belanda Viri
+2864,Balardung
+2637,Marramaninyshi
+2390,Bats
+2771,Watjarri
+1921,Cholón
+1279,xwela
+217,AMUESHA
+328,FIJIAN
+614,WIYOT
+685,cerma
+1615,Barein (Komiya)
+2862,Nyawaygi
+2693,Nyikina
+1143,Mono
+2614,Themchen Tibetan
+1889,Oro Win
+1747,Konkani
+1245,Akan
+2259,South Azerbaijani
+1585,Mandara
+1605,Gouro
+229,ARABELA
+3019,Piangil
+2306,Balti
+711,fɔn
+524,QUECHUA
+2838,Ngadjunmaya
+5,Georgian
+962,Ngomba
+1554,Akoose
+1335,Yanzi
+421,KANURI
+233,AVAR
+2176,American English
+184,Ostyak
+668,baoulé
+60,Nasioi
+2597,Central Khmer
+2386,Ksingmul
+1004,Serrano
+1842,Yucuna
+2231,Xumi
+1054,Mambay; Mambai
+1757,Lamani
+1546,Ronga
+2566,Skolt Saami
+518,POMO
+830,tɔfin
+267,BAINING
+2633,Malak-Malak
+2144,Alacalufe
+1624,Gisiga
+208,AKAN
+1728,Hindi
+1773,Nicobarese
+2587,Sangdam Tibetan
+284,CHUAVE
+2910,Ndra'ngith
+1843,Baure
+2315,Dhivehi
+566,TULU
+1941,Vilela
+1329,Pajade
+2061,Siriano
+2053,Wanano
+656,akɔɔse
+2491,Myeik Burmese
+856,Chechen
+1431,Didinga
+600,TZELTAL
+2030,North Junín Quechua
+1201,Bukusu
+1120,Awa Pit
+581,TAMA
+1111,Frisian
+1963,Mebengokre
+1800,Yerukala
+2615,Basque
+2803,Ganulu
+1873,Ingarikó
+1282,gbesi
+2933,Nukunu
+1337,Iikile
+2853,Gurindji
+188,Kirghiz
+2776,Wathawurrung
+2852,Wanyjirra
+785,metta
+2519,Soghpo Tibetan
+2770,Nhanda
+1205,North Marquesan
+1621,Fang
+2133,Sanumá
+684,bulu
+2698,Nimanburu
+2600,Kham Tibetan
+2070,Amundava
+957,Michoacan Nahual
+1931,Mochica
+535,SEDANG
+430,KAREN
+1948,Huambisa
+2060,Siona
+2705,Antekerrepenhe
+1269,ndonga
+773,mambila
+1182,Bamunka
+779,maninka-kan
+2804,Garingbal
+1927,Mỹky
+2772,Yingkarta
+680,bisa
+1009,Shupamem
+1858,Miraña
+2865,Bibbulman
+964,Nootka
+623,NGIYAMBAA
+1361,Pero
+2391,Yolmo
+516,FARSI
+226,APINAYE
+2187,Greek
+2063,Tatuyo
+260,BRETON
+1915,Kadiwéu
+1242,Anyi Sanvi
+152,Mahas-Fiyadikka
+2450,Forest Nenets
+2834,Wunumara
+938,Maybrat
+54,Asmat
+1285,mbe
+2564,Upper Saxon
+2461,Nganasan
+2330,Wymysorys
+2943,Duungidjawu
+1816,Chamicuro
+1918,Toba
+1221,Tshangla
+906,Kar
+1204,Bambalang; Círàmbɔ́
+1394,Pokot
+292,ISLAND CARIB
+2699,Jabirr-Jabirr
+719,gbaya
+2075,Avá-Canoeiro
+576,TIGRE
+368,IK
+1911,Guahibo
+2161,Basque
+1649,Tounia
+2126,Chipaya
+100,Mixtec
+1500,Tiba
+1835,Waurá
+589,TAORIPI
+706,ejagham de l'ouest
+698,doayo
+2978,Nhangu
+1079,"Tzotzil, Chamula"
+2332,Northwestern Pashto
+657,angas
+884,Haya
+1428,Asharon
+713,fulfulde
+958,Nagamese
+2753,Pirlatapa
+1339,Kaliko
+1682,"Makian, East (Taba)"
+654,ahlõ
+960,Ngalakan
+2718,Warrnambool
+169,Albanian
+701,duruma
+1547,"Comorian, Ndzwani"
+1439,Jita
+1979,Yaathe
+2134,Yanomámi
+1464,Gyeto
+1366,Otuho
+485,NAXI
+1416,Tulishi
+257,BIROM
+454,MAMBILA
+795,nafaanra
+894,Isaka
+2516,Asturian
+1131,Low German
+416,KLAMATH
+757,kroumen tépo
+345,GUARANI
+1389,Holoholo
+2054,Karapanã
+571,TETUN
+527,ROMANIAN
+1722,Gallong
+2658,Kune
+1791,Telugu
+1178,Baba
+619,WARIS
+1571,Kituba
+2285,Judaeo-Spanish
+1183,Bangolan
+1785,Shina
+2,Ket
+1461,Chaha
+2042,Piaroa
+2227,Southeastern Pashayi
+2736,Yaygir
+988,Matbat
+1725,Gujarati
+237,BASHKIR
+2044,Araona
+689,dagara
+3017,Guwamu
+2421,Dingri Tibetan
+2160,Bardi
+405,KHALKHA
+2009,Nukini
+1420,Kanga (Kufa)
+946,Mungaka
+1789,Tangkul Naga
+1998,Amahuaca
+1576,Daba
+1612,Barein (Jalkiya)
+109,Goajiro
+2870,Wardandi
+82,Maidu
+2275,Maltese
+2667,Marrgu
+2591,Dongwang Tibetan
+1252,busa
+2364,Gorum
+1991,Hup
+1114,Kihungan
+941,Mingrelian
+1862,Akurio
+1146,Salasaca Quichua
+294,CHATINO
+2048,Reyesano
+827,téén
+1715,Brokskat
+1354,Gwandara (Toni)
+1708,Badaga
+189,Chuvash
+377,IWAM
+639,YESSAN-MAYO
+1909,Kokama-Kokamilla
+2100,Parakanã
+2155,Trinitario
+503,NUNGGUBUYU
+1716,Bundeli
+1453,Basari
+3016,Yangman
+2183,georgian
+1982,Maka
+2542,Hindi
+2599,Kalmyk
+1504,Ngandjera
+2691,Minkin
+1879,Yekwana
+2181,Estonian
+142,Ewe
+2922,Koko Bera
+2628,Nyaw
+2992,Djapu
+2675,Kungarakany
+1206,Öñge; Ong; Onge
+715,fulfulde
+569,TEMNE
+1154,Quiche
+1617,Mungbam
+2621,Jibbali
+1530,Tinɔr
+2654,Ngalakgan
+280,CHEROKEE
+1365,Nyanga
+1710,Banjara
+1478,Bench
+2213,Temne
+1381,Kagulu
+1977,Xerénte
+1494,Bijogo
+2146,Yanomama of Papiu
+1232,Jicarilla Apache
+1450,Tigemaxo Bozo
+959,Ngishe
+2294,Thakali
+399,KET
+1795,Tulu
+2498,Eastern Hill Balochi
+2065,Tuyuca
+2373,Atayal
+1404,Lamang
+2527,Walungge
+2103,Suruí
+154,Maasai
+149,Songhai
+1676,Buol
+300,DAJU
+542,SHILHA
+2415,Denjongka
+1073,Pilaga; Pilagá
+187,Azerbaijani
+2057,Máíhɨki
+2523,Salar
+2934,Wirangu
+1701,Abujmaria
+1306,Krache
+1983,Chulupí
+1196,Bongo
+677,bhele
+389,KASHMIRI
+116,Carib
+2777,Woiwurrung
+1770,Mundari
+4,Kabardian
+1955,Borôro
+521,PASHTO
+212,ALLADIAN
+1144,Indonesian
+669,bariba
+28,Yay
+2503,Ukrainian
+384,JAPANESE
+555,SOCOTRI
+1733,Kangri
+2273,Hill Mari
+293,TIDDIM CHIN
+72,Ojibwa
+1904,Northern Emberá
+2825,Karajarri
+2818,Gudjal
+2136,Chamacoco
+2334,Friulian
+220,AMO
+820,soninke
+201,ARRERNTE
+1264,N'cam
+2349,Adyghe
+151,Logbara
+379,YANYUWA
+2973,Dhay'yi
+121,Chacobo
+2233,Vietnamese
+1332,Blin
+1522,Bankon
+2702,Alyawarr
+771,lugbara
+2029,Jauja-Huanca Quechua
+2742,Purduna
+434,KUNIMAIPA
+2028,Inga
+1999,Arara do Acre
+1945,Yurakaré
+412,KHMU?
+1174,Sursurunga
+1440,Dime
+49,Nunggubuyu
+2485,Taz Selkup
+870,Usarufa
+2787,Wotjobaluk
+570,TEMEIN
+969,Nulibie
+1040,Tatuyo
+230,ARAUCANIAN
+2709,Lower Southern Aranda
+1636,Balese
+1539,Jere
+2775,Boonwurrung
+2568,Icelandic
+2731,Yagara
+1896,Kogi
+2012,Saynawa
+487,NDUT
+860,"Tila, Chiapas"
+2604,Polish
+2725,Yuwaalaraay
+2935,Parnkalla
+145,Swahili
+1304,Kilba
+2830,Mayi-Kutuna
+667,bandi
+1340,Wongo
+904,Kanoe
+308,DANI
+1426,These
+1946,Achuar-Shiwiar
+720,gbaya
+2728,Jandai
+2024,Cuzco-Collao Quechua
+26,Lakkia
+248,BANDJALANG
+1313,Burun
+2521,Irish
+1797,Urdu
+2950,Yanyuwa
+96,Pima
+2425,Catalan
+120,Amahuaca
+2184,German
+708,engenni
+2743,Thalanyji
+2346,Baima
+1776,Paite
+2211,Sumi
+1055,Aragonese
+11,Kharia
+2316,Lithuanian
+1923,Aʔɨwa
+2578,Lisu
+1738,Kashmiri
+2530,Domari
+574,THAI
+1175,Awara
+2086,Júma
+905,Kensei Nsei
+2257,Caodeng rGyalrong
+2783,Jardwadjali
+309,KAM
+1104,Biloxi
+224,ANDOKE
+1587,Digo
+2470,Frisian
+2729,Djindewal
+886,Huichol
+2218,Isthmus (Juchitán) Zapotec
+1194,Bobo
+2835,Galaagu
+1248,bana
+362,ARMENIAN
+1745,Kon̩d̩a or Kubi
+1900,Woun Meu
+2214,Tera
+1212,Filipino
+442,LUGBARA
+461,MIXTEC
+2359,Ho
+2109,Tupinambá
+1960,Jabutí
+528,ROTOKAS
+2904,Kok Nar
+2668,Wurrugu
+2153,Yukpa
+448,LUO
+2141,Záparo
+1777,Parji
+1446,Olukisa
+1813,Baré
+1863,Apalaí
+282,CHAM
+692,dangme
+1303,Genyanga
+1480,Zayse
+2006,Korubo
+1822,Matsigenka
+2345,Western Balochi
+316,EFIK
+355,HIXKARYANA
+1849,Paumarí
+176,Hindi-Urdu
+2343,Rusyn
+1424,Morokodo
+2210,Spanish
+1343,Mundang
+908,Kenyang
+89,Pomo
+1784,Sema
+3004,Yangkaralda
+1486,Opo
+687,daba
+1266,matuumbi
+1399,Nzema
+2641,Emmi
+1625,Moghamo
+2458,Greek
+2595,Turkmen
+1861,Shawi
+2481,Konda
+1251,bila
+2188,Hausa
+1045,Toba (Argentina)
+597,TURKISH
+867,Denya
+1783,Santali
+975,Oku
+2043,Sáliba
+2938,Gureng-gureng
+1819,Iñapari
+2117,Yuqui
+530,RUSSIAN
+1503,Kwambi
+436,KWAIO
+1607,Kulango
+185,Yurak
+194,Gilyak
+2405,Dutch
+712,fulfulde
+163,Portuguese
+937,Mara
+2755,Nhirrpi
+1075,Kurripako; Baniwa; Baniwa (Icana)
+1284,mada
+699,dogon
+278,CHIPEWYAN
+2434,Eastern Khanty
+1934,Páez
+2687,Jingulu
+1559,Bassossi
+1673,Moken
+2479,Panjabi
+2547,Tulu
+647,ZULU
+10,Mundari
+550,SIONA
+2574,Chechen
+1493,Laarim
+522,PAIWAN
+1082,Chimariko
+279,HIGHLAND CHINANTEC
+2833,Ngawun
+829,tem
+2469,Forest Enets
+457,DIZI
+1056,Tilquiapan Zapotec
+837,vute
+1964,Krahô
+2081,Guajá
+1957,Bésɨro
+2302,Maithili
+2067,Yurutí
+1010,Siar-Lak
+1447,Nyole
+193,Yukaghir
+1161,Agaw
+1172,Patep
+644,YAWA
+2913,Luthigh
+1386,Tee
+2033,Bolivian Quechua
+612,WIK-MUNKAN
+61,Aleut
+1157,Chimborazo Quichua
+1108,Sochiapan Chinantec
+2588,Baoan
+1047,Standard Chinese; Mandarin
+532,SANDAWE
+203,ANGAATIHA
+2856,Mudburra
+1455,Nkonya
+1064,Hanga Hundi; Kwasengen; West Wosera
+2535,Finnish
+1901,Emberá-Baudó
+1101,Remo
+793,murle
+1916,Mocoví
+2896,Wik Mungkan
+1097,Karo
+437,KWAKW'ALA
+1940,Urarina
+2139,Arabela
+533,SANGO
+1081,"Bajau, West Coast; Land Bajaw; West Coast Bajao"
+949,Namia
+1041,Tagwana
+596,TUNICA
+1380,Koalib
+2077,Chiriguano
+209,AKAWAIO
+2427,Italian
+831,themne
+556,SIRIONO
+1195,Bole
+1489,Lusaamia
+2914,Mbiywom
+1857,Bora
+291,HMONG
+855,Chamicuro
+2517,Phu Tai
+1586,Chonyi
+1592,Kauma
+2360,Rawang
+1515,Kakabe
+468,DADIBI
+2157,Arabic
+1953,Apinayé
+2734,Baanbay
+236,AZERBAIJANI
+2869,Pinjarup
+2429,Northern Qiang
+2383,Darma
+2982,Bigambal
+2090,Kamayurá
+1315,Maay
+290,KONYAGI
+1099,Toba-Batak
+758,kuria
+565,TICUNA
+2375,Aragonese
+1351,Karimojong
+68,Squamish
+2688,Binbinka
+1348,Galke
+1325,Frafra
+2655,Ngandi
+1278,longto
+1924,Camsá
+2274,Czech
+373,ITELMEN
+1825,Nomatsigenga
+1588,Duruma
+1173,Kela
+2399,Eastern Yiddish
+861,Chrau
+398,KERA
+622,CHANGZHOU
+1529,Alladian
+1445,Lango
+2622,Western Balochi
+1527,Adioukrou
+2678,Nakara
+466,MALAKMALAK
+450,MAZATEC
+948,Mwotlap
+760,lama
+2017,Yawanawa
+1087,Lake Miwok; Miwok (Lake)
+1290,kete
+2790,Thangguai
+1485,Twampa
+158,Icelandic
+2177,English (Australian)
+1495,Dompo
+2969,Wadikali
+1694,Bugis
+2264,Tod Tibetan
+895,Jalonke
+912,Kirike
+2397,Paiwan
+1050,Dutch
+2329,Tsez
+2813,Dharumbal
+383,JIVARO
+1253,fulfulde (fuunaangere)
+1802,Mapudungun
+1693,Balinese
+970,Kinyamwezi
+681,bobo
+136,Katcha
+749,kisiei
+1367,Orusyan
+1421,Kadugli (Kadugli)
+216,AMAHUACA
+2062,Tanimuca-Retuarã
+2947,Eastern Wakaya
+2325,Ligurian
+1483,Aari
+497,AO
+1085,Dupaningan Agta; Eastern Cagayan Agta; Dupaninan Agta
+2907,Walangama
+2216,Itunyoso Trique
+754,kpɛlɛwoo
+97,Otomi
+195,Chukchi
+752,konkomba
+2344,Gurung
+85,Chontal
+2816,Gunya
+1645,Kisimbiti
+2662,Jawoyn
+1316,Mabaan
+2744,Jiwarli
+2801,Gabalbara
+137,Kpelle
+1137,Eastern Khanty
+2337,Luxembourgish
+1541,Logba
+1729,Ho
+615,WANTOAT
+845,yemba
+1720,Didayi
+83,Zoque
+1238,Crow
+2066,Waimaha
+111,Moxo
+1550,Attie
+2762,Wangkangurru
+244,BAI
+1823,Mehináku
+1065,Blang; Plang; Bulang; Pulang; Pula; Kawa; K''ala; Kontoi'
+2782,East Djadjawurung
+1505,Ndonga (Kwaluudhi)
+2989,Katthang
+1063,Tsuvadi; Avadi; Abadi; Evadi; Kamberi; Ibeto
+126,Margi
+2220,Kera
+603,UZBEK
+2414,Northeastern Thai
+341,NANAI
+1628,Ngiemboon
+1664,Iyive
+1025,Yurok
+378,JACALTEC
+2613,Burushaski
+2431,Wazirwola
+2975,Gumatj
+374,ITONAMA
+2843,Ngarluma
+1105,Belizean Creole
+2137,Ayoreo
+2695,Jukun
+1384,Banjun
+2369,Spiti Tibetan
+2035,Huaylas-Conchucos Quechua
+1737,Kasaba
+1832,Terêna
+129,Iraqw
+1425,Aringa
+2170,Dutch
+523,PHLONG
+2534,Khalong Tibetan
+2428,Georgian
+1995,Latunde
+2002,Chácobo
+784,mende
+2001,Cashibo-Cacataibo
+2666,Amurdak
+2837,Mirrniny
+1433,Acholi
+1650,"Senoufo, Cebaara"
+1359,Shilluk
+1767,Mishmi
+737,joola
+1401,Besleri
+1613,Barein (Giliya)
+1684,Ambon Malay
+139,Dagbani
+1658,Anii
+2610,Kabardian
+2681,Alawa
+2937,Kukata
+2244,Lithuanian
+1759,Lotha
+2447,Slovak
+125,Angas
+1414,Silt'i
+274,NYAH KUR
+1769,Moyon
+1031,Wayana
+2254,Laz
+1739,Kattunaika
+914,Kole
+2013,Shanenawa
+414,KEWA
+544,SHASTA
+1616,Gaahmg
+1295,Afitti
+2356,Chantyal
+587,TLAPANEC
+2091,Karitiâna
+1370,Syan
+1057,Ibibio
+976,Ossetian
+1471,Chindali
+2472,Soutern Tai
+2135,Yanomamö
+1089,Juang
+2395,Ket
+1126,Mandingo
+2900,Kuugu Ya'u
+140,Akan
+1261,limbum (central)
+2730,Turubul
+2538,Muria Gondi
+1520,Shanga
+1606,Cape Verde Creole
+1992,Nadëb
+1874,Japreria
+1,Korean
+2348,Western Balochi
+62,Inuit
+2555,Catalan
+1158,Tepehua
+2276,Chechen
+1442,"Jamsay, Dogon"
+2670,Garig
+1809,Ashéninka
+873,Eggon
+775,mampruli
+745,kasem
+626,KPELLE
+2919,Atampaya
+642,TAISHAN
+505,NYANGI
+761,lele
+2280,Tshangla
+2056,Macuna
+751,komo
+1830,Resígaro
+214,ALAWA
+1540,Leggbo
+649,abidji
+222,AMUZGO
+583,TACANA
+2779,Ladji-Ladji
+1098,Lebanese Arabic
+932,Ma''di'
+1014,So
+2996,Djirringany
+2007,Matís
+1488,Mayogo
+1688,Larantuka Malay
+1128,Western Mam; Tacanec
+1309,"Dinka, South Central"
+1301,Fula (Nigeria)
+2408,Iron Ossetic
+2918,Angkamuthi
+586,TAMPULMA
+2277,Kannada
+2260,Kildin Saami
+1113,Wanano
+297,DANGALEAT
+207,AINU
+2445,Kolami
+443,LAHU
+2792,Keramin
+2422,Northeastern Thai
+369,IRARUTU
+1224,Pwo Karen
+34,Sa'ban
+45,Nyangumata
+1392,Kinyambo
+1932,Movima
+2809,Yetimarala
+1092,Apurinã
+1551,Angolar
+1536,Idu
+663,baka
+2460,Komi-Zyrian
+2966,Kala Kawaw Ya
+2911,Thaynakwithi
+1502,Mbalanhu
+2998,Ngarigu
+408,KHARIA
+1317,Nizaa
+616,USAN
+796,nawdm
+2768,Badimaya
+1883,Pémono
+2036,San Martin Quechua
+2016,Yaminawa
+1796,Urali
+2463,Dhimal
+458,MBA-NE
+2543,Gadaba
+35,Sundanese
+469,WEST MAKIAN
+133,Moroccan Arabic
+1671,Phan Rang Cham (Eastern Cham)
+538,SELKUP
+545,SINHALESE
+69,Salish
+1704,Ao-Naga
+351,HAUSA
+1552,"Oromo, Eastern"
+1928,Itonama

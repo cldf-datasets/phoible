@@ -5,23 +5,23 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation ": "Moran, Steven & McCloy, Daniel & Wright, Richard (eds.) 2014.\nPHOIBLE Online.\nLeipzig: Max Planck Institute for Evolutionary Anthropology.\n(Available online at http://phoible.org, Accessed on 2018-03-16.)\n",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
-    "dc:creator": "Moran, Steven & McCloy, Daniel & Wright, Richard",
-    "dc:identifier": "http://phoible.org/",
-    "dc:issued": "2014-09-11",
-    "dc:license": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "dc:publisher": "Max Planck Institute for Evolutionary Anthropology, Leipzig",
     "dc:source": "sources.bib",
-    "dc:title": "PHOIBLE Online",
-    "dcat:accessURL": "http://phoible.org/download",
     "dialect": {
         "commentPrefix": null
     },
+    "notes": [
+        {
+            "dc:title": "environment",
+            "properties": {
+                "glottolog_version": "v3.3.2"
+            }
+        }
+    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "aboutUrl": "http://phoible.org/values/{ID}",
+            "dc:extent": 105481,
             "tableSchema": {
                 "columns": [
                     {
@@ -75,9 +75,12 @@
                         "name": "Source"
                     },
                     {
-                        "datatype": "string",
-                        "valueUrl": "http://phoible.org/inventories/view/{contribution}",
-                        "name": "Contribution_ID"
+                        "datatype": "boolean",
+                        "name": "Marginal"
+                    },
+                    {
+                        "separator": " ",
+                        "name": "Allophones"
                     }
                 ],
                 "foreignKeys": [
@@ -102,17 +105,6 @@
                                 "ID"
                             ]
                         }
-                    },
-                    {
-                        "columnReference": [
-                            "Contribution_ID"
-                        ],
-                        "reference": {
-                            "resource": "contributions.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
                     }
                 ],
                 "primaryKey": [
@@ -123,7 +115,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "aboutUrl": "http://phoible.org/parameters/{ID}",
+            "dc:extent": 3177,
             "tableSchema": {
                 "columns": [
                     {
@@ -146,6 +138,158 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SegmentClass"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "tone"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "stress"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "syllabic"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "short"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "long"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "consonantal"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "sonorant"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "continuant"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "delayedRelease"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "approximant"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "tap"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "trill"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "nasal"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "lateral"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "labial"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "round"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "labiodental"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "coronal"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "anterior"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "distributed"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "strident"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "dorsal"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "high"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "low"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "front"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "back"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "tense"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "retractedTongueRoot"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "advancedTongueRoot"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "periodicGlottalSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "epilaryngealSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "spreadGlottis"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "constrictedGlottis"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "fortis"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "raisedLarynxEjective"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "loweredLarynxImplosive"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "click"
                     }
                 ],
                 "primaryKey": [
@@ -156,7 +300,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "aboutUrl": "http://phoible.org/languages/{ID}",
+            "dc:extent": 2186,
             "tableSchema": {
                 "columns": [
                     {
@@ -227,6 +371,23 @@
             "url": "languages.csv"
         },
         {
+            "dc:extent": 3020,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Name"
+                    }
+                ]
+            },
+            "url": "contributions.csv"
+        },
+        {
+            "dc:extent": 10,
             "tableSchema": {
                 "columns": [
                     {
@@ -243,11 +404,20 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Contributors"
+                        "name": "Contents"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "URL"
                     }
                 ]
             },
-            "url": "contributions.csv"
+            "url": "contributors.csv"
         }
     ]
 }
