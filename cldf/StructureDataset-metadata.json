@@ -366,6 +366,14 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Family_Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Family_Name"
                     }
                 ],
                 "primaryKey": [

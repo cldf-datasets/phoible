@@ -23,6 +23,7 @@ def main(scripts, dev, glr):
     write_text(cldf_dir / 'sources.bib', bib.lower().to_string('bibtex'))
 
     glottolog = Glottolog(glr)
+
     ds = StructureDataset.in_dir(cldf_dir)
     ds.tablegroup.notes.append(OrderedDict([
         ('dc:title', 'environment'),
@@ -37,7 +38,7 @@ def main(scripts, dev, glr):
         'Contribution_ID')
     features = ["tone","stress","syllabic","short","long","consonantal","sonorant","continuant","delayedRelease","approximant","tap","trill","nasal","lateral","labial","round","labiodental","coronal","anterior","distributed","strident","dorsal","high","low","front","back","tense","retractedTongueRoot","advancedTongueRoot","periodicGlottalSource","epilaryngealSource","spreadGlottis","constrictedGlottis","fortis","raisedLarynxEjective","loweredLarynxImplosive","click"]
     ds.add_component('ParameterTable', 'SegmentClass', *features)
-    ds.add_component('LanguageTable')
+    ds.add_component('LanguageTable', 'Family_Glottocode', 'Family_Name')
     ds.add_table(
         'contributions.csv', 
         'ID', 
@@ -109,11 +110,17 @@ def main(scripts, dev, glr):
             # FIXME: Language_ID == 'NA' for three inventories! This must be mapped!
             #
             lang = languoids.get(lid)
+            fam = lang.lineage[0] if lang and lang.lineage else None
             languages[lid] = dict(
                 ID=lid,
                 Name=lang.name if lang else None,
                 Glottocode=lang.id if lang else None,
                 ISO639P3code=row.ISO639P3code if row.ISO639P3code != 'NA' else None,
+                Macroarea=lang.macroareas[0].value if lang and lang.macroareas else None,
+                Latitude=lang.latitude if lang else None,
+                Longitude=lang.longitude if lang else None,
+                Family_Glottocode=fam[1] if fam else None,
+                Family_Name=fam[0] if fam else None,
             )
         values.append(dict(
             ID=row.ID,

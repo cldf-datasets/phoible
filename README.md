@@ -4,7 +4,7 @@ This dataset provides [PHOIBLE 2.0](https://phoible.org) serialized as
 [CLDF](https://cldf.clld.org) StructureDataset. The semantics of the
 CSV files in the cldf directory are as follows:
 
-- languages.csv - a CLDF LanguageTable - provides metadata about Glottolog
+- languages.csv - a CLDF LanguageTable - provides metadata about Glottolog 3.3.2
   languoids for which PHOIBLE has information on phoneme inventories.
 - parameters.csv - a CLDF ParameterTable - provides information about segments
   which appear in these phoneme inventories, including features.
