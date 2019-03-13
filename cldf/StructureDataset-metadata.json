@@ -21,7 +21,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 105481,
+            "dc:extent": 105461,
             "tableSchema": {
                 "columns": [
                     {
@@ -81,6 +81,10 @@
                     {
                         "separator": " ",
                         "name": "Allophones"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Contribution_ID"
                     }
                 ],
                 "foreignKeys": [
@@ -115,7 +119,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 3177,
+            "dc:extent": 3175,
             "tableSchema": {
                 "columns": [
                     {
@@ -381,6 +385,19 @@
                     {
                         "datatype": "string",
                         "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Contributor_ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "URL"
                     }
                 ]
             },
@@ -401,6 +418,10 @@
                     {
                         "datatype": "string",
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Readme"
                     },
                     {
                         "datatype": "string",
