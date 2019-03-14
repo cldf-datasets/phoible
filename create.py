@@ -20,6 +20,10 @@ def desc(dev, src):
 def main(scripts, dev, glr):
     cldf_dir = Path('cldf')
     bib = parse_string(read_text(cldf_dir / 'sources.bib'), bib_format='bibtex')
+    for _, e in bib.entries.items():
+        for field in ['url', 'bdsk-url-1']:
+            if field in e.fields:
+                e.fields[field] = e.fields[field].replace('\\', '')
     write_text(cldf_dir / 'sources.bib', bib.lower().to_string('bibtex'))
 
     glottolog = Glottolog(glr)
