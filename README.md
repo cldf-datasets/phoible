@@ -22,3 +22,56 @@ The semantics of the CSV files in the `cldf` directory are as follows:
   - an inventory in contributions.csv
   - a segment in parameters.csv
 
+
+## Summary statistics
+
+Summary statistics can easily be computed using the [pycldf](https://pypi.org/project/pycldf/) package (>=1.6.1):
+
+Create a SQLite database loaded with the CLDF dataset using the `cldf` command which has been installed together with `pycldf`:
+```bash
+cldf createdb cldf/StructureDataset-metadata.json
+```
+
+Now you can query the data in SQL, which means easily join data from multiple tables.
+The query
+```sql
+SELECT
+    c.cldf_id AS Inventory_ID,
+    l.cldf_iso639P3code AS ISO639P3code,
+    l.cldf_glottocode AS Glottocode,
+    count(v.cldf_id) AS phonemes,
+    sum(CASE WHEN p.segmentclass = 'consonant' THEN 1 ELSE 0 END) AS consonants,
+    sum(CASE WHEN p.segmentclass = 'vowel' THEN 1 ELSE 0 END) AS vowels,
+    sum(CASE WHEN p.segmentclass = 'tone' THEN 1 ELSE 0 END) AS tones
+FROM
+    `contributions.csv` AS c,
+    languagetable AS l,
+    valuetable AS v,
+    parameterTable AS p
+WHERE
+    v.cldf_languageReference = l.cldf_id
+    and v.cldf_parameterReference = p.cldf_id
+    and v.contribution_id = c.cldf_id
+GROUP BY
+    c.cldf_id
+ORDER BY
+    cast(c.cldf_id AS int);
+```
+can be saved in a file `stats.sql` and then run via the `sqlite3` command
+```bash
+cat stats.sql | sqlite3 -csv -header phoible.sqlite > stats.csv
+```
+to create output which looks like
+```bash
+$ head stats.csv 
+Inventory_ID,ISO639P3code,Glottocode,phonemes,consonants,vowels,tones
+1,kor,kore1280,40,22,18,0
+2,ket,kett1243,32,18,14,0
+3,lbe,lakk1252,69,60,9,0
+4,kbd,kaba1278,56,49,7,0
+5,kat,nucl1302,35,29,6,0
+6,bsk,buru1296,53,38,12,3
+7,kru,kuru1302,68,46,22,0
+8,tel,telu1262,68,47,21,0
+9,kfe,kota1263,34,23,11,0
+```
