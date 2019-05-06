@@ -409,6 +409,19 @@
                         "name": "URL"
                     }
                 ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Contributor_ID"
+                        ],
+                        "reference": {
+                            "resource": "contributors.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
                 "primaryKey": [
                     "ID"
                 ]

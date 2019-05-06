@@ -7,6 +7,7 @@ from clldutils.misc import slug
 from clldutils.path import git_describe, read_text, write_text
 from pycldf import StructureDataset
 from csvw.dsv import reader
+from csvw import ForeignKey
 from pyglottolog import Glottolog
 from pybtex.database import parse_string
 
@@ -50,6 +51,9 @@ def main(scripts, dev, glr):
         {'name': 'Source', 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source', 'separator': ';'},
         'URL')
     table.tableSchema.primaryKey = ['ID']
+    table.tableSchema.foreignKeys.append(ForeignKey.fromdict(dict(
+        columnReference='Contributor_ID',
+        reference=dict(resource='contributors.csv', columnReference='ID'))))
     table.common_props['dc:conformsTo'] = None
     table = ds.add_table(
         'contributors.csv',
@@ -102,7 +106,7 @@ def main(scripts, dev, glr):
         inventories[row.ID] = dict(
             ID=row.ID, 
             Name=row.Name, 
-            Contributor_ID=row.Contributor_ID, 
+            Contributor_ID=row.Contributor_ID.upper(), 
             URL=row.URI if row.URI != 'NA' else '',
             Source=src[row.ID])
 
