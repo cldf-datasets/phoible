@@ -14,7 +14,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4"
+                "glottolog_version": "v3.3.2"
             }
         }
     ],

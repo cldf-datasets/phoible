@@ -21,7 +21,7 @@ def main(scripts, dev, glr):
     cldf_dir = Path('cldf')
     bib = parse_string(read_text(cldf_dir / 'sources.bib'), bib_format='bibtex')
     for _, e in bib.entries.items():
-        for field in ['url', 'bdsk-url-1']:
+        for field in ['url', 'bdsk-url-1', 'fn', 'hhtype']:
             if field in e.fields:
                 e.fields[field] = e.fields[field].replace('\\', '')
     write_text(cldf_dir / 'sources.bib', bib.lower().to_string('bibtex'))
@@ -71,7 +71,7 @@ def main(scripts, dev, glr):
 
     languoids = {l.id: l for l in glottolog.languoids()}
 
-    values, segments, languages, inventories, sources = [], [], {}, {}, []
+    values, segments, languages, inventories, sources = [], [], OrderedDict(), OrderedDict(), []
     for contrib in read('contributors.csv'):
         sources.append(dict(
             ID=contrib.Name,
