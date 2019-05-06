@@ -61,6 +61,7 @@ def main(scripts, dev, glr):
         'Contents',
         {'name': 'Source', 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source', 'separator': ';'},
         'URL',
+        {'name': 'with_tones', 'datatype': {'base': 'boolean', 'format': '1|0'}},
     )
     table.tableSchema.primaryKey = ['ID']
     table.common_props['dc:conformsTo'] = None
@@ -80,6 +81,7 @@ def main(scripts, dev, glr):
             Contents=contrib.Contents,
             Source=[c.strip().lower() for c in contrib.Citation.split(';')],
             URL=contrib.SourceURL if contrib.SourceURL != 'NA' else '',
+            with_tones=contrib.with_tones,
         ))
 
     pid_map = {}
