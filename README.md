@@ -42,9 +42,10 @@ SELECT
     count(v.cldf_id) AS phonemes,
     sum(CASE WHEN p.segmentclass = 'consonant' THEN 1 ELSE 0 END) AS consonants,
     sum(CASE WHEN p.segmentclass = 'vowel' THEN 1 ELSE 0 END) AS vowels,
-    sum(CASE WHEN p.segmentclass = 'tone' THEN 1 ELSE 0 END) AS tones
+    CASE WHEN cc.with_tones = 1 THEN sum(CASE WHEN p.segmentclass = 'tone' THEN 1 ELSE 0 END) ELSE 'NA' END AS tones
 FROM
     `contributions.csv` AS c,
+    `contributors.csv` AS cc,
     languagetable AS l,
     valuetable AS v,
     parameterTable AS p
@@ -52,6 +53,7 @@ WHERE
     v.cldf_languageReference = l.cldf_id
     and v.cldf_parameterReference = p.cldf_id
     and v.contribution_id = c.cldf_id
+    and c.contributor_id = cc.cldf_id
 GROUP BY
     c.cldf_id
 ORDER BY
