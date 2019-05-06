@@ -43,14 +43,16 @@ def main(scripts, dev, glr):
     features = ["tone","stress","syllabic","short","long","consonantal","sonorant","continuant","delayedRelease","approximant","tap","trill","nasal","lateral","labial","round","labiodental","coronal","anterior","distributed","strident","dorsal","high","low","front","back","tense","retractedTongueRoot","advancedTongueRoot","periodicGlottalSource","epilaryngealSource","spreadGlottis","constrictedGlottis","fortis","raisedLarynxEjective","loweredLarynxImplosive","click"]
     ds.add_component('ParameterTable', 'SegmentClass', *features)
     ds.add_component('LanguageTable', 'Family_Glottocode', 'Family_Name')
-    ds.add_table(
+    table = ds.add_table(
         'contributions.csv', 
         'ID', 
         'Name', 
         'Contributor_ID', 
         {'name': 'Source', 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source', 'separator': ';'},
         'URL')
-    ds.add_table(
+    table.tableSchema.primaryKey = ['ID']
+    table.common_props['dc:conformsTo'] = None
+    table = ds.add_table(
         'contributors.csv',
         'ID',
         'Name',
@@ -60,6 +62,8 @@ def main(scripts, dev, glr):
         {'name': 'Source', 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source', 'separator': ';'},
         'URL',
     )
+    table.tableSchema.primaryKey = ['ID']
+    table.common_props['dc:conformsTo'] = None
 
     def read(what):
         return reader(scripts / 'to_cldf' / 'cldf' / what, namedtuples=True)

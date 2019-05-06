@@ -383,6 +383,7 @@
             "url": "languages.csv"
         },
         {
+            "dc:conformsTo": null,
             "dc:extent": 3020,
             "tableSchema": {
                 "columns": [
@@ -407,11 +408,15 @@
                         "datatype": "string",
                         "name": "URL"
                     }
+                ],
+                "primaryKey": [
+                    "ID"
                 ]
             },
             "url": "contributions.csv"
         },
         {
+            "dc:conformsTo": null,
             "dc:extent": 10,
             "tableSchema": {
                 "columns": [
@@ -444,6 +449,9 @@
                         "datatype": "string",
                         "name": "URL"
                     }
+                ],
+                "primaryKey": [
+                    "ID"
                 ]
             },
             "url": "contributors.csv"
