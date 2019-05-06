@@ -79,7 +79,7 @@ Note that the ISO 639-3 codes in the SAPHON source may be out of date with the c
 
 For up-to-date language codes for each inventory, we maintain a phoible index here:
 [InventoryID-LanguageCodes.tsv](../../mappings/InventoryID-LanguageCodes.tsv).
-",Phonemes. Tone as a binary inventory level value (not incorporated into PHOIBLE).,saphon,http://linguistics.berkeley.edu/~saphon/en/,1
+",Phonemes. Tone as a binary inventory level value (not incorporated into PHOIBLE).,saphon,http://linguistics.berkeley.edu/~saphon/en/,0
 SPA,Stanford Phonology Archive,"The Stanford Phonology Archive (SPA) was the first computerized database of phonological segment inventories. It was inspired by Joseph Greenberg's research on universals and his personal archive of data from notebooks and his memory (Crothers et al 1979, i-ii). The inventories in PHOIBLE Online come from the Handbook of Phonological Data From a Sample of the World's Languages, compiled and edited by Crothers et al 1979, and kindly provided to the Phonetics Lab (University of Washington) by Marilyn M. Vihman. The inventories in SPA include descriptions of phonemes, allophones and comments on phonological contexts for 197 languages. The inventory descriptions were digitized and each phoneme was mapped from its original written description, e.g. d-pharyngealized, to a Unicode IPA representation. Each inventory was also assigned an ISO 639-3 language name identifer. Details are given in Moran 2012, chp 4, and the SPA-to-Unicode IPA mappings are given in Moran 2012, appendix E.","# SPA
 
 The `SPA` folder contains data from the Stanford Phonology Archive:
@@ -117,7 +117,7 @@ We have converted IPA symbols in the raw data in line with the [phoible conventi
 
 Note that [Henning Reetz](http://menzerath.phonetik.uni-frankfurt.de/staff/reetz/reetz.html) has put online a [simple user interface to the UPSID data](http://web.phonetik.uni-frankfurt.de/upsid.html), which can be used for browsing and quick queries.
 
-",Phonemes. No tones reported.,maddieson1984;maddiesonprecoda1990,http://web.phonetik.uni-frankfurt.de/upsid.html,1
+",Phonemes. No tones reported.,maddieson1984;maddiesonprecoda1990,http://web.phonetik.uni-frankfurt.de/upsid.html,0
 UZ,Steven Moran,"While at the University of Zurich, Steven Moran extracted phonological inventories from secondary sources including grammars and phonological descriptions to fill in genealogical gaps in the existing PHOIBLE language sample.","# UZ
 
 The `UZ` folder contains data drawn from journal articles, theses, and 

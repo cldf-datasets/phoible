@@ -80,7 +80,7 @@ def main(scripts, dev, glr):
             Contents=contrib.Contents,
             Source=[c.strip().lower() for c in contrib.Citation.split(';')],
             URL=contrib.SourceURL if contrib.SourceURL != 'NA' else '',
-            with_tones=contrib.with_tones,
+            with_tones=contrib.with_tones == '1',
         ))
 
     pid_map = {}
