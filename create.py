@@ -21,9 +21,8 @@ def main(scripts, dev, glr):
     cldf_dir = Path('cldf')
     bib = parse_string(read_text(cldf_dir / 'sources.bib'), bib_format='bibtex')
     for _, e in bib.entries.items():
-        for field in ['url', 'bdsk-url-1']:
-            if field in e.fields:
-                e.fields[field] = e.fields[field].replace('\\', '')
+        for field in e.fields:
+            e.fields[field] = e.fields[field].replace('\\', '')
     write_text(cldf_dir / 'sources.bib', bib.lower().to_string('bibtex'))
 
     glottolog = Glottolog(glr)
@@ -61,6 +60,7 @@ def main(scripts, dev, glr):
         'Contents',
         {'name': 'Source', 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source', 'separator': ';'},
         'URL',
+        {'name': 'with_tones', 'datatype': {'base': 'boolean', 'format': '1|0'}},
     )
     table.tableSchema.primaryKey = ['ID']
     table.common_props['dc:conformsTo'] = None
@@ -70,7 +70,7 @@ def main(scripts, dev, glr):
 
     languoids = {l.id: l for l in glottolog.languoids()}
 
-    values, segments, languages, inventories, sources = [], [], {}, {}, []
+    values, segments, languages, inventories, sources = [], [], OrderedDict(), OrderedDict(), []
     for contrib in read('contributors.csv'):
         sources.append(dict(
             ID=contrib.Name,
@@ -80,6 +80,7 @@ def main(scripts, dev, glr):
             Contents=contrib.Contents,
             Source=[c.strip().lower() for c in contrib.Citation.split(';')],
             URL=contrib.SourceURL if contrib.SourceURL != 'NA' else '',
+            with_tones=contrib.with_tones,
         ))
 
     pid_map = {}

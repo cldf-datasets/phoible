@@ -21,7 +21,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 105462,
+            "dc:extent": 105466,
             "tableSchema": {
                 "columns": [
                     {
@@ -119,7 +119,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 3175,
+            "dc:extent": 3183,
             "tableSchema": {
                 "columns": [
                     {
@@ -448,6 +448,13 @@
                     {
                         "datatype": "string",
                         "name": "URL"
+                    },
+                    {
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "1|0"
+                        },
+                        "name": "with_tones"
                     }
                 ],
                 "primaryKey": [
