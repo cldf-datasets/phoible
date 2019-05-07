@@ -77,3 +77,6 @@ Inventory_ID,ISO639P3code,Glottocode,phonemes,consonants,vowels,tones
 8,tel,telu1262,68,47,21,0
 9,kfe,kota1263,34,23,11,0
 ```
+
+Note that the `tones` column will either list the number of tones in the inventory, or `NA` if the source of the inventory 
+does not have information about tone.
