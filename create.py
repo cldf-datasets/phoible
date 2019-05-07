@@ -49,7 +49,12 @@ def main(scripts, dev, glr):
         'Name', 
         'Contributor_ID', 
         {'name': 'Source', 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source', 'separator': ';'},
-        'URL')
+        'URL',
+        {'name': 'count_phonemes', 'required': True, 'datatype': {'base': 'integer', 'minimum': 0}},
+        {'name': 'count_consonants', 'required': True, 'datatype': {'base': 'integer', 'minimum': 0}},
+        {'name': 'count_vowels', 'required': True, 'datatype': {'base': 'integer', 'minimum': 0}},
+        {'name': 'count_tones', 'datatype': {'base': 'integer', 'minimum': 0}, 'null': 'NA'},
+    )
     table.tableSchema.primaryKey = ['ID']
     table.tableSchema.foreignKeys.append(ForeignKey.fromdict(dict(
         columnReference='Contributor_ID',
@@ -75,6 +80,7 @@ def main(scripts, dev, glr):
     languoids = {l.id: l for l in glottolog.languoids()}
 
     values, segments, languages, inventories, sources = [], [], OrderedDict(), OrderedDict(), []
+    with_tones = {}
     for contrib in read('contributors.csv'):
         sources.append(dict(
             ID=contrib.Name,
@@ -86,11 +92,12 @@ def main(scripts, dev, glr):
             URL=contrib.SourceURL if contrib.SourceURL != 'NA' else '',
             with_tones=contrib.with_tones == '1',
         ))
+        with_tones[contrib.Name] = contrib.with_tones == '1'
 
     pid_map = {}
     for row in read('parameters.csv'):
         pid = md5(row.Description.encode('utf8')).hexdigest().upper()
-        pid_map[row.ID] = pid
+        pid_map[row.ID] = (pid, row.SegmentClass)
         segments.append(dict(
             ID=pid,
             Name=row.Name,
@@ -108,9 +115,14 @@ def main(scripts, dev, glr):
             Name=row.Name, 
             Contributor_ID=row.Contributor_ID.upper(), 
             URL=row.URI if row.URI != 'NA' else '',
-            Source=src[row.ID])
+            Source=src[row.ID],
+            count_phonemes=0,
+            count_consonants=0,
+            count_vowels=0,
+            count_tones=0,
+        )
 
-    uniq = set()
+    uniq, counts = set(), Counter()
     for row in read('values.csv'):
         pk = (row.Language_ID, row.Parameter_ID, row.Contribution_ID)
         if pk in uniq:
@@ -135,16 +147,26 @@ def main(scripts, dev, glr):
                 Family_Glottocode=fam[1] if fam else None,
                 Family_Name=fam[0] if fam else None,
             )
+        pid, sc = pid_map[row.Parameter_ID]
+        counts.update([(row.Contribution_ID, sc)])
         values.append(dict(
             ID=row.ID,
             Language_ID=lid,
-            Parameter_ID=pid_map[row.Parameter_ID],
+            Parameter_ID=pid,
             Contribution_ID=row.Contribution_ID,
             Value=row.Name,
             Marginal=None if row.Marginal == 'NA' else eval(row.Marginal.lower().capitalize()),  # FALSE|TRUE|NA
             Allophones=row.Allophones.split() if row.Allophones != 'NA' else [],
             Source=src[row.Contribution_ID],
         ))
+    for key, count in counts.items():
+        inventories[key[0]]['count_{0}s'.format(key[1])] = count
+        inventories[key[0]]['count_phonemes'] += count
+
+    for inv in inventories.values():
+        if not with_tones[inv['Contributor_ID']]:
+            assert inv['count_tones'] == 0
+            inv['count_tones'] = 'NA'
 
     ds.write(**{
         'ValueTable': values,

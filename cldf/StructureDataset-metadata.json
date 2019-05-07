@@ -407,6 +407,40 @@
                     {
                         "datatype": "string",
                         "name": "URL"
+                    },
+                    {
+                        "datatype": {
+                            "base": "integer",
+                            "minimum": 0
+                        },
+                        "required": true,
+                        "name": "count_phonemes"
+                    },
+                    {
+                        "datatype": {
+                            "base": "integer",
+                            "minimum": 0
+                        },
+                        "required": true,
+                        "name": "count_consonants"
+                    },
+                    {
+                        "datatype": {
+                            "base": "integer",
+                            "minimum": 0
+                        },
+                        "required": true,
+                        "name": "count_vowels"
+                    },
+                    {
+                        "datatype": {
+                            "base": "integer",
+                            "minimum": 0
+                        },
+                        "null": [
+                            "NA"
+                        ],
+                        "name": "count_tones"
                     }
                 ],
                 "foreignKeys": [
