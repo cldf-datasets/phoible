@@ -7,17 +7,27 @@
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:source": "sources.bib",
+    "prov:wasDerivedFrom": [
+        {
+            "dc:title": "phoible/phoible-dev",
+            "dc:description": "v2014-241-g0ec7201"
+        },
+        {
+            "dc:title": "bambooforest/phoible-scripts",
+            "dc:description": "a2a55d5"
+        },
+        {
+            "dc:title": "clld/glottolog",
+            "dc:description": "v3.3.2"
+        }
+    ],
+    "prov:wasGeneratedBy": {
+        "dc:title": "cldf-datasets/phoible",
+        "dc:description": "v2.0-13-gc964fd5"
+    },
     "dialect": {
         "commentPrefix": null
     },
-    "notes": [
-        {
-            "dc:title": "environment",
-            "properties": {
-                "glottolog_version": "v3.3.2"
-            }
-        }
-    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",

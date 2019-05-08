@@ -29,12 +29,20 @@ def main(scripts, dev, glr):
     glottolog = Glottolog(glr)
 
     ds = StructureDataset.in_dir(cldf_dir)
-    ds.tablegroup.notes.append(OrderedDict([
-        ('dc:title', 'environment'),
-        ('properties', OrderedDict([
-            ('glottolog_version', git_describe(glottolog.repos)),
-        ]))
-    ]))
+
+    def describe_repos(r, org, name=None):
+        return OrderedDict([
+            ('dc:title', '{0}/{1}'.format(org, name or r.name)),
+            ('dc:description', git_describe(r))])
+
+    ds.tablegroup.common_props['prov:wasDerivedFrom'] = [
+        describe_repos(dev, 'phoible'),
+        describe_repos(scripts, 'bambooforest'),
+        describe_repos(glottolog.repos, 'clld'),
+    ]
+    ds.tablegroup.common_props['prov:wasGeneratedBy'] = describe_repos(
+        Path(__file__).parent, 'cldf-datasets', name='phoible')
+
     ds.add_columns(
         'ValueTable',
         {'name': 'Marginal', 'datatype': 'boolean'},
