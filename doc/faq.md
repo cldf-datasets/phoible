@@ -1,9 +1,90 @@
+# Frequently Asked Questions
 
+## Introduction
+
+This FAQ answers questions regarding the editorial principles and design decisions 
+that went into the creation of PHOIBLE. We appreciate and welcome feedback regarding 
+these FAQs via [our issue tracker](https://github.com/phoible/dev/issues) or by 
+contacting the editors directly.
+
+You can get releases of PHOIBLE from [Zenodo](https://doi.org/10.5281/zenodo.2562766)
+or from the [release page](https://github.com/cldf-datasets/phoible/releases).
+While the CLDF data in these releases can easily be read and analyzed by tools like R - or
+even just spreadsheet programs, in the remainder of this FAQ we will make use of the
+fact that each CLDF dataset can be converted to a SQLite database and queried using
+SQL.
+
+To prepare an SQLite database with the PHOIBLE data, you will need 
+- the [pycldf](https://pypi.org/project/pycldf/) Python package 
+- an unzipped download of a PHOIBLE release.
+
+Then you can run the `cldf createdb` command, which was installed with `pycldf`:
+```shell
+cldf createdb PATH/TO/DOWNLOAD/cldf/StructureDataset-metadata.json phoible.sqlite
+```
+Now you can query the database using the [`sqlite3` program](https://sqlite.org/cli.html),
+either interactively, typing SQL queries at the `sqlite> ` prompt, 
+```shell
+$ sqlite3 phoible.sqlite 
+SQLite version 3.31.1 2020-01-27 19:55:54
+Enter ".help" for usage hints.
+sqlite> select count(*) from 'inventories.csv';
+3020
+```
+or by having `sqlite3` read queries stored as SQL text files:
+```shell
+$ echo "select count(*) from 'inventories.csv';" > query.sql
+$ sqlite3 phoible.sqlite < query.sql 
+3020
+```
+You may also use the GUI program [DB Browser for SQLite](https://sqlitebrowser.org/) to follow
+along.
+
+
+## Inventories, language codes, doculects, and sources
+
+<a nanme="how-are-phoible-inventories-created"></a>
+### How are PHOIBLE inventories created?
+
+For the most part, every phonological inventory in PHOIBLE is based on
+one-and-only-one language description (usually a research article, book
+chapter, dissertation, or descriptive grammar). The technical term for
+this in comparative linguistics is “doculect” (from “documented lect”),
+in which [lect](https://en.wikipedia.org/wiki/Variety_(linguistics))
+means a specific form of a language or dialect, i.e. an instance of
+documentation of an instance of linguistic behavior at a particular time
+and place (Cysouw &amp; Good, 2013). A brief explanation and some history of
+why linguists use the term “doculect,” which has gained broad acceptance
+in light of the issues of language identification and the use of
+“language codes,” is given in [this blog post](https://dlc.hypotheses.org/623)
+by Michael Cysouw.
+
+Contributors to PHOIBLE start with a doculect, extract the contrastive
+phonemes and allophones, and (if necessary) adapt the authors’ choice of
+symbols to align with PHOIBLE’s [symbol guidelines](conventions.md). If 
+the authors have
+not provided ISO 639-3 and Glottolog codes, these are determined before
+adding the inventory to PHOIBLE. Each inventory is then given a unique
+numeric ID. Doculects are tracked in PHOIBLE using BibTeX keys.
+
+
+### Why do some phonological inventories combine more than one doculect?
+
+An exception to the “one doculect per inventory” rule arises for inventories that 
+were originally part of a curated phonological database such as UPSID (Maddieson, 1984; 
+Maddieson & Precoda, 1990) or SPA (Crothers, Lorentz, Sherman, & Vihman, 1979). In 
+those collections, inventories were often based on multiple descriptions of linguistic 
+behavior, written by different linguists; those descriptions were believed to be 
+describing the same language, and disagreements between the descriptions were 
+adjudicated by the experts who compiled the collection.
+
+We can quickly see how many of PHOIBLE’s inventories are based on multiple doculects 
+by looking at the mapping table between PHOIBLE inventories and sources:
 ```sql
 select c          as `Number of doculects consulted`,
        count(iid) as `Number of inventories`
 from (
-         -- Count number of consulted sources in the table relating inventos and sources.
+         -- Count number of consulted sources in the table relating inventories and sources.
          select `inventories.csv_cldf_id` as iid,
                 count(`SourceTable_id`)   as c
          from `inventories.csv_SourceTable`
@@ -24,8 +105,19 @@ Number of doculects consulted|Number of inventories
 9|1
 11|1
 
+Running the query in DB Browser's "Execute SQL" pane, will look like this
+
+![DB Browser](sqlitebrowser.png)
+
+Clearly, the majority of inventories in PHOIBLE represent a phonological description 
+from a single doculect. But it seems strange that a single phonological inventory in 
+PHOIBLE could be based on 11 different doculects. Let’s examine it:
 ```sql
-select q.iid, l.cldf_glottocode, l.cldf_iso639p3code, l.cldf_name, s.cldf_id
+select 
+       l.cldf_glottocode    as `Glottocode`, 
+       l.cldf_iso639p3code  as `ISO6393`, 
+       l.cldf_name          as `LanguageName`, 
+       s.cldf_id            as `Source`
 from (select `inventories.csv_cldf_id` as iid, count(`SourceTable_id`) as c
       from `inventories.csv_SourceTable`
       group by `inventories.csv_cldf_id`) as q,
@@ -40,10 +132,42 @@ where c = 11
   and i.Inventory_source_ID = s.cldf_id limit 1;
 ```
 
-iid|cldf_glottocode|cldf_iso639P3code|cldf_name|cldf_id
---- | --- | --- | --- | ---
-351|haus1257|hau|Hausa|UPSID
+Glottocode| ISO6393 | LanguageName | Source
+--- | --- | --- | ---
+haus1257|hau|Hausa|UPSID
 
+As we can see, this inventory represents a description of
+<a href="https://glottolog.org/resource/languoid/id/haus1257">Hausa</a> and was
+added to PHOIBLE from the UPSID database (Maddieson, 1984; Maddieson &amp;
+Precoda, 1990). To understand why this UPSID entry consulted 11
+different sources, consider first that Hausa is typologically
+interesting (e.g., it has both ejective and implosive phonation
+mechanisms) and has tens of millions of speakers, making it relatively
+well-studied (the <a href="https://glottolog.org/">Glottolog</a> reference catalog
+has <a href="https://glottolog.org/resource/languoid/id/haus1257">more than 1400
+references</a> related
+to Hausa).
+
+Second, note that Maddieson’s work on UPSID involved “typologizing”
+phonological inventories from different doculects, so that they were
+comparable across all entries in his database (cf. Hyman, 2008).
+Maddieson’s work was groundbreaking at the time because he was the first
+typologist to generate a stratified language sample aimed at being
+genealogically balanced, i.e.&nbsp;for each language family he chose one
+representative language. This allowed Maddieson to make statements about
+the cross-linguistic distribution of contrastive speech sounds with some
+level of statistical confidence. In fact, much about what we know about
+the distribution of the sounds of the world’s languages is due to
+Maddieson’s original language sample and his meticulous curation of the
+data.
+
+
+### Where do the language codes in PHOIBLE come from?
+
+FIXME: complete!
+
+
+### Missing isocodes
 
 ```sql
 select i.cldf_id, l.cldf_glottocode, l.cldf_iso639p3code, l.cldf_name
