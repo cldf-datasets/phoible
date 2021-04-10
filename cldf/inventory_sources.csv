@@ -1,0 +1,306 @@
+ID,Name,Description,Readme,Contents,Source,URL,with_tones
+AA,Christian Chanard and Rhonda L. Hartell (AA),"The inventories in Alphabets of Africa (AA) come from the work of Christian Chanard's Systèmes alphabétiques des langues africaines, an online database of the work of Alphabets des langues africaines, published in 1993 by the Regional Office in Dakar, Senegal, and edited by Rhonda L. Hartell. AA contains the phoneme inventories and orthographies of 200 languages. Incorrect ISO 639-3 language name identifiers and incorrect Unicode IPA characters were updated before the inventories from the online version were added to PHOIBLE (see Moran 2012, chp 4 for details). Christopher Green verified the inventories' contents and in cases where there were discrepencies between Chanard and Hartell, additional resources were consulted to resolve these issues (ibid.).","# AA
+
+The `AA` source data comes from:
+
+> Chanard, C. (2006). Systèmes alphabétiques des langues africaines. [http://sumale.vjf.cnrs.fr/phono/](http://sumale.vjf.cnrs.fr/phono/).
+
+which is a digitization (with some updates) from the book from Hartell:
+
+> Hartell, R. L. (1993). *Alphabets des langues africaines*. Dakar, SN: UNESCO, Bureau Régional de Dakar.
+
+and was compiled here as part of Moran's PhD thesis:
+
+> Moran, Steven. (2012). Phonetics Information Base and Lexicon. PhD thesis, University of Washington. Online: [https://digital.lib.washington.edu/researchworks/handle/1773/22452](https://digital.lib.washington.edu/researchworks/handle/1773/22452).
+
+The data are available in phoible long format in [AA_inventories.tsv](AA_inventories.tsv). The inventories contain the language name given in the source and their phonemes and tones. We have converted IPA symbols in the raw data in line with the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176). 
+
+Note that the ISO 639-3 codes in the AA source may be out of date with the current ISO 639-3 standard. For more info, see: [https://iso639-3.sil.org/](https://iso639-3.sil.org/).
+
+For up-to-date language codes for each inventory, we maintain a phoible index here:
+[InventoryID-LanguageCodes.csv](../../mappings/InventoryID-LanguageCodes.csv).
+","Phonemes, tones.",Chanard2006;Hartell1993,http://sumale.vjf.cnrs.fr/phono/,1
+GM,Christopher Green and Steven Moran ,Christopher Green and Steven Moran extracted phonological inventories from secondary sources including grammars and phonological descriptions with the goal of attaining pan-Africa coverage.,"# GM
+
+The `GM` folder contains data from African and Southeast Asian languages collected and edited by Christopher Green and Steven Moran. The data contain phonemes, allophones, and tones. The inventory data are available in phoible long format in [gm-afr-inventories.tsv](gm-afr-inventories.tsv) for the African languages and [gm-sea-inventories.tsv](gm-sea-inventories.tsv) for the Southeast Asian languages.
+
+The data adhere to the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176).
+
+We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../data/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details.
+
+Note that the ISO 639-3 codes in the GM source may be out of date with the current ISO 639-3 standard. For more info, see: [https://iso639-3.sil.org/](https://iso639-3.sil.org/).
+
+For up-to-date language codes for each inventory, we maintain a phoible index here:
+[InventoryID-LanguageCodes.csv](../../mappings/InventoryID-LanguageCodes.csv).
+","Phonemes, allophones, tones.",Moran_etal2014,,1
+PH,Steven Moran and Daniel McCloy and Richard Wright.,The PHOIBLE inventories were collected as part of Moran’s (2012) dissertation. They were extracted from secondary sources including grammars and phonological descriptions with the goal of filling gaps in worldwide coverage.,"# PH
+
+The `PH` folder contains data drawn from journal articles, theses, and 
+published grammars, added by members of the Linguistic Phonetics 
+Laboratory at the University of Washington. The contents are described in:
+
+> Moran, Steven. (2012). Phonetics Information Base and Lexicon. PhD thesis, University of Washington. Online: [https://digital.lib.washington.edu/researchworks/handle/1773/22452](https://digital.lib.washington.edu/researchworks/handle/1773/22452).
+
+The inventory data are available in phoible long format in [phoible_inventories.tsv](phoible_inventories.tsv) and contain phonemes, allophones, and tones.
+
+The data adhere to the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176). 
+
+We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../data/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details.
+
+Note that the ISO 639-3 codes in the PH source may be out of date with the current ISO 639-3 standard. For more info, see: [https://iso639-3.sil.org/](https://iso639-3.sil.org/).
+
+For up-to-date language codes for each inventory, we maintain a phoible index here:
+[InventoryID-LanguageCodes.csv](../../mappings/InventoryID-LanguageCodes.csv).
+","Phonemes, allophones, tones.",Moran_etal2014,,1
+RA,"Ramaswami, N.","These inventories come from Common Linguistic Features in Indian Languages: Phoentics, by N. Ramaswami. This source contains 100 languages' phonetic inventories, as compiled from various works on languages of India.","# RA
+
+The `RA` folder contains data from:
+
+> Ramswami, N. 1999. Common Linguistic Features in Indian Languages: Phonetics. Central Institute of Indian Languages. Mysore, India.
+
+and was compiled by the phoible developers. The data are available in phoible wide format in [Ramaswami1999.tsv](Ramaswami1999.tsv) and contain only phonemes, with no information on allophones or linguistic tone.
+
+We have converted IPA symbols in the raw data in line with the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176). We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../data/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details.
+
+Note that the ISO 639-3 codes in the RA source may be out of date with the current ISO 639-3 standard. For more info, see: [https://iso639-3.sil.org/](https://iso639-3.sil.org/).
+
+For up-to-date language codes for each inventory, we maintain a phoible index here:
+[InventoryID-LanguageCodes.csv](../../mappings/InventoryID-LanguageCodes.csv).
+","Phones, tones.",ramaswami1999,,1
+SAPHON,South American Phonological Inventory Database,"The South American Phonological Inventory Database (SAPHON), compiled and edited by Lev Michael, Tammy Stark and Will Chang, is a comprehensive resource describing phoneme inventories from languages spoken in South America. It contains over 300 data points and is available online at: http://linguistics.berkeley.edu/~saphon/.","# SAPHON
+
+The `SAPHON` folder contains the SAPHON data (v. 20121031) and glyph-to-PHOIBLE Unicode IPA mappings from South American Phonological Inventory Database
+
+This source should be cited as:
+
+> Michael, Lev, Tammy Stark, and Will Chang. (2012) South American Phonological Inventory Database. University of California. Online: [http://linguistics.berkeley.edu/~saphon/en/](http://linguistics.berkeley.edu/~saphon/en/).
+
+The data are available in phoible wide format in the [saphon20121031.tsv](saphon20121031.tsv) file and contain only phonemes, with no information on allophones, and a simple boolean indicator for the presence/absence of linguistic tone. **This boolean ""tone/no tone"" information is not incorporated into PHOIBLE.**  The raw data also contains information about where the languages are spoken.
+
+We have converted IPA symbols in the raw data in line with the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176) as specified in the [saphon_ipa_correspondences.tsv](saphon_ipa_correspondences.tsv) correspondences file.
+
+We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../data/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details. 
+
+Note that the ISO 639-3 codes in the SAPHON source may be out of date with the current ISO 639-3 standard. For more info, see: [https://iso639-3.sil.org/](https://iso639-3.sil.org/).
+
+For up-to-date language codes for each inventory, we maintain a phoible index here:
+[InventoryID-LanguageCodes.csv](../../mappings/InventoryID-LanguageCodes.csv).
+",Phonemes. Tone as a binary inventory level value (not incorporated into PHOIBLE).,saphon,http://linguistics.berkeley.edu/~saphon/en/,0
+SPA,Stanford Phonology Archive,"The Stanford Phonology Archive (SPA) was the first computerized database of phonological segment inventories. It was inspired by Joseph Greenberg's research on universals and his personal archive of data from notebooks and his memory (Crothers et al 1979, i-ii). The inventories in PHOIBLE Online come from the Handbook of Phonological Data From a Sample of the World's Languages, compiled and edited by Crothers et al 1979, and kindly provided to the Phonetics Lab (University of Washington) by Marilyn M. Vihman. The inventories in SPA include descriptions of phonemes, allophones and comments on phonological contexts for 197 languages. The inventory descriptions were digitized and each phoneme was mapped from its original written description, e.g. d-pharyngealized, to a Unicode IPA representation. Each inventory was also assigned an ISO 639-3 language name identifer. Details are given in Moran 2012, chp 4, and the SPA-to-Unicode IPA mappings are given in Moran 2012, appendix E.","# SPA
+
+The `SPA` folder contains data from the Stanford Phonology Archive:
+
+> Crothers, J. H., Lorentz, J. P., Sherman, D. A., & Vihman, M. M. (1979). Handbook of phonological data from a sample of the world’s languages: A report of the Stanford Phonology Archive. Palo Alto, CA: Department of Linguistics, Stanford University.
+
+The contents and extraction pipeline for these data are described in (chapter 4):
+
+> Moran, Steven. (2012). Phonetics Information Base and Lexicon. PhD thesis, University of Washington. Online: [https://digital.lib.washington.edu/researchworks/handle/1773/22452](https://digital.lib.washington.edu/researchworks/handle/1773/22452).
+
+The data are available in phoible long format in [SPA_Phones.tsv](SPA_Phones.tsv). The inventories contain the language name given in the source and their phonemes, allophones and tones. The inventories file also contains additional information in the form of footnotes, which are explained in detail in the original source (Crothers et al., 1979)
+
+We have converted IPA symbols in the raw data in line with the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176) as described in the [SPA_IPA_correspondences.tsv](SPA_IPA_correspondences.tsv) file.
+
+We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../data/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details.
+
+Note that the ISO 639-3 codes in the SPA source may be out of date with the current ISO 639-3 standard. For more info, see: [https://iso639-3.sil.org/](https://iso639-3.sil.org/).
+
+For up-to-date language codes for each inventory, we maintain a phoible index here:
+[InventoryID-LanguageCodes.csv](../../mappings/InventoryID-LanguageCodes.csv).
+","Phonemes, allophones, tones.",spa1979,,1
+UPSID,UCLA Phonological Segment Inventory Database,"In the early 1980's, Ian Maddieson developed the UCLA Phonological Segment Inventory Database (UPSID), a computer-accessible database of contrastive segment inventories (Maddieson 1984). The initial sample of 317 languages drew on the work of the Stanford Phonology Archive (Crothers et al 1979), but decisions regarding the phonemic status and phonetic descriptions of some segments do not coincide between the compilers of the two databases and were therefore updated in UPSID (Maddieson 1984, pg 6). Maddieson and Precoda (1990) expanded the sample of languages from 317 to 451; both datasets have been based on a quota sampling technique that aims to include one language from each small language family. UPSID inventories contain no descriptions of tone. The UPSID-451 data used in PHOIBLE Online were extracted from a DOS software package. Each segment description, originally given in an ASCII encoding (e.g. XW9:) was mapped to Unicode IPA and each inventory was assigned an ISO 639-3 language name identifier. For details, see Moran 2012, chp 4; the UPSID-to-Unicode mappings are given in Moran 2012, appendix F.","# UPSID
+
+The `UPSID` folder contains data from the UCLA Phonological Segment 
+Inventory Database:
+
+> Maddieson, I., & Precoda, K. (1990). Updating UPSID. _UCLA Working Papers in Phonetics_, 74, 104–111.
+
+The contents and extraction pipeline for these data are described in (chapter 4):
+
+> Moran, Steven. (2012). Phonetics Information Base and Lexicon. PhD thesis, University of Washington. Online: [https://digital.lib.washington.edu/researchworks/handle/1773/22452](https://digital.lib.washington.edu/researchworks/handle/1773/22452).
+
+The data are available in several files in this directory from the original ASCII dump. These inventories contain only phonemes, with no information on allophones or linguistic tone.
+
+We have converted IPA symbols in the raw data in line with the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176) as described in the [UPSID_IPA_correspondences.tsv](UPSID_IPA_correspondences.tsv) file.
+
+We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../data/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details.
+
+Note that the ISO 639-3 codes in the UPSID source may be out of date with the current ISO 639-3 standard. For more info, see: [https://iso639-3.sil.org/](https://iso639-3.sil.org/).
+
+For up-to-date language codes for each inventory, we maintain a phoible index here:
+[InventoryID-LanguageCodes.csv](../../mappings/InventoryID-LanguageCodes.csv).
+
+Note that [Henning Reetz](http://menzerath.phonetik.uni-frankfurt.de/staff/reetz/reetz.html) has put online a [simple user interface to the UPSID data](http://web.phonetik.uni-frankfurt.de/upsid.html), which can be used for browsing and quick queries.
+
+",Phonemes. No tones reported.,maddieson1984;maddiesonprecoda1990,http://web.phonetik.uni-frankfurt.de/upsid.html,0
+UZ,Steven Moran,"While at the University of Zurich, Steven Moran extracted phonological inventories from secondary sources including grammars and phonological descriptions to fill in genealogical gaps in the existing PHOIBLE language sample.","# UZ
+
+The `UZ` folder contains data drawn from journal articles, theses, and 
+published grammars, added by the phoible developers while at the Department of Comparative Linguistics at the University of Zurich.
+
+The inventory data are available in phoible long format in [UZ_inventories.tsv](UZ_inventories.tsv) and contain phonemes, allophones, and tones. The languages in this sample were selected to improve worldwide coverage of the aggregated phoible data.
+
+The data adhere to the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176).
+
+We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../data/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details.
+
+Note that the ISO 639-3 codes in the UZ source may be out of date with the current ISO 639-3 standard. For more info, see: [https://iso639-3.sil.org/](https://iso639-3.sil.org/).
+
+For up-to-date language codes for each inventory, we maintain a phoible index here:
+[InventoryID-LanguageCodes.csv](../../mappings/InventoryID-LanguageCodes.csv).
+","Phonemes, allophones, tones.",Moran_etal2014,,1
+EA,Dmitry Nikolaev,The database of Eurasian phonological inventories was collected and curated by Dmitry Nikolaev.,"# EA
+
+The `EA` source data comes from The database of Eurasian phonological inventories (beta version), online: [http://eurasianphonology.info/](http://eurasianphonology.info/).
+
+This source is cited as:
+
+> Nikolaev, Dmitry; Andrey Nikulin; and Anton Kukhto. 2015. The database of Eurasian phonological inventories. Available online at [http://eurasianphonology.info/](http://eurasianphonology.info/).
+
+See also:
+
+> Nikolaev, Dmitry. 2018. The Database of Eurasian Phonological Inventories: A research tool for distributional phonological typology. _Linguistics Vanguard_, 4(1). DOI: [DOI: https://doi.org/10.1515/lingvan-2017-0050](DOI: https://doi.org/10.1515/lingvan-2017-0050).
+
+The raw data and source code are available at: [https://github.com/macleginn/eurasian-phonologies](https://github.com/macleginn/eurasian-phonologies).
+
+`EA` contains a fresh take on phonological inventories from Eurasia. The data were extracted from grammatical descriptions of individual language varieties. It contains only phonemes, with no information on allophones or linguistic tone.
+
+The data are available in phoible long format in [EA_inventories.tsv](EA_inventories.tsv). We have converted IPA symbols in the raw data in line with the [phoible conventions](http://phoible.github.io/conventions/) and [Unicode IPA](http://langsci-press.org/catalog/book/176) as specified in the [EA_IPA_correspondences.tsv](EA_IPA_correspondences.tsv) correspondences file. We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../data/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details.
+
+Note that the ISO 639-3 codes in the EA source may be out of date with the current ISO 639-3 standard. For more info, see: [https://iso639-3.sil.org/](https://iso639-3.sil.org/).
+
+For up-to-date language codes for each inventory, we maintain a phoible index here:
+[InventoryID-LanguageCodes.csv](../../mappings/InventoryID-LanguageCodes.csv).
+","Phonemes, tones.",Nikolaev_etal2015,http://eurasianphonology.info/,1
+ER,Erich Round,Comparative analysis of Australian phoneme inventories by Erich Round.,"# COMPARATIVE NOTES ON THE ANALYSIS OF AUSTRALIAN PHONEME INVENTORIES
+
+The `ER` source data comes from [Erich
+Round](https://languages-cultures.uq.edu.au/profile/1160/erich-round) and
+should be cited as:
+
+> Round, Erich R. 2019. Phonemic inventories of Australia (database of 392 languages). In Steven Moran & Daniel McCloy (Eds.), PHOIBLE 2.0. Jena: Max Planck Institute for the Science of Human History.
+
+Notes on the inventories and their compilation from Erich are below. See also:
+
+> Round, Erich. (2019, September 29). Australian phonemic inventories contributed to PHOIBLE 2.0: Essential explanatory notes (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.3464333
+
+The data
+are available in phoible long format in
+[ER_inventories.tsv](ER_inventories.tsv) and contain only phonemes, with no
+information on allophones or linguistic tone. We have also collected for each citation a BibTeX reference, available in the [phoible-references.bib](../../data/phoible-references.bib) file. See the [InventoryID-Bibtex.csv](../../mappings/InventoryID-Bibtex.csv) mapping file for details. For up-to-date language codes for each inventory, we maintain a phoible index here:
+[InventoryID-LanguageCodes.csv](../../mappings/InventoryID-LanguageCodes.csv).
+
+
+## OVERVIEW
+
+Phonemic analysis is a valuable prelude to cross-linguistic comparison.
+Nevertheless, phonemicization is not a deterministic process and linguistic
+practice is not uniform. This has certain consequences for the compilation and
+use of cross-linguistic summary datasets such as this one. The following notes
+are arranged by topic and highlight how these issues have been accommodated in
+the compilation of the Australian dataset.
+
+## LABELS
+
+The labeling of phonemes acts to group phonemes, implicitly or explicitly, into
+classes (e.g. ‘the stops’), yet phonemes may class together differently with
+respect to allophony vs phonological alternations vs phonotactics and even vs
+their history. Consequently, analysts are often forced to choose between
+multiple conceivable classifications, each of which captures only some of the
+facts. When they do so, one analyst’s criteria may differ from those of
+another. As a result, some cross-doculectal variation in phoneme labels may
+reflect more a variation among analysts’ necessary choices between multiple,
+defensible options, than empirical differences among languages. Where this
+appears to be the case, I have in some instances relabelled phonemes relative
+to source documents, to promote cross-linguistic comparability. For example,
+stops in languages with no contrast for voicing or fortition are labelled here
+with plain, voiceless IPA symbols, following widespread phonological practice.
+More cases are noted below.
+
+## SEGMENTATION
+
+The task of dividing words into segments can itself present challenges, since
+in this task phonemic analysis becomes interdependent with the analysis of
+phonotactics. The phonotactics of Australian languages are highly constrained
+(Hamilton 1996), and this has enabled researchers to converge on broadly
+similar criteria for segmentation, enhancing the comparability of
+cross-linguistic data. However, in cases where languages contain unusual
+phonotactic sequences at the phonetic level, the analytical response in terms
+of segmentation and phonemicization has been more varied. By comparing across
+sources, it is possible to discern certain recurrent patterns of analytic
+practice. The next set of topics records attempts to accommodate these issues
+in the Australian dataset. The aim has been to bring to the fore empirical
+variation, over the variability among analytic choices.
+
+## COMPLEX SEGMENTS
+
+Some sources analyse a phonotactically unusual phonetic sequence [X+Y],
+particularly ones which descend historically from *[X] or *[Y], as a complex
+phonemic segment /XY/; others analyse it as a phonemic sequence /X/+/Y/.
+However, no complex segment /XY/ posited for an Australian language is
+contrastive with /X/+/Y/, at least under some, reasonable set of assumptions
+about the rest of the inventory. Consequently, for the purposes of enhanced
+cross-linguistic comparability, all such sequences are treated in the dataset
+as two-segment phonemic sequences, /X/+/Y/. Notes on specific types: (1) A
+minority of Australian languages permit phonetic stop+nasal or stop+lateral
+sequences only at homorganic places of articulation. In original sources these
+are analysed as sequences (e.g. Sommer 1969 on Kunjen) or single complex
+segments (e.g. Breen 1981 on Arandic languages). (2) Almost all Australian
+languages permit phonetic nasal+stop sequences at homorganic places of
+articulation, but word-initially they are rare. In original sources they are
+analysed as sequences (e.g. Dixon 1991 on Mbabaram) or single complex segments
+(e.g. Crowley 1981 on Mpakwithi). (3) Few Australian languages permit phonetic
+stop+liquid sequences. The sequence [tr] in particular is sometimes analysed in
+original sources as a single complex segment (e.g. Hale 1997 on Linngithigh).
+(4) In Australian languages [w] often colors neighboring vowels; furthermore,
+most Australian languages permit [C+w] phonetic sequences, and these may be
+temporally coarticulated (e.g. Round 2009:65 on Kayardild). In some languages,
+these facts are analysed with phonemic /C/+/w/ sequences (e.g. Round 2009), but
+occasionally with complex, labialized consonants (Dixon 1991 on Mbabaram). (5)
+Harvey (2011) presents arguments for analysing ‘pre-palatalized’ complex
+segments in Arandic languages as /j/+/C/.
+
+## CORONAL PLACES OF ARTICULATION
+
+All Australian languages contrast either one or two ‘apical’ places of
+articulation, where the primary constriction is formed with the tongue tip; and
+either one or two ‘laminal’ places of articulation, with constriction formed by
+the tongue blade. In this dataset, laminals are labelled either as dental (with
+the IPA bridge diacritic) or pre-palatal (with IPA curl). Apicals are plain
+/t/, /n/ etc. for apical alveolars, IPA retroflex for retroflexes, and for
+languages with no alveolar–retroflex contrast, the single apical place is
+explicitly labelled as apical (with the IPA inverted bridge diacritic).
+
+## STOP SERIES
+
+Some Australian languages contrast two series of stops, typically matched at
+all superlaryngeal places of articulation, and sources may phonemicize them in
+a number of ways. For the purposes of enhanced cross-linguistic comparability,
+this dataset follows Butcher (2004, 2012) and phonemicizes them as fortis and
+lenis, with no voicing contrast.
+
+## TAPS, FLAPS AND LENIS APICAL STOPS
+
+Some Australian languages have an extra, voiced lenis, stop-like or
+tap/flap-like phoneme solely at the apical place(s) of articulation. Sources
+may phonemicize these as voiced/lenis stops or as taps/flaps (see Breen 1997
+for discussion). For cross-linguistic comparability, they are phonemicized here
+as tap/flaps.
+
+**editor's note:** The retroflex lateral flap that was originally represented
+as `ɺ̢` (`027A+0322`, the alveolar lateral flap + retroflex hook) in Dr.
+Round's data has been changed by the PHOIBLE editors to be represented as `ɺ̠̺`
+(`027A+0320+033A`, the alveolar lateral flap with retraction and apical
+diacritics).
+
+## VOWEL LENGTH
+
+Most sources phonemicize long vowels as a single long vowel segment. Some
+phonemicize them as two, adjacent short vowels (e.g. McDonald & Wurm 1979:5 for
+Wangkumara [a:]). The phonemicization here is as the single, long segment.
+
+## GLOTTAL STOP
+
+Some sources analyse the unpredictable presence/absence of a glottal stop as a
+prosodic feature (e.g. Waters 1980 for Djinang) and others as a phonemic
+segment. The representation here is as a phonemic segment.
+",Phonemes.,Round2019,,1
