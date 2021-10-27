@@ -6,32 +6,51 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:description": "PHOIBLE's phoneme inventories are modeled as follows:\n- Phonemes are rows in `ParameterTable`\n- Inventories are rows in `inventories.csv`\n- Each row in `ValueTable` marks a Phoneme as member of an inventory\n",
+    "dc:identifier": "https://phoible.org/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
+    "dc:title": "PHOIBLE",
+    "dcat:accessURL": "https://github.com/cldf-datasets/phoible",
     "prov:wasDerivedFrom": [
         {
-            "dc:title": "phoible/phoible-dev",
-            "dc:description": "v2014-241-g0ec7201"
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/phoible/dev",
+            "dc:created": "v2.0-54-g435f657"
         },
         {
-            "dc:title": "bambooforest/phoible-scripts",
-            "dc:description": "a2a55d5"
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/cldf-datasets/phoible",
+            "dc:created": "v2.0.1-1-g7cde4cb"
         },
         {
-            "dc:title": "clld/glottolog",
-            "dc:description": "v3.3.2"
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.3"
         }
     ],
-    "prov:wasGeneratedBy": {
-        "dc:title": "cldf-datasets/phoible",
-        "dc:description": "v2.0-13-gc964fd5"
-    },
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.8.5"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
+    "rdf:ID": "phoible",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 105466,
+            "dc:extent": 105459,
             "tableSchema": {
                 "columns": [
                     {
@@ -67,34 +86,27 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#codeReference",
-                        "required": false,
-                        "name": "Code_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
-                        "required": false,
-                        "name": "Comment"
-                    },
-                    {
-                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
                         "required": false,
                         "separator": ";",
                         "name": "Source"
                     },
                     {
-                        "datatype": "boolean",
+                        "dc:description": "Marginal phonemes are those that are notably different phonologically from the majority of segments found in a particular language. For example, loanwords containing non-native sounds can introduce marginal phonemes into the borrowing language. Any type of phoneme described as \u201cmarginal\u201d, \u201cdubious\u201d or \u201coccurs only in loan words\u201d is included in the database alongside other phonemes, but is marked with a boolean 'True' value. Ordinary phonemes typically have the value 'False', although for data sources that explicitly exclude marginal phonemes, the value is NULL, i.e. ''.",
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "True|False"
+                        },
                         "name": "Marginal"
                     },
                     {
+                        "dc:description": "If a phonological description includes some information about allophonic alternations, it is assumed that phonemes with no allophones mentioned do not exhibit \u201cmajor\u201d allophonic variation (in the judgment of the original author(s) of the language description). For such phonemes, the sole allophone is treated as identical with the phonemic representation. In phonological descriptions where *no* information about allophonic alternations was given about *any* of the phonemes, the description is considered incomplete with regard to allophonic information, and all phonemes of that inventory are given an empty value for their allophones.",
                         "separator": " ",
                         "name": "Allophones"
                     },
                     {
                         "datatype": "string",
-                        "name": "Contribution_ID"
+                        "name": "Inventory_ID"
                     }
                 ],
                 "foreignKeys": [
@@ -119,6 +131,17 @@
                                 "ID"
                             ]
                         }
+                    },
+                    {
+                        "columnReference": [
+                            "Inventory_ID"
+                        ],
+                        "reference": {
+                            "resource": "inventories.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     }
                 ],
                 "primaryKey": [
@@ -129,7 +152,8 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 3183,
+            "dc:description": "PHOIBLE includes distinctive feature data for every phoneme in every inventory. The feature system was created by the PHOIBLE developers to be descriptively adequate cross-linguistically. In other words, if two phonemes differ in their graphemic representation, then they should necessarily differ in their featural representation as well (regardless of whether those two phonemes coexist in any known doculect). The feature system is loosely based on the feature system in Hayes (2009) with some additions drawn from Moisik & Esling (2011).",
+            "dc:extent": 3164,
             "tableSchema": {
                 "columns": [
                     {
@@ -158,151 +182,262 @@
                         "name": "SegmentClass"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "0|\\+|N"
+                        },
                         "name": "tone"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\-|0|N"
+                        },
                         "name": "stress"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\+,\\-|\\+,\\-|\\-,\\+,\\+|0|\\-,\\+,\\-|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "syllabic"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "0|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "short"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-|0|\\-,\\-,\\+|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "long"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\+,\\-|\\+,\\-|0|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "consonantal"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-,\\-|\\+,\\-|0|\\+,\\-,\\+,\\-|\\-,\\+,\\-|N|\\+,\\-,\\+|\\-|\\-,\\+|\\+|0,\\+,\\-"
+                        },
                         "name": "sonorant"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-|\\-,\\+,\\+|0|0,\\-,\\+|\\-,\\-,\\+|N|\\-|\\-,\\+|\\+|0,0,\\-,\\+"
+                        },
                         "name": "continuant"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\-,\\+,\\+|\\+,\\-|0|0,\\-,\\+|\\-,\\-,\\+|N|\\-|\\-,\\+|\\+|0,0,\\-,\\+"
+                        },
                         "name": "delayedRelease"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-|0|\\-,\\-,\\+|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "approximant"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "0|\\-,\\-,\\+|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "tap"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-|0|\\-,\\-,\\+|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "trill"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-,\\-|\\+,\\-|0|\\+,\\-,\\+,\\-|\\-,\\+,\\-|N|\\-|\\-,\\+|\\+|0,\\+,\\-"
+                        },
                         "name": "nasal"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-|0|0,\\-,\\+|\\-,\\-,\\+|\\-,\\+,\\-|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "lateral"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-,\\-|\\+,\\+,\\-|\\+,\\-|\\-,\\+,\\+|0|\\-,\\-,\\+|\\-,\\-,\\+,\\+|\\-,\\+,\\-|N|\\+,\\-,\\+|\\-|\\-,\\+|\\+|0,\\+,\\-|0,\\+,\\-,\\-"
+                        },
                         "name": "labial"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-|0|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "round"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-|0|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "labiodental"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-|0|0,\\-,\\+|\\-,\\-,\\+|\\-,\\+,\\-|N|\\+,\\-,\\+|\\-|\\-,\\+|\\+"
+                        },
                         "name": "coronal"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-|0|\\-,\\-,\\+|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "anterior"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "0,0,\\-,\\+|\\+,\\-|0|0,\\-,\\+|\\-,\\-,\\+|N|\\+,\\-,\\+|\\-|\\-,\\+|\\+|0,\\+,\\-"
+                        },
                         "name": "distributed"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-|0|0,\\-,\\+|\\-,\\-,\\+|\\-,\\+,\\-|N|\\-|\\-,\\+|\\+|0,0,\\-,\\+"
+                        },
                         "name": "strident"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-,\\-|\\+,\\+,\\-|0,0,\\-,\\+|\\+,\\-|0|0,\\-,\\+|\\-,\\-,\\+|\\+,\\+,\\-,\\-|\\-,\\+,\\-|N|\\+,\\-,\\+|\\-|\\-,\\+|\\+|0,\\+,\\-"
+                        },
                         "name": "dorsal"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-,0|\\+,\\+,\\-|\\+,\\-|\\-,\\+,\\+|0|\\-,\\-,\\+|\\-,\\+,\\-|N|\\+,\\-,\\+|\\-|\\-,\\+|\\+"
+                        },
                         "name": "high"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-,\\-|\\+,\\-|0|\\-,\\-,\\+|\\-,\\+,\\-|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "low"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-,\\-|\\+,\\+,\\-|\\+,\\-|\\-,\\+,\\+|0|\\-,\\-,\\+|\\-,\\+,\\-|N|\\+,\\-,\\+|\\-|\\-,\\+|\\+"
+                        },
                         "name": "front"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-,\\-|\\+,\\+,\\-|\\+,\\-|\\-,\\+,\\+|0|\\-,\\-,\\+|\\-,\\+,\\-|N|\\+,\\-,\\+|\\-|\\-,\\+|\\+"
+                        },
                         "name": "back"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-,\\-|\\+,\\+,\\-|\\+,\\-|0|N|\\+,\\-,\\+|\\-|\\-,\\+|\\+"
+                        },
                         "name": "tense"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-|0|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "retractedTongueRoot"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\-|0|\\+|N"
+                        },
                         "name": "advancedTongueRoot"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-,\\-|\\+,\\+,\\-|\\+,\\-|0|\\-,\\+,\\-|N|\\+,\\-,\\+|\\-|\\-,\\+|\\+"
+                        },
                         "name": "periodicGlottalSource"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\-|0|\\+|N"
+                        },
                         "name": "epilaryngealSource"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-,\\-|\\+,\\-|0|\\+,0,\\-|\\-,\\-,\\+|\\+,0,\\-,\\-|N|\\+,\\-,\\+|\\-|\\-,\\+|\\+"
+                        },
                         "name": "spreadGlottis"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-,\\-|\\+,\\-|0|\\-,\\-,\\+|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "constrictedGlottis"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\-|0|\\+|N"
+                        },
                         "name": "fortis"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-,\\-|\\+,\\-|0|\\-,\\-,\\+|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "raisedLarynxEjective"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "\\+,\\-|0|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "loweredLarynxImplosive"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "0|0,\\-,\\+|\\-,\\-,\\+|\\-,\\+,\\-|N|\\-|\\-,\\+|\\+"
+                        },
                         "name": "click"
                     }
                 ],
@@ -314,7 +449,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 2186,
+            "dc:extent": 2177,
             "tableSchema": {
                 "columns": [
                     {
@@ -378,11 +513,11 @@
                         "name": "ISO639P3code"
                     },
                     {
-                        "datatype": "string",
+                        "dc:description": "Glottocode of the top-level family this variety belongs to.",
                         "name": "Family_Glottocode"
                     },
                     {
-                        "datatype": "string",
+                        "dc:description": "Name of the top-level family this variety belongs to.",
                         "name": "Family_Name"
                     }
                 ],
@@ -394,20 +529,21 @@
         },
         {
             "dc:conformsTo": null,
+            "dc:description": "This table lists the phoneme inventories which are aggregated in PHOIBLE",
             "dc:extent": 3020,
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },
                     {
-                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
                         "name": "Name"
                     },
                     {
                         "datatype": "string",
-                        "name": "Contributor_ID"
+                        "name": "Inventory_source_ID"
                     },
                     {
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
@@ -456,10 +592,10 @@
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Contributor_ID"
+                            "Inventory_source_ID"
                         ],
                         "reference": {
-                            "resource": "contributors.csv",
+                            "resource": "inventory_sources.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -470,7 +606,7 @@
                     "ID"
                 ]
             },
-            "url": "contributions.csv"
+            "url": "inventories.csv"
         },
         {
             "dc:conformsTo": null,
@@ -478,15 +614,15 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },
                     {
-                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
                         "name": "Name"
                     },
                     {
-                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "name": "Description"
                     },
                     {
@@ -494,7 +630,7 @@
                         "name": "Readme"
                     },
                     {
-                        "datatype": "string",
+                        "dc:description": "Semi-structured description of the contents of inventories fromthis contribution",
                         "name": "Contents"
                     },
                     {
@@ -507,6 +643,7 @@
                         "name": "URL"
                     },
                     {
+                        "dc:description": "1 if the inventories from this source containtones, 0 if tone is systematically left out.",
                         "datatype": {
                             "base": "boolean",
                             "format": "1|0"
@@ -518,7 +655,7 @@
                     "ID"
                 ]
             },
-            "url": "contributors.csv"
+            "url": "inventory_sources.csv"
         }
     ]
 }
