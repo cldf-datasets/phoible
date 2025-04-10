@@ -1,7 +1,5 @@
 # The PHOIBLE Database as CLDF StructureDataset
 
-[![Build Status](https://travis-ci.org/cldf-datasets/phoible.svg?branch=master)](https://travis-ci.org/cldf-datasets/phoible)
-
 This dataset provides the data of PHOIBLE, which is curated at
 [phoible/dev](https://github.com/phoible/dev)
 as [CLDF StructureDataset](cldf/). This CLDF data is
